@@ -1,0 +1,1953 @@
+com.kyant.backdrop.backdrops.CanvasBackdropKt
+com.kyant.backdrop.BackdropEffectScope
+androidx.compose.ui.focus.FocusChangedElement
+androidx.compose.ui.input.pointer.StylusHoverIconModifierElement
+androidx.annotation.Keep
+com.kyant.shapes.UnevenRoundedRectangle$WhenMappings
+androidx.graphics.path.PathIterator
+com.kyant.backdrop.Backdrop$DefaultImpls
+androidx.compose.ui.graphics.BlockGraphicsLayerElement
+android.support.v4.graphics.drawable.IconCompatParcelizer
+androidx.compose.foundation.layout.SizeElement
+androidx.core.graphics.drawable.IconCompat
+androidx.compose.foundation.text.contextmenu.modifier.TextContextMenuGestureElement
+androidx.compose.foundation.text.modifiers.TextStringSimpleElement
+androidx.compose.foundation.relocation.BringIntoViewRequesterElement
+androidx.compose.foundation.text.input.internal.CoreTextFieldSemanticsModifier
+androidx.compose.foundation.layout.WrapContentElement
+com.kyant.shapes.Rectangle
+androidx.compose.ui.focus.FocusOwnerImpl$modifier$1
+androidx.compose.foundation.text.contextmenu.modifier.TextContextMenuToolbarHandlerElement
+androidx.compose.ui.draw.DrawWithCacheElement
+com.kyant.backdrop.shadow.InnerShadow$Companion
+com.kyant.shapes.CopyKt
+androidx.graphics.path.PathIteratorImpl$WhenMappings
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1
+com.kyant.backdrop.shadow.InnerShadow
+androidx.lifecycle.ReportFragment$LifecycleCallbacks
+com.kyant.backdrop.shadow.InnerShadowKt
+com.kyant.shapes.CopyRoundedRectangle
+com.apple.dock.OverlayService
+androidx.compose.foundation.layout.FillElement
+androidx.compose.foundation.IndicationModifierElement
+com.kyant.shapes.RoundedRectangularShape$DefaultImpls
+com.kyant.backdrop.backdrops.Backdrop
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder
+androidx.compose.foundation.layout.HorizontalAlignElement
+androidx.compose.foundation.layout.BoxChildDataElement
+androidx.window.area.reflectionguard.ExtensionWindowAreaPresentationRequirements
+com.kyant.shapes.RoundedRectangularShape
+com.kyant.shapes.RectangleCornerRadii
+com.kyant.backdrop.ShapeProvider$shape$1
+androidx.startup.InitializationProvider
+androidx.compose.foundation.layout.OffsetElement
+com.kyant.backdrop.backdrops.Combined3Backdrops
+com.kyant.backdrop.ShadersKt
+com.kyant.shapes.RoundedRectangleOutlineKt
+androidx.graphics.path.PathIterator$ConicEvaluation
+androidx.profileinstaller.ProfileInstallerInitializer
+androidx.compose.foundation.layout.IntrinsicWidthElement
+com.kyant.backdrop.shadow.InnerShadowModifierKt
+com.kyant.backdrop.shadow.ShadowElement
+com.kyant.backdrop.highlight.HighlightStyle$Companion
+androidx.compose.foundation.gestures.DraggableElement
+com.kyant.backdrop.BackdropEffectScopeImpl
+androidx.compose.foundation.ScrollableAreaElement
+com.kyant.backdrop.backdrops.CombinedBackdropKt
+androidx.compose.foundation.text.input.internal.LegacyAdaptingPlatformTextInputModifier
+com.kyant.backdrop.highlight.HighlightStyle$Plain
+androidx.graphics.path.PathSegmentUtilities
+androidx.versionedparcelable.ParcelImpl
+androidx.window.reflection.Consumer2
+androidx.compose.ui.graphics.GraphicsLayerElement
+androidx.compose.material3.MinimumInteractiveModifier
+com.kyant.backdrop.InverseLayerScope
+androidx.emoji2.text.EmojiCompatInitializer
+com.kyant.shapes.RoundedCornerStyle
+androidx.compose.ui.focus.FocusRequesterElement
+androidx.compose.foundation.text.modifiers.TextAnnotatedStringElement
+com.kyant.shapes.RoundedRectangle
+com.kyant.backdrop.shadow.Shadow
+com.kyant.backdrop.effects.RenderEffectKt
+androidx.lifecycle.ReportFragment
+com.kyant.backdrop.R
+androidx.compose.ui.platform.LifecycleRetainedValuesStoreOwner
+com.kyant.backdrop.ShapeProvider
+com.kyant.backdrop.shadow.ShadowModifierKt
+androidx.core.app.RemoteActionCompat
+androidx.compose.ui.input.pointer.PointerInputEventHandler
+androidx.compose.ui.layout.LayoutElement
+com.kyant.backdrop.shadow.ShadowNode
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements
+androidx.compose.ui.draganddrop.AndroidDragAndDropManager$modifier$1
+androidx.compose.ui.draw.DrawBehindElement
+androidx.compose.ui.semantics.AppendedSemanticsElement
+com.kyant.backdrop.highlight.Highlight$Companion
+androidx.compose.foundation.BackgroundElement
+com.kyant.shapes.UnevenRoundedRectangle
+com.kyant.backdrop.highlight.HighlightStyleKt
+androidx.lifecycle.SavedStateHandlesVM
+com.kyant.backdrop.highlight.HighlightStyle$Default
+androidx.compose.foundation.layout.UnspecifiedConstraintsElement
+com.kyant.backdrop.DrawBackdropElement
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback
+com.kyant.backdrop.RuntimeShaderCacheImpl
+com.kyant.shapes.Capsule
+androidx.compose.foundation.layout.SystemInsetsPaddingModifierElement
+androidx.graphics.path.PathSegment
+androidx.compose.ui.input.pointer.PointerHoverIconModifierElement
+com.kyant.backdrop.highlight.HighlightStyle$Ambient
+androidx.compose.foundation.text.modifiers.SelectableTextAnnotatedStringElement
+com.kyant.backdrop.highlight.Highlight
+androidx.compose.ui.layout.OnGloballyPositionedElement
+androidx.core.graphics.drawable.IconCompatParcelizer
+com.kyant.shapes.RoundedRectangularShape$Corners
+androidx.graphics.path.R
+androidx.compose.foundation.text.handwriting.StylusHandwritingElement
+androidx.compose.foundation.text.contextmenu.modifier.AddTextContextMenuDataComponentsWithContextElement
+androidx.graphics.path.PathSegment$Type
+androidx.compose.foundation.ScrollingLayoutElement
+androidx.graphics.path.PathIteratorImpl$Companion
+com.kyant.backdrop.Backdrop
+androidx.compose.ui.draw.ShadowGraphicsLayerElement
+androidx.graphics.path.PathIteratorPreApi34Impl
+androidx.compose.foundation.layout.PaddingValuesElement
+com.kyant.shapes.RectangleCornerRadiiKt
+kotlinx.coroutines.internal.StackTraceRecoveryKt
+androidx.compose.ui.layout.LayoutIdElement
+com.kyant.backdrop.LayerRecorderKt
+androidx.graphics.path.PathIteratorImplKt
+androidx.window.reflection.JFunction2
+com.kyant.shapes.LerpRoundedRectangle
+kotlinx.coroutines.android.AndroidDispatcherFactory
+androidx.graphics.path.PathIteratorImpl
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder$Companion
+androidx.lifecycle.LegacySavedStateHandleController$OnRecreation
+androidx.graphics.path.PathIteratorApi34Impl
+androidx.compose.foundation.HoverableElement
+com.kyant.backdrop.effects.LensKt
+com.kyant.backdrop.DrawBackdropNode
+com.kyant.backdrop.shadow.Shadow$Companion
+androidx.core.app.RemoteActionCompatParcelizer
+com.kyant.backdrop.backdrops.LayerBackdropElement
+com.kyant.backdrop.RuntimeShaderCache
+androidx.compose.ui.input.key.KeyInputElement
+com.kyant.backdrop.highlight.HighlightNode
+com.kyant.backdrop.backdrops.EmptyBackdrop
+androidx.core.app.CoreComponentFactory
+com.kyant.backdrop.shadow.InnerShadowNode
+androidx.compose.foundation.layout.LayoutWeightElement
+androidx.compose.foundation.BorderModifierNodeElement
+androidx.compose.foundation.layout.PaddingElement
+com.kyant.backdrop.backdrops.BackdropKt
+android.support.v4.app.RemoteActionCompatParcelizer
+com.kyant.shapes.CopyRoundedRectangle$WhenMappings
+kotlin.coroutines.jvm.internal.BaseContinuationImpl
+androidx.compose.ui.draw.PainterElement
+androidx.window.area.reflectionguard.ExtensionWindowAreaStatusRequirements
+androidx.compose.foundation.ClickableElement
+androidx.compose.ui.input.pointer.SuspendPointerInputElement
+com.kyant.backdrop.effects.ColorFilterKt
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilderKt
+androidx.profileinstaller.ProfileInstallReceiver
+com.kyant.backdrop.DrawBackdropNode$effectScope$1
+com.kyant.backdrop.effects.BlurKt
+com.kyant.shapes.LerpKt
+androidx.lifecycle.ProcessLifecycleOwner$attach$1
+androidx.compose.foundation.MagnifierElement
+com.kyant.backdrop.backdrops.LayerBackdropKt
+androidx.compose.ui.platform.AndroidComposeView$root$1$1
+androidx.graphics.path.ConicConverter
+com.kyant.backdrop.highlight.HighlightStyle
+androidx.lifecycle.ProcessLifecycleInitializer
+com.kyant.backdrop.backdrops.LayerBackdropNode
+com.kyant.backdrop.DrawBackdropModifierKt
+com.apple.dock.MainActivity
+androidx.compose.foundation.gestures.ScrollableElement
+androidx.graphics.path.PathUtilities
+androidx.compose.ui.layout.OnSizeChangedModifier
+com.kyant.shapes.R
+com.kyant.backdrop.highlight.HighlightElement
+com.kyant.backdrop.backdrops.Combined2Backdrops
+com.kyant.backdrop.backdrops.CombinedBackdrops
+com.kyant.backdrop.backdrops.CanvasBackdrop
+androidx.window.reflection.Predicate2
+com.kyant.backdrop.shadow.InnerShadowElement
+com.kyant.backdrop.backdrops.EmptyBackdropKt
+com.kyant.backdrop.backdrops.LayerBackdropModifierKt
+androidx.compose.ui.draw.DrawWithContentElement
+com.kyant.backdrop.backdrops.LayerBackdrop
+com.kyant.backdrop.BackdropEffectScope$DefaultImpls
+androidx.versionedparcelable.CustomVersionedParcelable
+androidx.compose.foundation.FocusableElement
+com.kyant.backdrop.OutlineKt
+com.kyant.backdrop.backdrops.LayerBackdrop: androidx.compose.runtime.MutableState layerCoordinates$delegate
+kotlinx.coroutines.EventLoopImplBase$DelayedTask: java.lang.Object _heap
+com.kyant.backdrop.highlight.HighlightStyle$Plain: long color
+com.kyant.backdrop.InverseLayerScope: int compositingStrategy
+androidx.graphics.path.PathSegment: float weight
+androidx.graphics.path.PathSegment$Type: androidx.graphics.path.PathSegment$Type Move
+com.kyant.backdrop.BackdropEffectScopeImpl: long size
+androidx.graphics.path.PathSegmentUtilities: androidx.graphics.path.PathSegment CloseSegment
+com.kyant.backdrop.highlight.Highlight: com.kyant.backdrop.highlight.Highlight Default
+androidx.compose.ui.Modifier$Node: boolean onDetachRunExpected
+com.kyant.backdrop.backdrops.CanvasBackdrop: boolean isCoordinatesDependent
+kotlinx.coroutines.channels.BufferedChannel: long sendersAndCloseStatus$volatile
+com.kyant.backdrop.shadow.InnerShadow: int blendMode
+com.kyant.backdrop.DrawBackdropNode: kotlin.jvm.functions.Function1 layerBlock
+com.kyant.backdrop.highlight.HighlightStyle$Default: float angle
+kotlinx.coroutines.internal.Segment: int cleanedAndPointers$volatile
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: androidx.lifecycle.ReportFragment$LifecycleCallbacks$Companion Companion
+com.kyant.backdrop.shadow.InnerShadow: com.kyant.backdrop.shadow.InnerShadow Default
+com.kyant.backdrop.shadow.InnerShadow: float radius
+androidx.compose.ui.Modifier$Node: boolean isAttached
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: int $stable
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilderKt: double FRAC_1_SQRT_2
+com.kyant.backdrop.InverseLayerScope: int $stable
+kotlinx.coroutines.scheduling.WorkQueue: int consumerIndex$volatile
+kotlinx.coroutines.scheduling.WorkQueue: int producerIndex$volatile
+com.kyant.backdrop.ShapeProvider: int $stable
+kotlinx.coroutines.internal.ConcurrentLinkedListNode: java.lang.Object _next$volatile
+com.kyant.backdrop.backdrops.EmptyBackdrop: com.kyant.backdrop.backdrops.EmptyBackdrop INSTANCE
+androidx.compose.ui.Modifier$Node: androidx.compose.ui.Modifier$Node node
+com.kyant.backdrop.BackdropEffectScopeImpl: android.graphics.RenderEffect renderEffect
+com.kyant.shapes.CopyRoundedRectangle: com.kyant.shapes.RoundedRectangularShape shape
+com.kyant.backdrop.shadow.InnerShadowNode: androidx.compose.ui.graphics.Path clipPath
+com.kyant.shapes.RoundedCornerStyle: com.kyant.shapes.RoundedCornerStyle Continuous
+kotlinx.coroutines.channels.BufferedChannel: long bufferEnd$volatile
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: java.lang.Object tail$volatile
+com.kyant.backdrop.backdrops.Backdrop: kotlin.jvm.functions.Function2 onDraw
+com.kyant.backdrop.DrawBackdropElement: kotlin.jvm.functions.Function1 layerBlock
+kotlinx.coroutines.channels.BufferedChannel: long completedExpandBuffersAndPauseFlag$volatile
+com.kyant.backdrop.backdrops.Combined3Backdrops: com.kyant.backdrop.Backdrop backdrop2
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_CREATE
+com.kyant.shapes.Rectangle: com.kyant.shapes.Rectangle INSTANCE
+com.kyant.backdrop.shadow.ShadowNode: kotlin.jvm.functions.Function0 shadow
+com.kyant.backdrop.shadow.InnerShadowNode: float prevRadius
+com.kyant.backdrop.highlight.HighlightNode: int $stable
+com.kyant.backdrop.ShapeProvider$shape$1: com.kyant.backdrop.ShapeProvider this$0
+kotlinx.coroutines.internal.LockFreeTaskQueue: java.lang.Object _cur$volatile
+kotlinx.coroutines.DefaultExecutor: java.lang.Thread _thread
+com.kyant.backdrop.shadow.InnerShadowNode: androidx.compose.ui.graphics.layer.GraphicsLayer shadowLayer
+com.kyant.backdrop.ShapeProvider: java.lang.Float _density
+com.kyant.shapes.LerpRoundedRectangle: com.kyant.shapes.RoundedRectangularShape start
+com.kyant.backdrop.ShapeProvider: androidx.compose.ui.graphics.Outline _outline
+androidx.compose.ui.Modifier$Node: androidx.compose.ui.node.NodeCoordinator coordinator
+com.kyant.backdrop.backdrops.Backdrop: boolean isCoordinatesDependent
+androidx.graphics.path.PathSegment: androidx.graphics.path.PathSegment$Type type
+com.kyant.backdrop.highlight.HighlightNode: androidx.compose.ui.graphics.Paint paint
+com.kyant.backdrop.backdrops.EmptyBackdrop: boolean isCoordinatesDependent
+com.kyant.backdrop.DrawBackdropElement: kotlin.jvm.functions.Function1 onDrawBehind
+com.kyant.backdrop.backdrops.Combined3Backdrops: com.kyant.backdrop.Backdrop backdrop3
+com.kyant.backdrop.DrawBackdropNode: kotlin.jvm.functions.Function1 onDrawBehind
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: double[][][] cache
+androidx.graphics.path.PathSegment: android.graphics.PointF[] points
+androidx.compose.ui.node.ModifierNodeElement: int $stable
+com.kyant.backdrop.highlight.HighlightStyle$Ambient: int blendMode
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: double k1
+com.kyant.shapes.UnevenRoundedRectangle: com.kyant.shapes.RoundedCornerStyle style
+kotlinx.coroutines.scheduling.CoroutineScheduler: long parkedWorkersStack$volatile
+com.kyant.backdrop.shadow.InnerShadowNode: int $stable
+com.kyant.backdrop.DrawBackdropModifierKt: kotlin.jvm.functions.Function0 DefaultShadow
+com.kyant.backdrop.InverseLayerScope: float rotationX
+androidx.graphics.path.PathSegment$Type: androidx.graphics.path.PathSegment$Type Done
+androidx.graphics.path.PathSegmentUtilities: androidx.graphics.path.PathSegment DoneSegment
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int workerCtl$volatile
+com.kyant.backdrop.DrawBackdropNode: com.kyant.backdrop.ShapeProvider shapeProvider
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _removedRef$volatile
+com.kyant.backdrop.BackdropEffectScopeImpl: com.kyant.backdrop.RuntimeShaderCacheImpl runtimeShaderCache
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: double cos3
+kotlinx.coroutines.InvokeOnCancelling: int _invoked$volatile
+com.kyant.shapes.RectangleCornerRadii: float bottomStart
+kotlinx.coroutines.CancellableContinuationImpl: int _decisionAndIndex$volatile
+androidx.graphics.path.PathSegment$Type: androidx.graphics.path.PathSegment$Type Close
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilderKt: double SQRT_2
+kotlinx.coroutines.JobSupport: java.lang.Object _parentHandle$volatile
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: double extendedFraction
+kotlinx.coroutines.channels.BufferedChannel: long receivers$volatile
+com.kyant.backdrop.InverseLayerScope: float cameraDistance
+com.kyant.backdrop.backdrops.LayerBackdrop: com.kyant.backdrop.InverseLayerScope inverseLayerScope
+com.kyant.backdrop.shadow.ShadowElement: int $stable
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: java.lang.Object nextParkedWorker
+com.kyant.backdrop.DrawBackdropNode: kotlin.jvm.functions.Function2 onDrawBackdrop
+com.kyant.backdrop.backdrops.Backdrop: com.kyant.backdrop.Backdrop backdrop
+com.kyant.backdrop.backdrops.LayerBackdropNode: com.kyant.backdrop.backdrops.LayerBackdrop backdrop
+com.kyant.backdrop.BackdropEffectScopeImpl: float fontScale
+kotlinx.coroutines.scheduling.CoroutineScheduler: int _isTerminated$volatile
+com.kyant.backdrop.BackdropEffectScopeImpl: float padding
+com.kyant.backdrop.highlight.Highlight: float alpha
+com.kyant.shapes.Capsule: int $stable
+com.kyant.backdrop.DrawBackdropNode: kotlin.jvm.functions.Function1 layoutLayerBlock
+com.kyant.backdrop.InverseLayerScope: long spotShadowColor
+com.kyant.shapes.CopyRoundedRectangle: com.kyant.shapes.RoundedCornerStyle style
+com.kyant.backdrop.highlight.HighlightNode: com.kyant.backdrop.highlight.HighlightStyle prevStyle
+com.kyant.backdrop.InverseLayerScope: float rotationZ
+com.kyant.backdrop.highlight.HighlightNode: kotlin.jvm.functions.Function0 highlight
+com.kyant.backdrop.InverseLayerScope: float shadowElevation
+com.kyant.backdrop.shadow.ShadowNode: com.kyant.backdrop.ShapeProvider shapeProvider
+androidx.activity.result.ActivityResult: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.DispatchedCoroutine: int _decision$volatile
+kotlinx.coroutines.scheduling.CoroutineScheduler: long controlState$volatile
+com.kyant.backdrop.shadow.Shadow: long offset
+androidx.graphics.path.PathSegment$Type: androidx.graphics.path.PathSegment$Type Cubic
+com.kyant.shapes.RoundedRectangularShape$Corners: float bottomRight
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: double sin3
+com.kyant.backdrop.highlight.Highlight: float width
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: long deqIdx$volatile
+androidx.graphics.path.PathIterator: float tolerance
+androidx.activity.result.IntentSenderRequest: android.os.Parcelable$Creator CREATOR
+com.kyant.shapes.LerpRoundedRectangle: float fraction
+com.kyant.backdrop.DrawBackdropElement: kotlin.jvm.functions.Function1 onDrawSurface
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder$Companion Companion
+com.kyant.backdrop.InverseLayerScope: float translationX
+androidx.lifecycle.Lifecycle$Event: kotlin.enums.EnumEntries $ENTRIES
+com.kyant.backdrop.InverseLayerScope: float[] matrix
+com.kyant.backdrop.shadow.InnerShadowNode: boolean shouldAutoInvalidate
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_ANY
+androidx.graphics.path.PathIteratorImpl: androidx.graphics.path.PathIteratorImpl$Companion Companion
+com.kyant.backdrop.backdrops.LayerBackdrop: kotlin.jvm.functions.Function1 onDraw
+com.kyant.backdrop.DrawBackdropNode: kotlin.jvm.functions.Function1 onDrawSurface
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: double theta
+com.kyant.backdrop.highlight.HighlightStyle$Ambient: int $stable
+com.kyant.backdrop.InverseLayerScope: long size
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _parentHandle$volatile
+androidx.compose.runtime.ParcelableSnapshotMutableFloatState: android.os.Parcelable$Creator CREATOR
+androidx.graphics.path.PathIteratorImplKt: androidx.graphics.path.PathSegment$Type[] PathSegmentTypes
+com.kyant.backdrop.highlight.HighlightStyle$Companion: com.kyant.backdrop.highlight.HighlightStyle$Ambient Ambient
+com.kyant.backdrop.DrawBackdropNode: kotlin.jvm.functions.Function1 onDrawFront
+com.kyant.shapes.UnevenRoundedRectangle$WhenMappings: int[] $EnumSwitchMapping$0
+com.kyant.shapes.CopyRoundedRectangle: float bottomStart
+com.kyant.backdrop.effects.ColorFilterKt: android.graphics.ColorFilter VibrantColorFilter
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: double k2
+com.kyant.backdrop.InverseLayerScope: int blendMode
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int indexInArray
+androidx.graphics.path.ConicConverter: int quadraticCount
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _queue$volatile
+com.kyant.backdrop.shadow.Shadow: float radius
+kotlin.SafePublicationLazyImpl: java.lang.Object _value
+com.kyant.backdrop.DrawBackdropNode: androidx.compose.ui.graphics.layer.GraphicsLayer graphicsLayer
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: int _availablePermits$volatile
+com.kyant.backdrop.highlight.HighlightStyle: com.kyant.backdrop.highlight.HighlightStyle$Companion Companion
+com.kyant.backdrop.highlight.Highlight: com.kyant.backdrop.highlight.HighlightStyle style
+kotlinx.coroutines.internal.LimitedDispatcher: int runningWorkers$volatile
+com.kyant.backdrop.DrawBackdropNode: androidx.compose.runtime.MutableState layoutCoordinates$delegate
+com.kyant.shapes.RectangleCornerRadii: float topEnd
+com.kyant.backdrop.highlight.HighlightStyle$Plain: int blendMode
+com.kyant.backdrop.highlight.HighlightElement: com.kyant.backdrop.ShapeProvider shapeProvider
+androidx.compose.ui.Modifier$Node: int aggregateChildKindSet
+com.kyant.backdrop.RuntimeShaderCacheImpl: int $stable
+com.kyant.backdrop.backdrops.Combined3Backdrops: com.kyant.backdrop.Backdrop backdrop1
+androidx.graphics.path.PathSegment$Type: androidx.graphics.path.PathSegment$Type[] $VALUES
+com.kyant.backdrop.shadow.InnerShadowElement: kotlin.jvm.functions.Function0 shadow
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: java.lang.Object _next$volatile
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilderKt: double FRAC_PI_4
+com.kyant.backdrop.highlight.HighlightStyle$Companion: com.kyant.backdrop.highlight.HighlightStyle$Default Default
+com.kyant.shapes.RoundedRectangularShape$Corners: float bottomLeft
+androidx.graphics.path.PathIteratorImpl: float tolerance
+com.kyant.backdrop.BackdropEffectScopeImpl: float density
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: double arcFraction
+androidx.graphics.path.PathIteratorPreApi34Impl: long internalPathIterator
+com.kyant.backdrop.shadow.ShadowElement: kotlin.jvm.functions.Function0 shadow
+com.kyant.backdrop.DrawBackdropElement: com.kyant.backdrop.ShapeProvider shapeProvider
+androidx.graphics.path.PathIterator$ConicEvaluation: androidx.graphics.path.PathIterator$ConicEvaluation[] $VALUES
+com.kyant.backdrop.DrawBackdropNode: androidx.compose.runtime.MutableFloatState padding$delegate
+com.kyant.backdrop.DrawBackdropElement: com.kyant.backdrop.Backdrop backdrop
+com.kyant.backdrop.backdrops.LayerBackdrop: int $stable
+kotlinx.coroutines.internal.ConcurrentLinkedListNode: java.lang.Object _prev$volatile
+androidx.compose.ui.Modifier$Node: androidx.compose.ui.Modifier$Node child
+com.kyant.backdrop.shadow.InnerShadowModifierKt: androidx.compose.ui.graphics.Paint ShadowMaskPaint
+com.kyant.backdrop.shadow.InnerShadowNode: kotlin.jvm.functions.Function0 shadow
+com.kyant.backdrop.shadow.ShadowNode: androidx.compose.ui.graphics.Paint paint
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: double k3
+com.kyant.backdrop.InverseLayerScope: float alpha
+com.kyant.backdrop.InverseLayerScope: long ambientShadowColor
+com.kyant.backdrop.highlight.HighlightElement: kotlin.jvm.functions.Function0 highlight
+com.kyant.backdrop.InverseLayerScope: float translationY
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: double cos
+com.kyant.shapes.RoundedRectangularShape$Corners: float topLeft
+com.kyant.backdrop.shadow.Shadow: long color
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder Default
+com.kyant.backdrop.DrawBackdropNode: com.kyant.backdrop.DrawBackdropNode$effectScope$1 effectScope
+com.kyant.shapes.RectangleCornerRadii: int $stable
+com.kyant.backdrop.highlight.HighlightNode: androidx.compose.ui.graphics.layer.GraphicsLayer highlightLayer
+androidx.compose.ui.Modifier$Node: boolean onAttachRunExpected
+androidx.compose.ui.Modifier$Node: kotlin.jvm.functions.Function0 detachedListener
+kotlinx.coroutines.android.AndroidExceptionPreHandler: java.lang.Object _preHandler
+androidx.graphics.path.PathIterator: androidx.graphics.path.PathIteratorImpl implementation
+com.kyant.backdrop.BackdropEffectScopeImpl: int $stable
+com.kyant.backdrop.shadow.InnerShadowNode: com.kyant.backdrop.ShapeProvider shapeProvider
+com.kyant.backdrop.DrawBackdropElement: kotlin.jvm.functions.Function1 onDrawFront
+com.kyant.backdrop.ShadersKt: java.lang.String RoundedRectRefractionWithDispersionShaderString
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _delayed$volatile
+com.kyant.backdrop.shadow.Shadow: int $stable
+com.kyant.backdrop.DrawBackdropNode: kotlin.jvm.functions.Function1 recordBackdropBlock
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: double sin
+com.kyant.backdrop.backdrops.LayerBackdropElement: com.kyant.backdrop.backdrops.LayerBackdrop backdrop
+com.kyant.backdrop.InverseLayerScope: androidx.compose.ui.graphics.ColorFilter colorFilter
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: double sin2
+kotlinx.coroutines.JobSupport: java.lang.Object _state$volatile
+com.kyant.backdrop.shadow.InnerShadow: float alpha
+com.kyant.backdrop.DrawBackdropNode: com.kyant.backdrop.Backdrop backdrop
+com.kyant.backdrop.shadow.InnerShadowNode: androidx.compose.ui.graphics.Paint paint
+androidx.graphics.path.PathIteratorImpl: androidx.graphics.path.PathIterator$ConicEvaluation conicEvaluation
+com.kyant.backdrop.highlight.HighlightNode: androidx.compose.ui.graphics.Path clipPath
+kotlinx.coroutines.JobSupport$Finishing: int _isCompleting$volatile
+com.kyant.backdrop.DrawBackdropModifierKt: kotlin.jvm.functions.Function2 DefaultOnDrawBackdrop
+com.kyant.backdrop.InverseLayerScope: androidx.compose.ui.graphics.RenderEffect renderEffect
+com.kyant.backdrop.InverseLayerScope: androidx.compose.ui.graphics.Shape shape
+com.kyant.shapes.Capsule: com.kyant.shapes.RoundedCornerStyle style
+com.kyant.backdrop.InverseLayerScope: float scaleX
+androidx.graphics.path.PathIterator$ConicEvaluation: androidx.graphics.path.PathIterator$ConicEvaluation AsQuadratics
+com.kyant.backdrop.shadow.ShadowNode: int $stable
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Waiter waiters
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: long enqIdx$volatile
+com.kyant.backdrop.ShadersKt: java.lang.String GammaAdjustmentShaderString
+kotlinx.coroutines.sync.MutexImpl: java.lang.Object owner$volatile
+com.kyant.backdrop.shadow.ShadowNode: boolean shouldAutoInvalidate
+kotlinx.coroutines.internal.ResizableAtomicArray: java.util.concurrent.atomic.AtomicReferenceArray array
+com.kyant.backdrop.DrawBackdropNode: kotlin.jvm.functions.Function1 effects
+androidx.compose.runtime.snapshots.SnapshotStateList: android.os.Parcelable$Creator CREATOR
+com.kyant.shapes.LerpRoundedRectangle: com.kyant.shapes.RoundedRectangularShape stop
+com.kyant.backdrop.highlight.HighlightStyle$Plain: int $stable
+com.kyant.shapes.RoundedRectangle: int $stable
+androidx.graphics.path.PathIteratorImpl: android.graphics.Path path
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _state$volatile
+com.kyant.backdrop.DrawBackdropNode$effectScope$1: com.kyant.backdrop.DrawBackdropNode this$0
+com.kyant.backdrop.highlight.HighlightNode: boolean shouldAutoInvalidate
+com.kyant.backdrop.highlight.HighlightNode: com.kyant.backdrop.RuntimeShaderCacheImpl runtimeShaderCache
+com.kyant.backdrop.highlight.Highlight: int $stable
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event$Companion Companion
+androidx.graphics.path.PathSegment$Type: androidx.graphics.path.PathSegment$Type Quadratic
+com.kyant.backdrop.shadow.InnerShadow: int $stable
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_PAUSE
+com.kyant.backdrop.shadow.ShadowModifierKt: androidx.compose.ui.graphics.Paint ShadowMaskPaint
+com.kyant.backdrop.ShapeProvider: androidx.compose.ui.graphics.Shape shape
+com.kyant.backdrop.highlight.HighlightElement: int $stable
+androidx.concurrent.futures.AbstractResolvableFuture: java.lang.Object value
+kotlinx.coroutines.internal.ThreadSafeHeap: int _size$volatile
+com.kyant.backdrop.highlight.HighlightStyle$Companion: com.kyant.backdrop.highlight.HighlightStyle$Companion $$INSTANCE
+androidx.graphics.path.PathIterator$ConicEvaluation: androidx.graphics.path.PathIterator$ConicEvaluation AsConic
+com.kyant.backdrop.ShadersKt: java.lang.String DefaultHighlightShaderString
+com.kyant.backdrop.shadow.Shadow: int blendMode
+androidx.graphics.path.ConicConverter: float[] quadraticData
+com.kyant.backdrop.highlight.Highlight: com.kyant.backdrop.highlight.Highlight Ambient
+kotlinx.coroutines.internal.DispatchedContinuation: java.lang.Object _reusableCancellableContinuation$volatile
+com.kyant.backdrop.ShadersKt: java.lang.String AmbientHighlightShaderString
+androidx.compose.ui.Modifier$Node: kotlinx.coroutines.CoroutineScope scope
+kotlinx.coroutines.DefaultExecutor: int debugStatus
+com.kyant.backdrop.backdrops.Combined2Backdrops: com.kyant.backdrop.Backdrop backdrop1
+com.kyant.backdrop.highlight.HighlightStyle$Companion: com.kyant.backdrop.highlight.HighlightStyle$Plain Plain
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _prev$volatile
+androidx.compose.ui.Modifier$Node: androidx.compose.ui.Modifier$Node parent
+com.kyant.backdrop.backdrops.Combined3Backdrops: boolean isCoordinatesDependent
+com.kyant.backdrop.shadow.InnerShadow: com.kyant.backdrop.shadow.InnerShadow$Companion Companion
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _next$volatile
+com.kyant.backdrop.backdrops.LayerBackdrop: androidx.compose.ui.graphics.layer.GraphicsLayer graphicsLayer
+com.kyant.shapes.RoundedRectangularShape$Corners: float topRight
+com.kyant.backdrop.backdrops.Combined2Backdrops: com.kyant.backdrop.Backdrop backdrop2
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_STOP
+com.kyant.shapes.CopyRoundedRectangle: float topEnd
+com.kyant.backdrop.InverseLayerScope: long transformOrigin
+com.kyant.backdrop.InverseLayerScope: float fontScale
+androidx.graphics.path.PathSegment$Type: androidx.graphics.path.PathSegment$Type Conic
+com.kyant.shapes.RectangleCornerRadii: float bottomEnd
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _rootCause$volatile
+com.kyant.backdrop.shadow.InnerShadow: long offset
+com.kyant.backdrop.ShapeProvider: long _size
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: double cos2
+com.kyant.backdrop.highlight.HighlightStyle$Default: float falloff
+kotlinx.coroutines.EventLoopImplBase: int _isCompleted$volatile
+com.kyant.shapes.RoundedRectangle: float cornerRadius
+kotlin.coroutines.SafeContinuation: java.lang.Object result
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: double cot
+com.kyant.backdrop.shadow.ShadowNode: androidx.compose.ui.graphics.layer.GraphicsLayer shadowLayer
+androidx.compose.ui.Modifier$Node: androidx.compose.ui.node.ObserverNodeOwnerScope ownerScope
+com.kyant.backdrop.ShapeProvider: androidx.compose.ui.unit.LayoutDirection _layoutDirection
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _exceptionsHolder$volatile
+com.kyant.backdrop.DrawBackdropElement: com.kyant.backdrop.backdrops.LayerBackdrop exportedBackdrop
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_RESUME
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object bufferEndSegment$volatile
+com.kyant.shapes.LerpRoundedRectangle: com.kyant.shapes.RoundedCornerStyle style
+com.kyant.backdrop.highlight.HighlightStyle$Default: int $stable
+com.kyant.backdrop.ShapeProvider: kotlin.jvm.functions.Function0 shapeBlock
+com.kyant.shapes.RoundedCornerStyle: com.kyant.shapes.RoundedCornerStyle[] $VALUES
+androidx.compose.ui.Modifier$Node: boolean insertedNodeAwaitingAttachForInvalidation
+com.kyant.shapes.CopyRoundedRectangle: float bottomEnd
+androidx.graphics.path.PathIterator: android.graphics.Path path
+com.kyant.backdrop.highlight.HighlightStyle$Ambient: long color
+androidx.compose.ui.Modifier$Node: int kindSet
+com.kyant.backdrop.shadow.Shadow: com.kyant.backdrop.shadow.Shadow Default
+com.kyant.backdrop.backdrops.CanvasBackdrop: kotlin.jvm.functions.Function1 onDraw
+com.kyant.backdrop.shadow.InnerShadowElement: int $stable
+com.kyant.shapes.RoundedRectangle: com.kyant.shapes.RoundedCornerStyle style
+com.kyant.backdrop.InverseLayerScope: boolean clip
+com.kyant.backdrop.DrawBackdropElement: kotlin.jvm.functions.Function1 effects
+kotlinx.coroutines.UndispatchedCoroutine: boolean threadLocalIsSet
+com.kyant.backdrop.DrawBackdropNode: kotlin.jvm.functions.Function1 drawBackdropLayer
+com.kyant.backdrop.InverseLayerScope: float scaleY
+com.kyant.backdrop.highlight.Highlight: com.kyant.backdrop.highlight.Highlight$Companion Companion
+com.kyant.backdrop.ShadersKt: java.lang.String RoundedRectSDF
+com.kyant.backdrop.RuntimeShaderCacheImpl: java.util.Map runtimeShaders
+androidx.compose.ui.Modifier$Node: boolean updatedNodeAwaitingAttachForInvalidation
+com.kyant.shapes.UnevenRoundedRectangle: com.kyant.shapes.RectangleCornerRadii cornerRadii
+com.kyant.backdrop.backdrops.LayerBackdrop: boolean isCoordinatesDependent
+androidx.graphics.path.ConicConverter: int currentQuadratic
+androidx.graphics.path.PathIterator: androidx.graphics.path.PathIterator$ConicEvaluation conicEvaluation
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: java.lang.Thread thread
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: double k0
+com.kyant.backdrop.DrawBackdropNode: com.kyant.backdrop.backdrops.LayerBackdrop exportedBackdrop
+androidx.graphics.path.PathIteratorImpl: float[] pointsData
+com.kyant.shapes.Rectangle: int $stable
+kotlinx.coroutines.scheduling.WorkQueue: int blockingTasksInBuffer$volatile
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] $VALUES
+androidx.graphics.path.PathSegment$Type: androidx.graphics.path.PathSegment$Type Line
+com.kyant.backdrop.backdrops.LayerBackdropKt: kotlin.jvm.functions.Function1 DefaultOnDraw
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object _closeCause$volatile
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+com.kyant.backdrop.backdrops.CombinedBackdrops: boolean isCoordinatesDependent
+com.kyant.backdrop.InverseLayerScope: float density
+com.kyant.shapes.RoundedCornerStyle: kotlin.enums.EnumEntries $ENTRIES
+androidx.compose.runtime.ParcelableSnapshotMutableLongState: android.os.Parcelable$Creator CREATOR
+com.kyant.backdrop.shadow.InnerShadow: long color
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: androidx.concurrent.futures.AbstractResolvableFuture$Waiter next
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object closeHandler$volatile
+kotlinx.coroutines.scheduling.WorkQueue: java.lang.Object lastScheduledTask$volatile
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: java.lang.Object head$volatile
+androidx.graphics.path.PathIteratorApi34Impl: androidx.graphics.path.ConicConverter conicConverter
+androidx.compose.ui.node.ModifierNodeElement: androidx.compose.ui.platform.InspectorInfo _inspectorValues
+com.kyant.backdrop.shadow.InnerShadowElement: com.kyant.backdrop.ShapeProvider shapeProvider
+com.kyant.shapes.CopyRoundedRectangle$WhenMappings: int[] $EnumSwitchMapping$0
+com.kyant.backdrop.highlight.HighlightStyle$Ambient: float intensity
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_DESTROY
+androidx.graphics.path.PathIteratorImpl$WhenMappings: int[] $EnumSwitchMapping$0
+com.kyant.backdrop.highlight.Highlight: com.kyant.backdrop.highlight.Highlight Plain
+androidx.graphics.path.PathIteratorApi34Impl: android.graphics.PathIterator platformIterator
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object sendSegment$volatile
+com.kyant.backdrop.highlight.HighlightStyle$Default: long color
+com.kyant.backdrop.ShapeProvider: androidx.compose.ui.graphics.Shape _shape
+com.kyant.backdrop.BackdropEffectScopeImpl: androidx.compose.ui.unit.LayoutDirection layoutDirection
+com.kyant.backdrop.highlight.HighlightNode: com.kyant.backdrop.ShapeProvider shapeProvider
+androidx.compose.ui.Modifier$Node: int $stable
+com.kyant.backdrop.shadow.Shadow: float alpha
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: long _state$volatile
+com.kyant.backdrop.highlight.Highlight: float blurRadius
+com.kyant.backdrop.InverseLayerScope: float rotationY
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Listener listeners
+com.kyant.shapes.RoundedCornerStyle: com.kyant.shapes.RoundedCornerStyle Circular
+com.kyant.backdrop.highlight.HighlightStyle$Default: int blendMode
+androidx.compose.runtime.ParcelableSnapshotMutableState: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.android.HandlerDispatcherKt: android.view.Choreographer choreographer
+com.kyant.backdrop.backdrops.Combined2Backdrops: boolean isCoordinatesDependent
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_START
+com.kyant.shapes.RectangleCornerRadii: float topStart
+kotlinx.coroutines.CancelledContinuation: int _resumed$volatile
+com.kyant.backdrop.DrawBackdropModifierKt: kotlin.jvm.functions.Function0 DefaultHighlight
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object receiveSegment$volatile
+com.kyant.shapes.UnevenRoundedRectangle: int $stable
+com.kyant.backdrop.backdrops.CombinedBackdrops: com.kyant.backdrop.Backdrop[] backdrops
+kotlinx.coroutines.CompletedExceptionally: int _handled$volatile
+com.kyant.backdrop.ShadersKt: java.lang.String RoundedRectRefractionShaderString
+com.kyant.shapes.RoundedRectangularShape$Corners: int $stable
+com.kyant.backdrop.shadow.Shadow: com.kyant.backdrop.shadow.Shadow$Companion Companion
+kotlinx.coroutines.flow.StateFlowImpl: java.lang.Object _state$volatile
+com.kyant.backdrop.shadow.ShadowElement: com.kyant.backdrop.ShapeProvider shapeProvider
+com.kyant.backdrop.DrawBackdropElement: kotlin.jvm.functions.Function2 onDrawBackdrop
+com.kyant.shapes.CopyRoundedRectangle: float topStart
+androidx.compose.runtime.ParcelableSnapshotMutableIntState: android.os.Parcelable$Creator CREATOR
+com.kyant.backdrop.highlight.HighlightStyle$Ambient: com.kyant.backdrop.highlight.HighlightStyle$Ambient copy(float)
+com.kyant.backdrop.shadow.ShadowNode: void onDetach()
+com.kyant.shapes.Capsule: java.lang.String toString()
+androidx.graphics.path.PathIterator: androidx.graphics.path.PathSegment$Type next$default(androidx.graphics.path.PathIterator,float[],int,int,java.lang.Object)
+com.kyant.backdrop.highlight.Highlight: com.kyant.backdrop.highlight.HighlightStyle component4()
+androidx.compose.material.ripple.UnprojectedRipple$MRadiusHelper: void setRadius(android.graphics.drawable.RippleDrawable,int)
+com.kyant.backdrop.BackdropEffectScope: long getSize-NH-jbRc()
+com.kyant.backdrop.highlight.HighlightElement: boolean any(kotlin.jvm.functions.Function1)
+com.kyant.backdrop.InverseLayerScope: long getSize-NH-jbRc()
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: double[] getCornerBezierPoints(double,double)
+com.kyant.shapes.RectangleCornerRadii: RectangleCornerRadii(float,float,float,float,kotlin.jvm.internal.DefaultConstructorMarker)
+com.kyant.backdrop.shadow.InnerShadow: long getColor-0d7_KjU()
+com.kyant.backdrop.shadow.InnerShadowNode: void setShadow(kotlin.jvm.functions.Function0)
+com.kyant.backdrop.BackdropEffectScope: float toDp-GaN1DYA(long)
+com.kyant.backdrop.InverseLayerScope: long toDpSize-k-rfVVM(long)
+com.kyant.shapes.RectangleCornerRadii: float getTopStart-D9Ej5fM()
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: double[] buildEvenCornerBezierPoints(double)
+com.kyant.shapes.RoundedRectangleOutlineKt: androidx.compose.ui.graphics.Path continuousCurvatureRoundedRectanglePath-Pq9zytI$default(long,float,androidx.compose.ui.graphics.Path,int,java.lang.Object)
+androidx.compose.ui.platform.AndroidComposeViewStartDragAndDropN: boolean startDragAndDrop(android.view.View,androidx.compose.ui.draganddrop.DragAndDropTransferData,androidx.compose.ui.draganddrop.ComposeDragShadowBuilder)
+com.kyant.backdrop.LayerRecorderKt: void recordLayer-TdoYBX4$default(androidx.compose.ui.node.DelegatableNode,androidx.compose.ui.graphics.drawscope.DrawScope,androidx.compose.ui.graphics.layer.GraphicsLayer,long,kotlin.jvm.functions.Function1,int,java.lang.Object)
+com.kyant.backdrop.Backdrop$DefaultImpls: void drawBackdrop$default(com.kyant.backdrop.Backdrop,androidx.compose.ui.graphics.drawscope.DrawScope,androidx.compose.ui.unit.Density,androidx.compose.ui.layout.LayoutCoordinates,kotlin.jvm.functions.Function1,int,java.lang.Object)
+com.kyant.backdrop.backdrops.LayerBackdropElement: void inspectableProperties(androidx.compose.ui.platform.InspectorInfo)
+com.kyant.backdrop.shadow.InnerShadowModifierKt: androidx.compose.ui.graphics.Paint access$getShadowMaskPaint$p()
+com.kyant.backdrop.shadow.InnerShadow: float getRadius-D9Ej5fM()
+com.kyant.shapes.UnevenRoundedRectangle: com.kyant.shapes.RectangleCornerRadii getCornerRadii()
+com.kyant.backdrop.BackdropEffectScopeImpl: long getSize-NH-jbRc()
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void removeRearDisplayStatusListener(androidx.window.extensions.core.util.function.Consumer)
+com.kyant.backdrop.backdrops.LayerBackdropNode: void onDetach()
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+com.kyant.backdrop.highlight.Highlight: com.kyant.backdrop.highlight.Highlight access$getAmbient$cp()
+androidx.compose.ui.platform.AbstractComposeView: void setParentCompositionContext(androidx.compose.runtime.CompositionContext)
+com.kyant.backdrop.highlight.HighlightStyle$Plain: android.graphics.Shader createShader(androidx.compose.ui.graphics.drawscope.DrawScope,androidx.compose.ui.graphics.Shape,com.kyant.backdrop.RuntimeShaderCache)
+com.kyant.backdrop.DrawBackdropNode: int maxIntrinsicWidth(androidx.compose.ui.layout.IntrinsicMeasureScope,androidx.compose.ui.layout.IntrinsicMeasurable,int)
+androidx.compose.foundation.text.HandleState: androidx.compose.foundation.text.HandleState valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.RootForTest$UncaughtExceptionHandler getUncaughtExceptionHandler$ui()
+com.kyant.backdrop.shadow.ShadowElement: java.lang.Object foldIn(java.lang.Object,kotlin.jvm.functions.Function2)
+com.kyant.backdrop.InverseLayerScope: void setScaleX(float)
+androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand: androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: void setUncaughtExceptionHandler(androidx.compose.ui.node.RootForTest$UncaughtExceptionHandler)
+androidx.compose.ui.Modifier$Node: void setUpdatedNodeAwaitingAttachForInvalidation$ui(boolean)
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow[] values()
+com.kyant.backdrop.BackdropEffectScope: long access$toSize-XkaWNTQ$jd(com.kyant.backdrop.BackdropEffectScope,long)
+androidx.compose.foundation.gestures.IndirectPointerInputDragCycleDetector$DragDetectionState$AwaitDown$AwaitTouchSlop: androidx.compose.foundation.gestures.IndirectPointerInputDragCycleDetector$DragDetectionState$AwaitDown$AwaitTouchSlop[] values()
+androidx.core.view.ViewCompat$Api23Impl: androidx.core.view.WindowInsetsCompat getRootWindowInsets(android.view.View)
+androidx.compose.ui.platform.AndroidComposeView: void getPrimaryDirectionalMotionAxisOverride-dqNNBbU$ui$annotations()
+kotlinx.coroutines.android.AndroidDispatcherFactory: AndroidDispatcherFactory()
+androidx.core.view.WindowInsetsCompat$Impl21: boolean isConsumed()
+com.kyant.backdrop.shadow.ShadowNode: void onMeasureResultChanged()
+androidx.compose.ui.platform.AndroidComposeViewVerificationHelperMethodsN: void setPointerIcon(android.view.View,androidx.compose.ui.input.pointer.PointerIcon)
+com.kyant.shapes.RectangleCornerRadii: float getBottomStart-D9Ej5fM()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidClipboardManager getClipboardManager()
+com.kyant.shapes.LerpRoundedRectangle: int hashCode()
+com.kyant.shapes.Capsule: com.kyant.shapes.RoundedRectangularShape$Corners corners-Pq9zytI(long,androidx.compose.ui.unit.LayoutDirection,androidx.compose.ui.unit.Density)
+com.kyant.backdrop.shadow.ShadowNode: kotlin.Unit draw$lambda$0(float,float,float,androidx.compose.ui.graphics.Outline,com.kyant.backdrop.shadow.ShadowNode,androidx.compose.ui.graphics.drawscope.DrawScope)
+com.kyant.backdrop.backdrops.LayerBackdrop: kotlin.jvm.functions.Function1 getOnDraw$backdrop()
+com.kyant.backdrop.ShapeProvider: ShapeProvider(kotlin.jvm.functions.Function0)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemGestureInsets()
+androidx.compose.ui.platform.ViewLayerContainer: void dispatchGetDisplayList()
+com.kyant.backdrop.shadow.ShadowElement: com.kyant.backdrop.ShapeProvider getShapeProvider()
+androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicWidthHeight: androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicWidthHeight[] values()
+androidx.compose.ui.node.LayoutNode$LayoutState: androidx.compose.ui.node.LayoutNode$LayoutState[] values()
+androidx.compose.foundation.gestures.IndirectPointerInputDragCycleDetector$DragDetectionState$AwaitDown$AwaitTouchSlop: androidx.compose.foundation.gestures.IndirectPointerInputDragCycleDetector$DragDetectionState$AwaitDown$AwaitTouchSlop valueOf(java.lang.String)
+com.kyant.backdrop.InverseLayerScope: int roundToPx--R2X_6o(long)
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl20)
+androidx.core.view.ViewCompat$Api21Impl: void callCompatInsetAnimationCallback(android.view.WindowInsets,android.view.View)
+com.kyant.backdrop.InverseLayerScope: long getTransformOrigin-SzJe1aQ()
+com.kyant.backdrop.backdrops.LayerBackdropElement: void update(com.kyant.backdrop.backdrops.LayerBackdropNode)
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder$Companion: com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder getDefault()
+com.kyant.backdrop.InverseLayerScope: void setCameraDistance(float)
+com.kyant.backdrop.shadow.InnerShadowElement: com.kyant.backdrop.shadow.InnerShadowNode create()
+com.kyant.shapes.UnevenRoundedRectangle: java.lang.String toString()
+com.kyant.backdrop.shadow.ShadowNode: void onLayoutDirectionChange()
+androidx.graphics.path.PathIteratorImplKt: androidx.graphics.path.PathSegment$Type access$platformToAndroidXSegmentType(int)
+com.kyant.backdrop.shadow.ShadowElement: androidx.compose.ui.Modifier then(androidx.compose.ui.Modifier)
+com.kyant.backdrop.BackdropEffectScope: float toDp-u2uoSUM(int)
+com.kyant.backdrop.BackdropEffectScope: android.graphics.RenderEffect getRenderEffect()
+com.kyant.backdrop.shadow.InnerShadow: boolean equals(java.lang.Object)
+com.kyant.backdrop.DrawBackdropElement: void update(androidx.compose.ui.Modifier$Node)
+com.kyant.shapes.UnevenRoundedRectangle: UnevenRoundedRectangle(com.kyant.shapes.RectangleCornerRadii,com.kyant.shapes.RoundedCornerStyle)
+com.kyant.backdrop.highlight.HighlightNode: void onDensityChange()
+androidx.compose.foundation.text.KeyCommand: androidx.compose.foundation.text.KeyCommand valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemWindowInsets()
+com.kyant.backdrop.backdrops.LayerBackdropElement: com.kyant.backdrop.backdrops.LayerBackdrop getBackdrop()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getSystemWindowInsets()
+androidx.compose.ui.platform.ViewLayer: float getFrameRate()
+androidx.graphics.path.PathIterator: android.graphics.Path getPath()
+androidx.graphics.path.PathIteratorPreApi34Impl: int internalPathIteratorPeek(long)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.input.pointer.PointerIconService getPointerIconService()
+com.kyant.backdrop.highlight.HighlightStyle$Ambient: long getColor-0d7_KjU()
+androidx.graphics.path.PathSegment: int hashCode()
+androidx.compose.ui.platform.ViewLayer: long getOwnerViewId()
+com.kyant.backdrop.backdrops.CanvasBackdrop: CanvasBackdrop(kotlin.jvm.functions.Function1)
+com.kyant.shapes.Capsule: int hashCode()
+androidx.compose.ui.node.Invalidation: androidx.compose.ui.node.Invalidation valueOf(java.lang.String)
+com.kyant.backdrop.shadow.InnerShadow: com.kyant.backdrop.shadow.InnerShadow access$getDefault$cp()
+com.kyant.backdrop.highlight.HighlightElement: java.lang.Object foldIn(java.lang.Object,kotlin.jvm.functions.Function2)
+com.kyant.backdrop.ShapeProvider: androidx.compose.ui.graphics.Shape getInnerShape()
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] values()
+com.kyant.shapes.LerpRoundedRectangle: com.kyant.shapes.RoundedRectangularShape component2()
+com.kyant.shapes.LerpRoundedRectangle: com.kyant.shapes.RoundedRectangularShape getStop()
+com.apple.dock.OverlayService: OverlayService()
+com.kyant.backdrop.shadow.InnerShadow: int component5-0nO6VwU()
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State[] values()
+androidx.compose.runtime.Recomposer$State: androidx.compose.runtime.Recomposer$State[] values()
+com.kyant.backdrop.highlight.HighlightElement: boolean equals(java.lang.Object)
+com.kyant.backdrop.shadow.InnerShadow$Companion: InnerShadow$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+com.kyant.backdrop.InverseLayerScope: boolean getClip()
+androidx.compose.ui.text.font.FontWeightAdjustmentHelperApi31: int fontWeightAdjustment(android.content.Context)
+com.kyant.backdrop.shadow.InnerShadowNode: void configurePaint(androidx.compose.ui.graphics.drawscope.DrawScope,com.kyant.backdrop.shadow.InnerShadow)
+com.kyant.shapes.UnevenRoundedRectangle: com.kyant.shapes.RoundedCornerStyle getStyle()
+com.kyant.backdrop.BackdropEffectScopeImpl: void setPadding(float)
+androidx.graphics.path.PathIterator: androidx.graphics.path.PathSegment$Type peek()
+com.kyant.shapes.RoundedRectangularShape$Corners: float getTopRight()
+androidx.compose.animation.core.MutatePriority: androidx.compose.animation.core.MutatePriority[] values()
+androidx.core.view.WindowInsetsCompat$Impl34: androidx.core.graphics.Insets getInsets(int)
+androidx.compose.ui.Modifier$Node: androidx.compose.ui.Modifier$Node getChild$ui()
+com.kyant.backdrop.DrawBackdropNode: void setLayerBlock(kotlin.jvm.functions.Function1)
+com.kyant.shapes.RoundedRectangularShape: androidx.compose.ui.graphics.Outline createOutline-Pq9zytI(long,androidx.compose.ui.unit.LayoutDirection,androidx.compose.ui.unit.Density)
+com.kyant.backdrop.shadow.InnerShadowNode: void draw(androidx.compose.ui.graphics.drawscope.ContentDrawScope)
+com.kyant.backdrop.BackdropEffectScopeImpl: void setSize-uvyYCjk(long)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.view.WindowInsetsCompat inset(int,int,int,int)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.text.font.Font$ResourceLoader getFontLoader()
+androidx.compose.ui.graphics.layer.view.ViewLayerContainer: void dispatchGetDisplayList()
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType valueOf(java.lang.String)
+com.kyant.backdrop.InverseLayerScope: float getDensity()
+com.kyant.backdrop.highlight.Highlight: com.kyant.backdrop.highlight.Highlight access$getPlain$cp()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int,boolean)
+androidx.graphics.path.PathIteratorImpl: PathIteratorImpl(android.graphics.Path,androidx.graphics.path.PathIterator$ConicEvaluation,float,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.graphics.path.PathSegmentUtilities: androidx.graphics.path.PathSegment getCloseSegment()
+com.kyant.shapes.RoundedRectangleOutlineKt: androidx.compose.ui.graphics.Outline roundedRectangleOutline-LjSzlW0(long,float,float,float,float,com.kyant.shapes.RoundedCornerStyle)
+kotlin.DeprecationLevel: kotlin.DeprecationLevel valueOf(java.lang.String)
+com.kyant.shapes.LerpRoundedRectangle: float getFraction()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.focus.FocusOwner getFocusOwner()
+com.kyant.backdrop.backdrops.LayerBackdropElement: LayerBackdropElement(com.kyant.backdrop.backdrops.LayerBackdrop)
+androidx.graphics.path.PathUtilities: androidx.graphics.path.PathIterator iterator$default(android.graphics.Path,androidx.graphics.path.PathIterator$ConicEvaluation,float,int,java.lang.Object)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+com.kyant.backdrop.highlight.Highlight: int hashCode()
+com.kyant.shapes.CopyRoundedRectangle: com.kyant.shapes.RoundedRectangularShape component1()
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: double getExtendedFraction()
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl28)
+androidx.graphics.path.PathIteratorApi34Impl: int calculateSize(boolean)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void addRearDisplayStatusListener(androidx.window.extensions.core.util.function.Consumer)
+com.kyant.backdrop.highlight.HighlightNode: void draw(androidx.compose.ui.graphics.drawscope.ContentDrawScope)
+com.kyant.backdrop.backdrops.Combined3Backdrops: com.kyant.backdrop.Backdrop getBackdrop2()
+androidx.compose.ui.Modifier$Node: int getKindSet$ui()
+com.kyant.backdrop.BackdropEffectScope: void setPadding(float)
+com.kyant.backdrop.effects.ColorFilterKt: void colorFilter(com.kyant.backdrop.BackdropEffectScope,androidx.compose.ui.graphics.ColorFilter)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.LifecycleRetainedValuesStoreOwner$FrameEndScheduler getFrameEndScheduler$ui()
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: void onActivityCreated(android.app.Activity,android.os.Bundle)
+com.kyant.backdrop.highlight.HighlightStyleKt: float[] access$getCornerRadii(androidx.compose.ui.graphics.drawscope.DrawScope,androidx.compose.ui.graphics.Shape)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.spatial.RectManager getRectManager()
+com.kyant.backdrop.highlight.HighlightStyle$Plain: int component2-0nO6VwU()
+com.kyant.backdrop.shadow.ShadowNode: void onDensityChange()
+androidx.graphics.path.PathIterator$ConicEvaluation: androidx.graphics.path.PathIterator$ConicEvaluation valueOf(java.lang.String)
+com.kyant.backdrop.BackdropEffectScope$DefaultImpls: long toSize-XkaWNTQ(com.kyant.backdrop.BackdropEffectScope,long)
+androidx.compose.foundation.gestures.Orientation: androidx.compose.foundation.gestures.Orientation valueOf(java.lang.String)
+androidx.compose.ui.graphics.layer.ViewLayer: android.view.View getOwnerView()
+com.kyant.backdrop.highlight.HighlightNode: void onMeasureResultChanged()
+com.kyant.backdrop.highlight.Highlight: com.kyant.backdrop.highlight.HighlightStyle getStyle()
+kotlin.time.DurationUnit: kotlin.time.DurationUnit[] values()
+androidx.graphics.path.PathIteratorPreApi34Impl: void finalize()
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void endRearDisplayPresentationSession()
+com.kyant.backdrop.highlight.HighlightStyle$Plain: long component1-0d7_KjU()
+androidx.compose.ui.platform.AndroidComposeView: android.view.View findViewByAccessibilityIdTraversal(int)
+com.kyant.shapes.LerpRoundedRectangle: com.kyant.shapes.LerpRoundedRectangle copy(com.kyant.shapes.RoundedCornerStyle)
+androidx.compose.ui.Modifier$Node: void updateCoordinator$ui(androidx.compose.ui.node.NodeCoordinator)
+androidx.graphics.path.R: R()
+com.kyant.backdrop.InverseLayerScope: InverseLayerScope()
+androidx.graphics.path.PathIteratorImpl: androidx.graphics.path.PathSegment$Type next(float[],int)
+com.kyant.backdrop.ShapeProvider: androidx.compose.ui.graphics.Outline access$get_outline$p(com.kyant.backdrop.ShapeProvider)
+com.kyant.shapes.CopyRoundedRectangle: float component5-D9Ej5fM()
+com.kyant.backdrop.highlight.HighlightNode: kotlin.jvm.functions.Function0 getHighlight()
+androidx.activity.OnBackPressedDispatcher$Api34Impl: android.window.OnBackInvokedCallback createOnBackAnimationCallback(kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0)
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+com.kyant.shapes.CopyRoundedRectangle: com.kyant.shapes.CopyRoundedRectangle copy-YLPp7PM$default(com.kyant.shapes.CopyRoundedRectangle,com.kyant.shapes.RoundedRectangularShape,float,float,float,float,com.kyant.shapes.RoundedCornerStyle,int,java.lang.Object)
+androidx.compose.ui.platform.Api30Impl: boolean isShowingLayoutBounds(android.view.View)
+com.kyant.backdrop.DrawBackdropNode: void onMeasureResultChanged()
+androidx.compose.runtime.InvalidationResult: androidx.compose.runtime.InvalidationResult valueOf(java.lang.String)
+androidx.compose.foundation.text.selection.CrossStatus: androidx.compose.foundation.text.selection.CrossStatus[] values()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+androidx.compose.animation.core.PreconditionsKt: void throwIllegalArgumentException(java.lang.String)
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: ContinuousCurvatureRoundedRectangleCornerBuilder()
+com.kyant.shapes.CopyRoundedRectangle: com.kyant.shapes.RoundedRectangularShape getShape()
+androidx.compose.ui.window.Api30Impl: void setFitInsetsSides(android.view.WindowManager$LayoutParams,int)
+com.kyant.backdrop.DrawBackdropNode: kotlin.Unit layoutLayerBlock$lambda$0(com.kyant.backdrop.DrawBackdropNode,androidx.compose.ui.graphics.GraphicsLayerScope)
+androidx.activity.Api34Impl: float progress(android.window.BackEvent)
+androidx.compose.ui.graphics.InlineClassHelperKt: void throwIllegalArgumentException(java.lang.String)
+com.kyant.shapes.LerpRoundedRectangle: float component3()
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: void getRoot$annotations()
+androidx.core.view.WindowInsetsCompat$Impl30: androidx.core.graphics.Insets getInsets(int)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.text.font.FontFamily$Resolver getFontFamilyResolver()
+androidx.core.view.WindowInsetsCompat$Impl20: void setOverriddenInsets(androidx.core.graphics.Insets[])
+com.kyant.backdrop.BackdropEffectScopeImpl: android.graphics.RenderEffect getRenderEffect()
+com.kyant.backdrop.shadow.InnerShadowNode: kotlin.jvm.functions.Function0 getShadow()
+androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction: androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction[] values()
+com.kyant.backdrop.InverseLayerScope: float toDp-u2uoSUM(int)
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.compose.runtime.ComposerKt: void composeImmediateRuntimeError(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl34: WindowInsetsCompat$Impl34(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl34)
+com.kyant.backdrop.InverseLayerScope: int getBlendMode-0nO6VwU()
+androidx.tracing.TraceApi29Impl: boolean isEnabled()
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState[] values()
+androidx.compose.ui.graphics.layer.view.PlaceholderHardwareCanvas: int drawRenderNode(android.view.RenderNode,android.graphics.Rect,int)
+com.kyant.backdrop.backdrops.Backdrop: kotlin.jvm.functions.Function2 getOnDraw()
+androidx.graphics.path.ConicConverter: int getQuadraticCount()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: androidx.core.view.WindowInsetsCompat build()
+com.kyant.shapes.CopyRoundedRectangle: java.lang.String toString()
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: double[] getCornerBezierPoints$default(com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder,double,double,int,java.lang.Object)
+com.kyant.backdrop.effects.LensKt: void lens$default(com.kyant.backdrop.BackdropEffectScope,float,float,boolean,boolean,int,java.lang.Object)
+com.kyant.backdrop.DrawBackdropNode: void setShapeProvider(com.kyant.backdrop.ShapeProvider)
+androidx.compose.foundation.text.KeyCommand: androidx.compose.foundation.text.KeyCommand[] values()
+androidx.compose.ui.window.SecureFlagPolicy: androidx.compose.ui.window.SecureFlagPolicy[] values()
+com.kyant.backdrop.InverseLayerScope: float toDp-u2uoSUM(float)
+androidx.compose.foundation.gestures.DragDetectionState$AwaitDown$AwaitTouchSlop: androidx.compose.foundation.gestures.DragDetectionState$AwaitDown$AwaitTouchSlop[] values()
+androidx.compose.ui.platform.AndroidComposeView: void setContentCaptureManager$ui(androidx.compose.ui.contentcapture.AndroidContentCaptureManager)
+com.kyant.shapes.RoundedRectangle: com.kyant.shapes.RoundedRectangle copy-D5KLDUw$default(com.kyant.shapes.RoundedRectangle,float,com.kyant.shapes.RoundedCornerStyle,int,java.lang.Object)
+androidx.compose.ui.text.internal.InlineClassHelperKt: java.lang.Void throwIllegalArgumentExceptionForNullCheck(java.lang.String)
+com.kyant.shapes.RoundedRectangleOutlineKt: androidx.compose.ui.graphics.Outline roundedRectangleOutline-Pq9zytI(long,float,com.kyant.shapes.RoundedCornerStyle)
+com.kyant.backdrop.highlight.HighlightStyle$Ambient: int getBlendMode-0nO6VwU()
+com.kyant.backdrop.BackdropEffectScope: long toDpSize-k-rfVVM(long)
+androidx.compose.ui.window.Api30Impl: int getMaxDialogHeightExcludingSystemBarInsets(android.view.Window)
+androidx.graphics.path.PathIterator: androidx.graphics.path.PathSegment$Type next(float[],int)
+com.kyant.backdrop.ShapeProvider$shape$1: androidx.compose.ui.graphics.Outline createOutline-Pq9zytI(long,androidx.compose.ui.unit.LayoutDirection,androidx.compose.ui.unit.Density)
+com.kyant.backdrop.InverseLayerScope: void setBlendMode-s9anfk8(int)
+com.kyant.backdrop.shadow.InnerShadowNode: com.kyant.backdrop.ShapeProvider getShapeProvider()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemGestureInsets(androidx.core.graphics.Insets)
+com.kyant.shapes.RoundedRectangle: RoundedRectangle(float,com.kyant.shapes.RoundedCornerStyle,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getVisibleInsets(android.view.View)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.unit.LayoutDirection getLayoutDirection()
+androidx.compose.ui.Modifier$Node: void reset$ui()
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart[] values()
+com.kyant.backdrop.DrawBackdropNode: androidx.compose.ui.layout.LayoutCoordinates getLayoutCoordinates()
+androidx.graphics.path.PathIteratorApi34Impl: androidx.graphics.path.PathSegment$Type peek()
+com.kyant.shapes.Rectangle: java.lang.String toString()
+androidx.compose.ui.Modifier$Node: void runAttachLifecycle$ui()
+com.kyant.shapes.RoundedRectangularShape$Corners: com.kyant.shapes.RoundedRectangularShape$Corners copy(float,float,float,float)
+com.kyant.shapes.CopyKt: com.kyant.shapes.RoundedRectangle copy-lG28NQ4$default(com.kyant.shapes.RoundedRectangularShape,float,com.kyant.shapes.RoundedCornerStyle,int,java.lang.Object)
+com.kyant.backdrop.BackdropEffectScope: float access$toDp-u2uoSUM$jd(com.kyant.backdrop.BackdropEffectScope,int)
+androidx.compose.ui.contentcapture.AndroidContentCaptureManager$TranslateStatus: androidx.compose.ui.contentcapture.AndroidContentCaptureManager$TranslateStatus[] values()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.WindowInfo getWindowInfo()
+androidx.compose.ui.platform.LifecycleRetainedValuesStoreOwner: LifecycleRetainedValuesStoreOwner()
+androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicMinMax: androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicMinMax[] values()
+com.kyant.backdrop.backdrops.LayerBackdropElement: void update(androidx.compose.ui.Modifier$Node)
+com.kyant.backdrop.effects.ColorFilterKt: void colorControls(com.kyant.backdrop.BackdropEffectScope,float,float,float)
+com.kyant.backdrop.BackdropEffectScopeImpl: void setLayoutDirection(androidx.compose.ui.unit.LayoutDirection)
+com.kyant.backdrop.highlight.HighlightNode: void setShapeProvider(com.kyant.backdrop.ShapeProvider)
+com.kyant.backdrop.InverseLayerScope: void inverseTransform(androidx.compose.ui.graphics.drawscope.DrawTransform,androidx.compose.ui.unit.Density,kotlin.jvm.functions.Function1)
+androidx.compose.ui.platform.AndroidComposeView: boolean getScrollCaptureInProgress$ui()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityResumed(android.app.Activity)
+com.kyant.backdrop.InverseLayerScope: float getRotationX()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostCreated(android.app.Activity,android.os.Bundle)
+com.kyant.backdrop.DrawBackdropElement: com.kyant.backdrop.Backdrop getBackdrop()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+com.kyant.backdrop.backdrops.LayerBackdropElement: androidx.compose.ui.Modifier$Node create()
+androidx.compose.ui.unit.LayoutDirection: androidx.compose.ui.unit.LayoutDirection valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl29: void setStableInsets(androidx.core.graphics.Insets)
+com.kyant.backdrop.highlight.HighlightStyle$Plain: int hashCode()
+com.kyant.shapes.CopyRoundedRectangle: boolean equals(java.lang.Object)
+com.kyant.backdrop.highlight.Highlight: java.lang.String toString()
+com.kyant.backdrop.highlight.Highlight: float component2-D9Ej5fM()
+com.kyant.backdrop.backdrops.Backdrop: Backdrop(com.kyant.backdrop.Backdrop,kotlin.jvm.functions.Function2)
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: ContinuousCurvatureRoundedRectangleCornerBuilder(double,double,int,kotlin.jvm.internal.DefaultConstructorMarker)
+com.kyant.shapes.Capsule: com.kyant.shapes.RoundedRectangularShape copy(com.kyant.shapes.RoundedCornerStyle)
+com.kyant.backdrop.DrawBackdropNode: void setLayoutCoordinates(androidx.compose.ui.layout.LayoutCoordinates)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.draganddrop.DragAndDropManager getDragAndDropManager()
+androidx.compose.ui.platform.AndroidComposeView: void setCoroutineContext(kotlin.coroutines.CoroutineContext)
+androidx.compose.ui.input.pointer.PointerEventPass: androidx.compose.ui.input.pointer.PointerEventPass[] values()
+androidx.compose.ui.Modifier$Node: boolean getUpdatedNodeAwaitingAttachForInvalidation$ui()
+com.kyant.backdrop.DrawBackdropElement: java.lang.Object foldIn(java.lang.Object,kotlin.jvm.functions.Function2)
+androidx.compose.ui.state.ToggleableState: androidx.compose.ui.state.ToggleableState valueOf(java.lang.String)
+com.kyant.backdrop.DrawBackdropNode: int minIntrinsicWidth(androidx.compose.ui.layout.IntrinsicMeasureScope,androidx.compose.ui.layout.IntrinsicMeasurable,int)
+androidx.core.view.WindowInsetsCompat$Impl31: WindowInsetsCompat$Impl31(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+com.kyant.backdrop.DrawBackdropNode: void onDensityChange()
+com.kyant.backdrop.highlight.HighlightElement: com.kyant.backdrop.ShapeProvider getShapeProvider()
+com.kyant.backdrop.BackdropEffectScopeImpl: BackdropEffectScopeImpl()
+androidx.core.view.WindowInsetsCompat$Impl34: androidx.core.graphics.Insets getInsetsIgnoringVisibility(int)
+androidx.graphics.path.ConicConverter: void convert(float[],float,float,int)
+com.kyant.backdrop.highlight.Highlight: float component1-D9Ej5fM()
+com.kyant.backdrop.shadow.ShadowNode: void setShadow(kotlin.jvm.functions.Function0)
+com.kyant.backdrop.backdrops.CombinedBackdrops: void drawBackdrop(androidx.compose.ui.graphics.drawscope.DrawScope,androidx.compose.ui.unit.Density,androidx.compose.ui.layout.LayoutCoordinates,kotlin.jvm.functions.Function1)
+androidx.compose.runtime.InvalidationResult: androidx.compose.runtime.InvalidationResult[] values()
+androidx.compose.ui.input.pointer.PointerEventPass: androidx.compose.ui.input.pointer.PointerEventPass valueOf(java.lang.String)
+androidx.compose.ui.platform.ViewLayer: void setInvalidated(boolean)
+androidx.compose.ui.platform.OutlineVerificationHelper: void setPath(android.graphics.Outline,androidx.compose.ui.graphics.Path)
+androidx.graphics.path.PathSegment: boolean equals(java.lang.Object)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: androidx.core.view.WindowInsetsCompat build()
+androidx.activity.EdgeToEdgeApi26: void setUp(androidx.activity.SystemBarStyle,androidx.activity.SystemBarStyle,android.view.Window,android.view.View,boolean,boolean)
+androidx.graphics.path.PathSegment: PathSegment(androidx.graphics.path.PathSegment$Type,android.graphics.PointF[],float)
+androidx.graphics.path.PathIterator: androidx.graphics.path.PathSegment next()
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+com.kyant.backdrop.BackdropEffectScope: int roundToPx--R2X_6o(long)
+androidx.compose.ui.window.Api21Impl: int getMaxDialogHeightExcludingSystemBarInsets(android.view.Window)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+com.kyant.backdrop.highlight.Highlight: float component3()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: ProcessLifecycleOwner$attach$1(androidx.lifecycle.ProcessLifecycleOwner)
+androidx.compose.ui.platform.AbstractComposeView: void getDisposeViewCompositionStrategy$annotations()
+androidx.graphics.path.PathIteratorPreApi34Impl: int internalPathIteratorSize(long)
+androidx.compose.ui.Modifier$Node: void getNode$annotations()
+androidx.compose.animation.core.AnimationEndReason: androidx.compose.animation.core.AnimationEndReason valueOf(java.lang.String)
+com.kyant.backdrop.DrawBackdropNode: void onLayoutDirectionChange()
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+com.kyant.backdrop.InverseLayerScope: void setShadowElevation(float)
+com.kyant.shapes.RoundedRectangle: com.kyant.shapes.RoundedRectangle copy(com.kyant.shapes.RoundedCornerStyle)
+com.kyant.backdrop.ShapeProvider: void access$set_outline$p(com.kyant.backdrop.ShapeProvider,androidx.compose.ui.graphics.Outline)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+androidx.compose.foundation.MutatePriority: androidx.compose.foundation.MutatePriority[] values()
+com.kyant.backdrop.BackdropEffectScope$DefaultImpls: long toSp-kPz2Gy4(com.kyant.backdrop.BackdropEffectScope,float)
+com.kyant.backdrop.highlight.HighlightElement: androidx.compose.ui.Modifier then(androidx.compose.ui.Modifier)
+androidx.compose.ui.platform.ViewLayer: float[] getUnderlyingMatrix-sQKQjiQ()
+androidx.compose.runtime.collection.MutableVectorKt: void throwOutOfRangeException(int,int)
+androidx.compose.ui.window.PopupLayout: void setContent(kotlin.jvm.functions.Function2)
+androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicMinMax: androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicMinMax[] values()
+com.kyant.backdrop.highlight.HighlightStyle$Default: HighlightStyle$Default(float,float,float,int,kotlin.jvm.internal.DefaultConstructorMarker)
+com.kyant.backdrop.BackdropEffectScope: float getFontScale()
+com.kyant.backdrop.shadow.InnerShadowNode: void onDensityChange()
+androidx.graphics.path.ConicConverter: ConicConverter()
+com.kyant.backdrop.DrawBackdropElement: androidx.compose.ui.Modifier then(androidx.compose.ui.Modifier)
+androidx.compose.ui.platform.MotionEventVerifierApi29: boolean isValidMotionEvent(android.view.MotionEvent,int)
+com.kyant.backdrop.shadow.ShadowElement: com.kyant.backdrop.shadow.ShadowNode create()
+androidx.core.view.WindowInsetsCompat$Impl: void setSystemUiVisibility(int)
+com.kyant.backdrop.DrawBackdropNode: void setOnDrawBackdrop(kotlin.jvm.functions.Function2)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.Clipboard getClipboard()
+androidx.compose.ui.platform.TextToolbarStatus: androidx.compose.ui.platform.TextToolbarStatus valueOf(java.lang.String)
+androidx.compose.ui.window.PopupLayout: boolean getShouldCreateCompositionOnAttachedToWindow()
+androidx.compose.material3.tokens.TypographyKeyTokens: androidx.compose.material3.tokens.TypographyKeyTokens[] values()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPaused(android.app.Activity)
+com.kyant.backdrop.shadow.Shadow: Shadow(float,long,long,float,int,int,kotlin.jvm.internal.DefaultConstructorMarker)
+com.kyant.shapes.RectangleCornerRadii: java.lang.String toString()
+androidx.compose.ui.window.PopupLayout: void setPopupContentSize-fhxjrPA(androidx.compose.ui.unit.IntSize)
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: double[] buildUnevenCornerBezierPoints$default(com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder,double,double,int,java.lang.Object)
+com.kyant.backdrop.RuntimeShaderCacheImpl: void clear()
+androidx.compose.ui.unit.InlineClassHelperKt: void throwIllegalArgumentException(java.lang.String)
+com.kyant.backdrop.BackdropEffectScopeImpl: void setFontScale(float)
+com.kyant.shapes.CopyRoundedRectangle: float getTopStart-D9Ej5fM()
+androidx.graphics.path.PathIterator: boolean hasNext()
+com.kyant.backdrop.highlight.HighlightStyle$Default: HighlightStyle$Default(long,int,float,float)
+androidx.graphics.path.PathIteratorImpl: boolean hasNext()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.modifier.ModifierLocalManager getModifierLocalManager()
+androidx.compose.material3.internal.InputPhase: androidx.compose.material3.internal.InputPhase valueOf(java.lang.String)
+com.kyant.backdrop.backdrops.LayerBackdrop: boolean isCoordinatesDependent()
+com.kyant.backdrop.shadow.ShadowElement: void update(androidx.compose.ui.Modifier$Node)
+com.kyant.backdrop.DrawBackdropNode: void setOnDrawSurface(kotlin.jvm.functions.Function1)
+com.kyant.shapes.RectangleCornerRadii: com.kyant.shapes.RectangleCornerRadii copy-a9UjIt4(float,float,float,float)
+androidx.compose.ui.platform.AndroidComposeView: long getLastMatrixRecalculationAnimationTime$ui()
+com.kyant.shapes.UnevenRoundedRectangle: UnevenRoundedRectangle(com.kyant.shapes.RectangleCornerRadii,com.kyant.shapes.RoundedCornerStyle,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.compose.ui.platform.TextToolbarStatus: androidx.compose.ui.platform.TextToolbarStatus[] values()
+androidx.compose.ui.layout.IntrinsicMinMax: androidx.compose.ui.layout.IntrinsicMinMax valueOf(java.lang.String)
+androidx.compose.ui.platform.ViewLayer: androidx.compose.ui.platform.DrawChildContainer getContainer()
+com.kyant.shapes.UnevenRoundedRectangle: com.kyant.shapes.UnevenRoundedRectangle copy$default(com.kyant.shapes.UnevenRoundedRectangle,com.kyant.shapes.RectangleCornerRadii,com.kyant.shapes.RoundedCornerStyle,int,java.lang.Object)
+kotlinx.coroutines.selects.TrySelectDetailedResult: kotlinx.coroutines.selects.TrySelectDetailedResult valueOf(java.lang.String)
+androidx.compose.foundation.text.TextContextMenuItems: androidx.compose.foundation.text.TextContextMenuItems valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.ViewConfiguration getViewConfiguration()
+com.kyant.backdrop.shadow.ShadowNode: kotlin.jvm.functions.Function0 getShadow()
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+com.kyant.backdrop.DrawBackdropNode: DrawBackdropNode(com.kyant.backdrop.Backdrop,com.kyant.backdrop.ShapeProvider,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function1,com.kyant.backdrop.backdrops.LayerBackdrop,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function2,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function1)
+com.kyant.backdrop.DrawBackdropModifierKt: androidx.compose.ui.Modifier drawBackdrop(androidx.compose.ui.Modifier,com.kyant.backdrop.Backdrop,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function1,com.kyant.backdrop.backdrops.LayerBackdrop,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function2,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function1)
+androidx.compose.ui.platform.CalculateMatrixToWindowApi29: void calculateMatrixToWindow-EL8BTi8(android.view.View,float[])
+androidx.activity.OnBackPressedDispatcher$Api33Impl: android.window.OnBackInvokedCallback createOnBackInvokedCallback(kotlin.jvm.functions.Function0)
+com.kyant.shapes.RoundedRectangularShape$Corners: float getBottomRight()
+com.kyant.shapes.CopyKt: com.kyant.shapes.RoundedRectangularShape copy-YLPp7PM(com.kyant.shapes.RoundedRectangularShape,float,float,float,float,com.kyant.shapes.RoundedCornerStyle)
+com.kyant.shapes.Capsule: Capsule(com.kyant.shapes.RoundedCornerStyle)
+androidx.core.view.WindowInsetsCompat$Impl20: void copyRootViewBounds(android.view.View)
+com.kyant.backdrop.BackdropEffectScopeImpl: float toDp-GaN1DYA(long)
+androidx.compose.ui.platform.ViewLayer: androidx.compose.ui.platform.AndroidComposeView getOwnerView()
+androidx.window.area.reflectionguard.ExtensionWindowAreaPresentationRequirements: void setPresentationView(android.view.View)
+androidx.compose.foundation.internal.InlineClassHelperKt: java.lang.Void throwIllegalArgumentExceptionForNullCheck(java.lang.String)
+androidx.compose.ui.platform.ViewLayer: void setFrameRate(float)
+com.kyant.backdrop.shadow.InnerShadowElement: void update(com.kyant.backdrop.shadow.InnerShadowNode)
+androidx.compose.ui.autofill.AutofillType: androidx.compose.ui.autofill.AutofillType[] values()
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isTypeVisible(int)
+androidx.core.view.ViewCompat$Api21Impl$1: ViewCompat$Api21Impl$1(android.view.View,androidx.core.view.OnApplyWindowInsetsListener)
+com.kyant.backdrop.DrawBackdropNode: void onAttach()
+kotlinx.coroutines.selects.TrySelectDetailedResult: kotlinx.coroutines.selects.TrySelectDetailedResult[] values()
+com.kyant.backdrop.ShapeProvider: void access$set_layoutDirection$p(com.kyant.backdrop.ShapeProvider,androidx.compose.ui.unit.LayoutDirection)
+androidx.core.view.ViewCompat$Api21Impl: androidx.core.view.WindowInsetsCompat getRootWindowInsets(android.view.View)
+com.kyant.backdrop.backdrops.BackdropKt: com.kyant.backdrop.Backdrop rememberBackdrop(com.kyant.backdrop.Backdrop,kotlin.jvm.functions.Function2,androidx.compose.runtime.Composer,int)
+androidx.compose.ui.contentcapture.ContentCaptureEventType: androidx.compose.ui.contentcapture.ContentCaptureEventType valueOf(java.lang.String)
+androidx.compose.ui.platform.actionmodecallback.MenuItemOption: androidx.compose.ui.platform.actionmodecallback.MenuItemOption valueOf(java.lang.String)
+androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy: androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy valueOf(java.lang.String)
+androidx.compose.foundation.text.selection.SelectionHandleAnchor: androidx.compose.foundation.text.selection.SelectionHandleAnchor[] values()
+com.kyant.backdrop.shadow.InnerShadow$Companion: com.kyant.backdrop.shadow.InnerShadow getDefault()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.runtime.retain.RetainedValuesStore getRetainedValuesStore()
+com.kyant.backdrop.highlight.HighlightStyle$Companion: com.kyant.backdrop.highlight.HighlightStyle$Default getDefault()
+com.kyant.backdrop.InverseLayerScope: float toPx--R2X_6o(long)
+androidx.compose.ui.platform.AndroidComposeViewForceDarkModeQ: void disallowForceDark(android.view.View)
+com.kyant.backdrop.InverseLayerScope: long getSpotShadowColor-0d7_KjU()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+androidx.graphics.path.PathSegment: float getWeight()
+androidx.compose.ui.node.ModifierNodeElement: kotlin.sequences.Sequence getInspectableElements()
+com.kyant.shapes.RoundedRectangularShape$Corners: float component1()
+com.kyant.shapes.RectangleCornerRadii: int hashCode()
+com.kyant.backdrop.shadow.ShadowModifierKt: androidx.compose.ui.graphics.Paint access$getShadowMaskPaint$p()
+com.kyant.backdrop.highlight.HighlightStyle$Companion: void getPlain$annotations()
+com.kyant.backdrop.ShapeProvider: void access$set_shape$p(com.kyant.backdrop.ShapeProvider,androidx.compose.ui.graphics.Shape)
+com.kyant.shapes.UnevenRoundedRectangle: int hashCode()
+androidx.compose.ui.window.PopupLayout: android.view.WindowManager$LayoutParams getParams$ui()
+com.kyant.backdrop.highlight.HighlightStyle: int getBlendMode-0nO6VwU()
+androidx.graphics.path.PathIteratorImpl: androidx.graphics.path.PathSegment$Type next$default(androidx.graphics.path.PathIteratorImpl,float[],int,int,java.lang.Object)
+androidx.compose.material3.internal.TextFieldType: androidx.compose.material3.internal.TextFieldType[] values()
+androidx.core.view.WindowInsetsCompat$Impl: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+androidx.activity.ComponentActivity: void setContentView(android.view.View)
+com.kyant.backdrop.BackdropEffectScope: long access$toSp-kPz2Gy4$jd(com.kyant.backdrop.BackdropEffectScope,float)
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl30)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPaused(android.app.Activity)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.autofill.AndroidAutofillManager get_autofillManager$ui()
+com.kyant.shapes.CopyKt: com.kyant.shapes.UnevenRoundedRectangle copy$default(com.kyant.shapes.RoundedRectangularShape,com.kyant.shapes.RectangleCornerRadii,com.kyant.shapes.RoundedCornerStyle,int,java.lang.Object)
+androidx.graphics.path.ConicConverter: void convert$default(androidx.graphics.path.ConicConverter,float[],float,float,int,int,java.lang.Object)
+com.kyant.backdrop.backdrops.LayerBackdrop: androidx.compose.ui.graphics.layer.GraphicsLayer getGraphicsLayer()
+androidx.compose.ui.platform.AbstractComposeView: boolean getShouldCreateCompositionOnAttachedToWindow()
+androidx.compose.ui.window.PopupLayout: void setTestTag(java.lang.String)
+com.kyant.shapes.RoundedRectangularShape$Corners: float component4()
+androidx.compose.ui.text.AnnotationType: androidx.compose.ui.text.AnnotationType valueOf(java.lang.String)
+androidx.compose.runtime.collection.MutableVectorKt: void throwReversedIndicesException(int,int)
+com.kyant.backdrop.backdrops.LayerBackdropKt: com.kyant.backdrop.backdrops.LayerBackdrop rememberLayerBackdrop(androidx.compose.ui.graphics.layer.GraphicsLayer,kotlin.jvm.functions.Function1,androidx.compose.runtime.Composer,int,int)
+com.kyant.backdrop.highlight.HighlightStyle$Companion: com.kyant.backdrop.highlight.HighlightStyle$Ambient getAmbient()
+androidx.compose.ui.text.style.ResolvedTextDirection: androidx.compose.ui.text.style.ResolvedTextDirection valueOf(java.lang.String)
+com.kyant.backdrop.DrawBackdropElement: DrawBackdropElement(com.kyant.backdrop.Backdrop,com.kyant.backdrop.ShapeProvider,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function1,com.kyant.backdrop.backdrops.LayerBackdrop,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function2,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function1)
+com.kyant.backdrop.backdrops.EmptyBackdropKt: com.kyant.backdrop.Backdrop emptyBackdrop()
+com.kyant.shapes.LerpRoundedRectangle: com.kyant.shapes.RoundedRectangularShape component1()
+com.kyant.backdrop.BackdropEffectScopeImpl: long toSp-kPz2Gy4(float)
+com.kyant.backdrop.effects.RenderEffectKt: void effect(com.kyant.backdrop.BackdropEffectScope,android.graphics.RenderEffect)
+com.kyant.shapes.CopyKt: com.kyant.shapes.RoundedRectangularShape copy-YLPp7PM$default(com.kyant.shapes.RoundedRectangularShape,float,float,float,float,com.kyant.shapes.RoundedCornerStyle,int,java.lang.Object)
+com.kyant.backdrop.InverseLayerScope: androidx.compose.ui.graphics.Shape getShape()
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilderKt: double solveDepressedQuarticSingle(double,double,double)
+androidx.compose.ui.window.Api28Impl: void setLayoutInDisplayCutout(android.view.WindowManager$LayoutParams)
+androidx.compose.runtime.PausedCompositionState: androidx.compose.runtime.PausedCompositionState[] values()
+com.kyant.backdrop.InverseLayerScope: void inverseTransformAtTopLeft$default(com.kyant.backdrop.InverseLayerScope,androidx.compose.ui.graphics.drawscope.DrawTransform,float,float,float,int,java.lang.Object)
+com.kyant.shapes.RectangleCornerRadii: float component3-D9Ej5fM()
+androidx.compose.ui.Modifier$Node: void setAsDelegateTo$ui(androidx.compose.ui.Modifier$Node)
+androidx.compose.ui.platform.AndroidComposeView: void setConfiguration(android.content.res.Configuration)
+androidx.graphics.path.PathIteratorImpl: PathIteratorImpl(android.graphics.Path,androidx.graphics.path.PathIterator$ConicEvaluation,float)
+androidx.compose.foundation.text.selection.DownResolution: androidx.compose.foundation.text.selection.DownResolution[] values()
+com.kyant.backdrop.InverseLayerScope: void setCompositingStrategy-aDBOjCE(int)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+com.kyant.shapes.RoundedRectangle: RoundedRectangle(float,com.kyant.shapes.RoundedCornerStyle)
+androidx.compose.ui.input.pointer.PointerInputEventHandler: java.lang.Object invoke(androidx.compose.ui.input.pointer.PointerInputScope,kotlin.coroutines.Continuation)
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: void setInsets(int,androidx.core.graphics.Insets)
+androidx.compose.foundation.internal.InlineClassHelperKt: void throwIllegalArgumentException(java.lang.String)
+com.kyant.backdrop.highlight.HighlightStyle$Ambient: float getIntensity()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPreCreated(android.app.Activity,android.os.Bundle)
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+com.kyant.backdrop.DrawBackdropNode: void setEffects(kotlin.jvm.functions.Function1)
+androidx.graphics.path.PathSegment$Type: PathSegment$Type(java.lang.String,int)
+androidx.compose.runtime.collection.MutableVectorKt: void throwNegativeIndexException(int)
+com.kyant.backdrop.highlight.HighlightStyle$Ambient: java.lang.String toString()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.platform.ComposeView: java.lang.CharSequence getAccessibilityClassName()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPrePaused(android.app.Activity)
+com.kyant.backdrop.shadow.InnerShadow: InnerShadow(float,long,long,float,int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void applyInsetTypes()
+androidx.emoji2.text.EmojiExclusions$EmojiExclusions_Api34: java.util.Set getExclusions()
+androidx.core.view.WindowInsetsCompat$BuilderImpl31: WindowInsetsCompat$BuilderImpl31(androidx.core.view.WindowInsetsCompat)
+com.kyant.backdrop.shadow.Shadow: com.kyant.backdrop.shadow.Shadow copy-Qp58iTY(float,long,long,float,int)
+com.kyant.shapes.UnevenRoundedRectangle: com.kyant.shapes.RoundedRectangularShape$Corners corners-Pq9zytI(long,androidx.compose.ui.unit.LayoutDirection,androidx.compose.ui.unit.Density)
+com.kyant.backdrop.highlight.HighlightStyle$Default: int component2-0nO6VwU()
+com.kyant.backdrop.BackdropEffectScope$DefaultImpls: long toSp-kPz2Gy4(com.kyant.backdrop.BackdropEffectScope,int)
+androidx.graphics.path.PathIteratorPreApi34Impl: int calculateSize(boolean)
+androidx.core.view.WindowInsetsCompat$Impl30: androidx.core.graphics.Insets getInsetsIgnoringVisibility(int)
+com.kyant.backdrop.shadow.InnerShadowElement: InnerShadowElement(com.kyant.backdrop.ShapeProvider,kotlin.jvm.functions.Function0)
+com.kyant.shapes.UnevenRoundedRectangle: com.kyant.shapes.UnevenRoundedRectangle copy(com.kyant.shapes.RectangleCornerRadii,com.kyant.shapes.RoundedCornerStyle)
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getInsetsIgnoringVisibility(int)
+com.kyant.backdrop.shadow.InnerShadow: float component1-D9Ej5fM()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+com.kyant.shapes.RectangleCornerRadii: float component2-D9Ej5fM()
+com.kyant.backdrop.shadow.InnerShadowElement: androidx.compose.ui.Modifier$Node create()
+kotlin.LazyThreadSafetyMode: kotlin.LazyThreadSafetyMode valueOf(java.lang.String)
+androidx.compose.ui.contentcapture.AndroidContentCaptureManager$TranslateStatus: androidx.compose.ui.contentcapture.AndroidContentCaptureManager$TranslateStatus valueOf(java.lang.String)
+com.kyant.backdrop.R: R()
+kotlin.time.DurationUnit: kotlin.time.DurationUnit valueOf(java.lang.String)
+com.kyant.backdrop.DrawBackdropNode: kotlin.jvm.functions.Function1 getLayerBlock()
+androidx.compose.ui.node.LayoutNode$UsageByParent: androidx.compose.ui.node.LayoutNode$UsageByParent valueOf(java.lang.String)
+androidx.lifecycle.SavedStateHandlesVM: SavedStateHandlesVM()
+androidx.core.view.WindowInsetsCompat$Impl: boolean equals(java.lang.Object)
+androidx.compose.ui.platform.DrawChildContainer: int getChildCount()
+com.kyant.shapes.RoundedRectangle: java.lang.String toString()
+com.kyant.backdrop.highlight.Highlight: Highlight(float,float,float,com.kyant.backdrop.highlight.HighlightStyle,int,kotlin.jvm.internal.DefaultConstructorMarker)
+com.kyant.backdrop.BackdropEffectScope: androidx.compose.ui.geometry.Rect toRect(androidx.compose.ui.unit.DpRect)
+com.kyant.backdrop.BackdropEffectScope: long toSp-kPz2Gy4(int)
+com.kyant.backdrop.highlight.HighlightNode: void onDetach()
+com.kyant.backdrop.backdrops.Combined2Backdrops: void drawBackdrop(androidx.compose.ui.graphics.drawscope.DrawScope,androidx.compose.ui.unit.Density,androidx.compose.ui.layout.LayoutCoordinates,kotlin.jvm.functions.Function1)
+com.kyant.backdrop.shadow.InnerShadowElement: androidx.compose.ui.Modifier then(androidx.compose.ui.Modifier)
+com.kyant.backdrop.shadow.ShadowNode: void draw(androidx.compose.ui.graphics.drawscope.ContentDrawScope)
+androidx.compose.ui.Modifier$Node: androidx.compose.ui.node.NodeCoordinator getCoordinator$ui()
+androidx.compose.ui.Modifier$Node: kotlin.jvm.functions.Function0 getDetachedListener$ui()
+com.kyant.backdrop.BackdropEffectScope: float getDensity()
+androidx.activity.EdgeToEdgeApi28: void adjustLayoutInDisplayCutoutMode(android.view.Window)
+androidx.graphics.path.PathSegment$Type: androidx.graphics.path.PathSegment$Type valueOf(java.lang.String)
+androidx.compose.ui.Modifier$Node: boolean isAttached()
+androidx.activity.ComponentActivity$Api33Impl: android.window.OnBackInvokedDispatcher getOnBackInvokedDispatcher(android.app.Activity)
+com.kyant.backdrop.shadow.InnerShadow: long component2-RKDOV3M()
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+com.kyant.backdrop.backdrops.CombinedBackdropKt: com.kyant.backdrop.Backdrop rememberCombinedBackdrop(com.kyant.backdrop.Backdrop,com.kyant.backdrop.Backdrop,com.kyant.backdrop.Backdrop,androidx.compose.runtime.Composer,int)
+com.kyant.backdrop.InverseLayerScope: long toSize-XkaWNTQ(long)
+androidx.compose.ui.platform.AndroidComposeView: void setOnViewTreeOwnersAvailable(kotlin.jvm.functions.Function1)
+com.kyant.backdrop.DrawBackdropNode: kotlin.Unit measure_3p2s80s$lambda$0(androidx.compose.ui.layout.Placeable,com.kyant.backdrop.DrawBackdropNode,androidx.compose.ui.layout.Placeable$PlacementScope)
+com.kyant.backdrop.highlight.HighlightStyle$Default: HighlightStyle$Default(float,float,float)
+com.kyant.backdrop.highlight.HighlightStyle$Plain: long getColor-0d7_KjU()
+androidx.compose.ui.text.AnnotationType: androidx.compose.ui.text.AnnotationType[] values()
+com.kyant.backdrop.highlight.Highlight: com.kyant.backdrop.highlight.Highlight access$getDefault$cp()
+com.kyant.backdrop.DrawBackdropNode: kotlin.jvm.functions.Function1 getEffects()
+com.kyant.backdrop.backdrops.Combined3Backdrops: void drawBackdrop(androidx.compose.ui.graphics.drawscope.DrawScope,androidx.compose.ui.unit.Density,androidx.compose.ui.layout.LayoutCoordinates,kotlin.jvm.functions.Function1)
+com.kyant.backdrop.shadow.ShadowElement: void inspectableProperties(androidx.compose.ui.platform.InspectorInfo)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStopped(android.app.Activity)
+androidx.compose.ui.platform.AbstractComposeView: int getAutoClearFocusBehavior-4UtRPd4()
+androidx.graphics.path.PathIteratorPreApi34Impl: boolean internalPathIteratorHasNext(long)
+androidx.compose.ui.platform.AndroidComposeView: void setLastMatrixRecalculationAnimationTime$ui(long)
+com.kyant.backdrop.InverseLayerScope: void setRotationY(float)
+androidx.compose.ui.window.SecureFlagPolicy: androidx.compose.ui.window.SecureFlagPolicy valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: android.view.WindowInsets createWindowInsetsInstance()
+com.kyant.backdrop.backdrops.LayerBackdropElement: boolean equals(java.lang.Object)
+androidx.compose.ui.platform.Api35Impl: void setRequestedFrameRate(android.view.View,float)
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+com.kyant.backdrop.backdrops.LayerBackdropNode: void draw(androidx.compose.ui.graphics.drawscope.ContentDrawScope)
+com.kyant.backdrop.InverseLayerScope: void setDensity(float)
+com.kyant.backdrop.RuntimeShaderCacheImpl: android.graphics.RuntimeShader obtainRuntimeShader(java.lang.String,java.lang.String)
+androidx.compose.foundation.MutatePriority: androidx.compose.foundation.MutatePriority valueOf(java.lang.String)
+com.kyant.backdrop.backdrops.LayerBackdropModifierKt: androidx.compose.ui.Modifier layerBackdrop(androidx.compose.ui.Modifier,com.kyant.backdrop.backdrops.LayerBackdrop)
+com.kyant.backdrop.highlight.HighlightStyle$Ambient: boolean equals(java.lang.Object)
+com.kyant.shapes.RoundedRectangle: com.kyant.shapes.RoundedRectangle copy-D5KLDUw(float,com.kyant.shapes.RoundedCornerStyle)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getSystemGestureInsets()
+androidx.compose.foundation.layout.internal.InlineClassHelperKt: void throwIllegalStateException(java.lang.String)
+com.kyant.backdrop.DrawBackdropElement: androidx.compose.ui.Modifier$Node create()
+androidx.compose.ui.internal.InlineClassHelperKt: void throwIllegalStateException(java.lang.String)
+com.kyant.backdrop.shadow.ShadowNode: com.kyant.backdrop.ShapeProvider getShapeProvider()
+com.kyant.shapes.CopyRoundedRectangle: int hashCode()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+androidx.compose.foundation.text.Handle: androidx.compose.foundation.text.Handle[] values()
+com.kyant.backdrop.effects.ColorFilterKt: void colorFilter(com.kyant.backdrop.BackdropEffectScope,android.graphics.ColorFilter)
+com.kyant.backdrop.shadow.ShadowElement: boolean any(kotlin.jvm.functions.Function1)
+com.kyant.backdrop.BackdropEffectScope: androidx.compose.ui.unit.LayoutDirection getLayoutDirection()
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+com.kyant.backdrop.highlight.Highlight$Companion: Highlight$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+com.kyant.shapes.RoundedRectangularShape$Corners: int hashCode()
+androidx.compose.ui.autofill.AutofillType: androidx.compose.ui.autofill.AutofillType valueOf(java.lang.String)
+com.kyant.backdrop.shadow.ShadowElement: ShadowElement(com.kyant.backdrop.ShapeProvider,kotlin.jvm.functions.Function0)
+androidx.compose.material3.tokens.ColorSchemeKeyTokens: androidx.compose.material3.tokens.ColorSchemeKeyTokens[] values()
+com.kyant.backdrop.shadow.ShadowElement: androidx.compose.ui.Modifier$Node create()
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl21)
+com.kyant.backdrop.highlight.HighlightStyle$Default: boolean equals(java.lang.Object)
+androidx.compose.ui.window.PopupLayout: java.lang.String getTestTag()
+com.kyant.backdrop.shadow.InnerShadow: InnerShadow(float,long,long,float,int,int,kotlin.jvm.internal.DefaultConstructorMarker)
+com.kyant.backdrop.BackdropEffectScope: long access$toDpSize-k-rfVVM$jd(com.kyant.backdrop.BackdropEffectScope,long)
+com.kyant.backdrop.shadow.Shadow: com.kyant.backdrop.shadow.Shadow access$getDefault$cp()
+androidx.compose.ui.platform.ViewLayer: void setFrameRateFromParent(boolean)
+androidx.graphics.path.PathUtilities: androidx.graphics.path.PathIterator iterator(android.graphics.Path,androidx.graphics.path.PathIterator$ConicEvaluation,float)
+com.kyant.backdrop.highlight.HighlightStyle$Ambient: com.kyant.backdrop.highlight.HighlightStyle$Ambient copy$default(com.kyant.backdrop.highlight.HighlightStyle$Ambient,float,int,java.lang.Object)
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: double[] buildCornerBezierPoints(double,double)
+com.kyant.backdrop.shadow.InnerShadow: float getAlpha()
+com.kyant.backdrop.DrawBackdropNode: com.kyant.backdrop.backdrops.LayerBackdrop getExportedBackdrop()
+com.kyant.backdrop.highlight.HighlightStyle$Plain: java.lang.String toString()
+com.kyant.backdrop.BackdropEffectScope: int roundToPx-0680j_4(float)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostResumed(android.app.Activity)
+androidx.compose.ui.Modifier$Node: androidx.compose.ui.node.ObserverNodeOwnerScope getOwnerScope$ui()
+kotlinx.coroutines.flow.SharingCommand: kotlinx.coroutines.flow.SharingCommand[] values()
+com.kyant.backdrop.BackdropEffectScope: long toSp-0xMU5do(float)
+androidx.compose.ui.node.LookaheadPassDelegate$PlacedState: androidx.compose.ui.node.LookaheadPassDelegate$PlacedState valueOf(java.lang.String)
+com.kyant.shapes.CopyRoundedRectangle: CopyRoundedRectangle(com.kyant.shapes.RoundedRectangularShape,float,float,float,float,com.kyant.shapes.RoundedCornerStyle)
+androidx.compose.ui.Modifier$Node: void onAttach()
+androidx.compose.ui.Modifier$Node: boolean getInsertedNodeAwaitingAttachForInvalidation$ui()
+com.kyant.backdrop.DrawBackdropElement: kotlin.jvm.functions.Function1 getOnDrawBehind()
+com.kyant.backdrop.shadow.Shadow: long getOffset-RKDOV3M()
+com.kyant.backdrop.DrawBackdropElement: kotlin.jvm.functions.Function1 getLayerBlock()
+com.kyant.backdrop.highlight.HighlightStyle$Default: HighlightStyle$Default(long,int,float,float,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.autofill.AutofillTree getAutofillTree()
+androidx.compose.runtime.collection.MutableVectorKt: void throwListIndexOutOfBoundsException(int,int)
+com.kyant.backdrop.highlight.HighlightElement: int hashCode()
+com.kyant.backdrop.shadow.Shadow: float getAlpha()
+com.kyant.backdrop.highlight.HighlightStyle$Default: float component3()
+androidx.graphics.path.ConicConverter: int getCurrentQuadratic()
+androidx.compose.ui.text.internal.InlineClassHelperKt: void throwIllegalStateException(java.lang.String)
+androidx.graphics.path.PathIterator$ConicEvaluation: PathIterator$ConicEvaluation(java.lang.String,int)
+androidx.graphics.path.PathIteratorApi34Impl: PathIteratorApi34Impl(android.graphics.Path,androidx.graphics.path.PathIterator$ConicEvaluation,float)
+androidx.compose.ui.platform.AndroidComposeView: android.content.res.Configuration getConfiguration()
+androidx.graphics.path.PathIteratorPreApi34Impl: PathIteratorPreApi34Impl(android.graphics.Path,androidx.graphics.path.PathIterator$ConicEvaluation,float)
+androidx.core.view.ViewCompat$Api29Impl: android.view.View$AccessibilityDelegate getAccessibilityDelegate(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean equals(java.lang.Object)
+com.kyant.shapes.RoundedRectangle: androidx.compose.ui.graphics.Outline createOutline-Pq9zytI(long,androidx.compose.ui.unit.LayoutDirection,androidx.compose.ui.unit.Density)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getTappableElementInsets()
+com.kyant.backdrop.BackdropEffectScope$DefaultImpls: long toSp-0xMU5do(com.kyant.backdrop.BackdropEffectScope,float)
+androidx.compose.animation.core.MutatePriority: androidx.compose.animation.core.MutatePriority valueOf(java.lang.String)
+com.kyant.backdrop.backdrops.LayerBackdrop: androidx.compose.ui.layout.LayoutCoordinates getLayerCoordinates$backdrop()
+androidx.compose.ui.Modifier$Node: void setInsertedNodeAwaitingAttachForInvalidation$ui(boolean)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStopped(android.app.Activity)
+androidx.compose.foundation.text.selection.SelectedTextType: androidx.compose.foundation.text.selection.SelectedTextType valueOf(java.lang.String)
+com.kyant.backdrop.InverseLayerScope: void setScaleY(float)
+com.kyant.backdrop.backdrops.Backdrop: boolean isCoordinatesDependent()
+androidx.compose.foundation.text.selection.SelectedTextType: androidx.compose.foundation.text.selection.SelectedTextType[] values()
+androidx.compose.ui.window.PopupLayout: void setParentLayoutDirection(androidx.compose.ui.unit.LayoutDirection)
+androidx.compose.ui.Modifier$Node: void onReset()
+com.kyant.backdrop.backdrops.CanvasBackdrop: void drawBackdrop(androidx.compose.ui.graphics.drawscope.DrawScope,androidx.compose.ui.unit.Density,androidx.compose.ui.layout.LayoutCoordinates,kotlin.jvm.functions.Function1)
+com.kyant.backdrop.backdrops.CombinedBackdrops: com.kyant.backdrop.Backdrop[] getBackdrops()
+androidx.compose.ui.platform.AndroidComposeView: boolean getHasPendingMeasureOrLayout()
+com.kyant.backdrop.BackdropEffectScopeImpl: float getFontScale()
+androidx.core.view.WindowInsetsCompat$Impl: boolean isVisible(int)
+com.kyant.shapes.RoundedRectangularShape$Corners: float getTopLeft()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.TextToolbar getTextToolbar()
+com.kyant.backdrop.BackdropEffectScope: float access$toDp-u2uoSUM$jd(com.kyant.backdrop.BackdropEffectScope,float)
+com.kyant.backdrop.LayerRecorderKt: kotlin.Unit recordLayer_TdoYBX4$lambda$0(androidx.compose.ui.unit.Density,kotlin.jvm.functions.Function1,androidx.compose.ui.graphics.drawscope.DrawScope)
+androidx.compose.material3.tokens.TypographyKeyTokens: androidx.compose.material3.tokens.TypographyKeyTokens valueOf(java.lang.String)
+com.kyant.shapes.CopyRoundedRectangle: float getBottomEnd-D9Ej5fM()
+androidx.core.view.WindowInsetsCompat$TypeImpl30: int toPlatformType(int)
+androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy: androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy[] values()
+com.kyant.backdrop.DrawBackdropNode: kotlin.Unit recordBackdropBlock$lambda$0$0(com.kyant.backdrop.DrawBackdropNode,androidx.compose.ui.graphics.drawscope.DrawScope)
+com.kyant.backdrop.shadow.ShadowElement: kotlin.jvm.functions.Function0 getShadow()
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.compose.ui.unit.ConstraintsKt: java.lang.Void throwInvalidConstraintsSizeException(int)
+androidx.compose.ui.window.PopupLayout: void setPositionProvider(androidx.compose.ui.window.PopupPositionProvider)
+androidx.graphics.path.PathIteratorPreApi34Impl: int internalPathIteratorRawSize(long)
+com.kyant.backdrop.shadow.InnerShadow: com.kyant.backdrop.shadow.InnerShadow copy-Qp58iTY$default(com.kyant.backdrop.shadow.InnerShadow,float,long,long,float,int,int,java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.view.WindowInsetsCompat inset(int,int,int,int)
+com.kyant.shapes.RoundedRectangularShape$DefaultImpls: com.kyant.shapes.RoundedCornerStyle getStyle(com.kyant.shapes.RoundedRectangularShape)
+com.kyant.backdrop.RuntimeShaderCache: android.graphics.RuntimeShader obtainRuntimeShader(java.lang.String,java.lang.String)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void startRearDisplayPresentationSession(android.app.Activity,androidx.window.extensions.core.util.function.Consumer)
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: LifecycleDispatcher$DispatcherActivityCallback()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityPaused(android.app.Activity)
+com.kyant.backdrop.shadow.Shadow: float component1-D9Ej5fM()
+com.kyant.backdrop.DrawBackdropNode: int minIntrinsicHeight(androidx.compose.ui.layout.IntrinsicMeasureScope,androidx.compose.ui.layout.IntrinsicMeasurable,int)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.hapticfeedback.HapticFeedback getHapticFeedBack()
+androidx.core.graphics.drawable.IconCompat: IconCompat()
+androidx.compose.ui.platform.AbstractComposeView: void setShowLayoutBounds(boolean)
+com.kyant.backdrop.highlight.HighlightElement: java.lang.Object foldOut(java.lang.Object,kotlin.jvm.functions.Function2)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.graphics.path.PathIteratorImplKt: androidx.graphics.path.PathSegment$Type platformToAndroidXSegmentType(int)
+com.kyant.backdrop.shadow.InnerShadow: int getBlendMode-0nO6VwU()
+androidx.graphics.path.PathIteratorImpl: int calculateSize(boolean)
+com.kyant.backdrop.backdrops.EmptyBackdrop: boolean isCoordinatesDependent()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AccessibilityManager getAccessibilityManager()
+com.kyant.backdrop.highlight.HighlightNode: void onLayoutDirectionChange()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setTappableElementInsets(androidx.core.graphics.Insets)
+com.kyant.backdrop.backdrops.Combined2Backdrops: com.kyant.backdrop.Backdrop getBackdrop1()
+androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicWidthHeight: androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicWidthHeight valueOf(java.lang.String)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStarted(android.app.Activity)
+androidx.window.area.reflectionguard.ExtensionWindowAreaStatusRequirements: int getWindowAreaStatus()
+com.kyant.backdrop.LayerRecorderKt: void recordLayer-TdoYBX4(androidx.compose.ui.node.DelegatableNode,androidx.compose.ui.graphics.drawscope.DrawScope,androidx.compose.ui.graphics.layer.GraphicsLayer,long,kotlin.jvm.functions.Function1)
+com.kyant.backdrop.highlight.HighlightStyle$Default: long getColor-0d7_KjU()
+androidx.compose.ui.layout.IntrinsicMinMax: androidx.compose.ui.layout.IntrinsicMinMax[] values()
+androidx.compose.ui.focus.FocusStateImpl: androidx.compose.ui.focus.FocusStateImpl[] values()
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+com.kyant.backdrop.BackdropEffectScope: int access$roundToPx--R2X_6o$jd(com.kyant.backdrop.BackdropEffectScope,long)
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+com.kyant.backdrop.InverseLayerScope: float toDp-GaN1DYA(long)
+androidx.compose.ui.node.LayoutNode$LayoutState: androidx.compose.ui.node.LayoutNode$LayoutState valueOf(java.lang.String)
+androidx.compose.animation.core.AnimationEndReason: androidx.compose.animation.core.AnimationEndReason[] values()
+com.kyant.backdrop.effects.ColorFilterKt: android.graphics.ColorFilter colorControlsColorFilter$default(float,float,float,int,java.lang.Object)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void removeRearDisplayPresentationStatusListener(androidx.window.extensions.core.util.function.Consumer)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: WindowInsetsCompat$BuilderImpl29()
+androidx.compose.foundation.layout.internal.InlineClassHelperKt: void throwIllegalArgumentException(java.lang.String)
+com.kyant.backdrop.highlight.Highlight: Highlight(float,float,float,com.kyant.backdrop.highlight.HighlightStyle)
+com.kyant.backdrop.OutlineKt: void clipOutline(androidx.compose.ui.graphics.Canvas,androidx.compose.ui.graphics.Outline,androidx.compose.ui.graphics.Path)
+com.kyant.backdrop.highlight.Highlight: Highlight(float,float,float,com.kyant.backdrop.highlight.HighlightStyle,kotlin.jvm.internal.DefaultConstructorMarker)
+com.kyant.backdrop.DrawBackdropNode: void setPadding(float)
+androidx.compose.ui.platform.AndroidComposeView: androidx.collection.IntObjectMap getLayoutNodes()
+com.kyant.backdrop.backdrops.Backdrop: void drawBackdrop(androidx.compose.ui.graphics.drawscope.DrawScope,androidx.compose.ui.unit.Density,androidx.compose.ui.layout.LayoutCoordinates,kotlin.jvm.functions.Function1)
+com.kyant.backdrop.DrawBackdropNode: androidx.compose.ui.layout.MeasureResult measure-3p2s80s(androidx.compose.ui.layout.MeasureScope,androidx.compose.ui.layout.Measurable,long)
+androidx.compose.ui.window.Api30Impl: void setFitInsetsTypes(android.view.WindowManager$LayoutParams,int)
+com.kyant.backdrop.ShapeProvider: androidx.compose.ui.unit.LayoutDirection access$get_layoutDirection$p(com.kyant.backdrop.ShapeProvider)
+com.kyant.shapes.LerpRoundedRectangle: com.kyant.shapes.LerpRoundedRectangle copy$default(com.kyant.shapes.LerpRoundedRectangle,com.kyant.shapes.RoundedRectangularShape,com.kyant.shapes.RoundedRectangularShape,float,com.kyant.shapes.RoundedCornerStyle,int,java.lang.Object)
+androidx.compose.ui.graphics.Path$Direction: androidx.compose.ui.graphics.Path$Direction[] values()
+com.kyant.shapes.RoundedRectangle: int hashCode()
+androidx.core.view.ViewCompat$Api28Impl: boolean isScreenReaderFocusable(android.view.View)
+com.kyant.shapes.UnevenRoundedRectangle: com.kyant.shapes.RoundedRectangularShape copy(com.kyant.shapes.RoundedCornerStyle)
+com.kyant.backdrop.InverseLayerScope: float getScaleY()
+androidx.graphics.path.PathIteratorApi34Impl: androidx.graphics.path.PathSegment$Type next(float[],int)
+com.kyant.shapes.LerpRoundedRectangle: com.kyant.shapes.RoundedCornerStyle getStyle()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: ReportFragment$LifecycleCallbacks()
+androidx.core.view.WindowInsetsCompat$Impl30: void copyRootViewBounds(android.view.View)
+com.kyant.backdrop.InverseLayerScope: float getTranslationY()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void registerIn(android.app.Activity)
+androidx.compose.ui.node.Invalidation: androidx.compose.ui.node.Invalidation[] values()
+com.kyant.backdrop.BackdropEffectScope$DefaultImpls: float toPx--R2X_6o(com.kyant.backdrop.BackdropEffectScope,long)
+com.kyant.backdrop.backdrops.LayerBackdropElement: androidx.compose.ui.Modifier then(androidx.compose.ui.Modifier)
+androidx.activity.OnBackPressedDispatcher$Api33Impl: void unregisterOnBackInvokedCallback(java.lang.Object,java.lang.Object)
+androidx.compose.foundation.text.contextmenu.modifier.ToolbarHandlerState: androidx.compose.foundation.text.contextmenu.modifier.ToolbarHandlerState[] values()
+com.kyant.backdrop.highlight.HighlightStyle$Ambient: HighlightStyle$Ambient(float,int,kotlin.jvm.internal.DefaultConstructorMarker)
+com.kyant.backdrop.highlight.HighlightStyle$Plain: com.kyant.backdrop.highlight.HighlightStyle$Plain copy-xETnrds(long,int)
+com.kyant.backdrop.Backdrop: void drawBackdrop(androidx.compose.ui.graphics.drawscope.DrawScope,androidx.compose.ui.unit.Density,androidx.compose.ui.layout.LayoutCoordinates,kotlin.jvm.functions.Function1)
+com.kyant.backdrop.DrawBackdropElement: kotlin.jvm.functions.Function1 getOnDrawFront()
+com.kyant.backdrop.shadow.Shadow: float getRadius-D9Ej5fM()
+com.kyant.backdrop.highlight.HighlightStyle$Default: int hashCode()
+androidx.compose.ui.node.LayoutNode: java.lang.String exceptionMessageForParentingOrOwnership(androidx.compose.ui.node.LayoutNode)
+com.kyant.backdrop.InverseLayerScope: void setTranslationY(float)
+androidx.compose.ui.graphics.layer.view.DrawChildContainer: int getChildCount()
+androidx.graphics.path.PathIterator$ConicEvaluation: androidx.graphics.path.PathIterator$ConicEvaluation[] $values()
+com.kyant.shapes.Rectangle: com.kyant.shapes.RoundedRectangularShape$Corners corners-Pq9zytI(long,androidx.compose.ui.unit.LayoutDirection,androidx.compose.ui.unit.Density)
+com.kyant.backdrop.shadow.Shadow: Shadow(float,long,long,float,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.graphics.path.PathIterator: float getTolerance()
+androidx.compose.ui.platform.AndroidComposeView: void set_viewTreeOwners(androidx.compose.ui.platform.AndroidComposeView$ViewTreeOwners)
+com.kyant.backdrop.DrawBackdropNode: int maxIntrinsicHeight(androidx.compose.ui.layout.IntrinsicMeasureScope,androidx.compose.ui.layout.IntrinsicMeasurable,int)
+com.kyant.backdrop.shadow.ShadowNode: boolean getShouldAutoInvalidate()
+com.kyant.backdrop.DrawBackdropElement: com.kyant.backdrop.ShapeProvider getShapeProvider()
+com.kyant.backdrop.highlight.HighlightStyle$Default: float getAngle()
+androidx.graphics.path.PathUtilities: androidx.graphics.path.PathIterator iterator(android.graphics.Path)
+androidx.compose.foundation.gestures.Orientation: androidx.compose.foundation.gestures.Orientation[] values()
+com.kyant.backdrop.DrawBackdropNode: kotlin.jvm.functions.Function2 getOnDrawBackdrop()
+androidx.core.view.WindowInsetsCompat$Impl20: void setSystemUiVisibility(int)
+androidx.core.view.WindowInsetsCompat$Impl: void copyRootViewBounds(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl28: boolean equals(java.lang.Object)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidViewsHandler getAndroidViewsHandler$ui()
+com.kyant.shapes.CopyRoundedRectangle: com.kyant.shapes.CopyRoundedRectangle copy(com.kyant.shapes.RoundedCornerStyle)
+com.kyant.backdrop.InverseLayerScope: void setColorFilter(androidx.compose.ui.graphics.ColorFilter)
+androidx.lifecycle.ReportFragment: ReportFragment()
+com.kyant.backdrop.BackdropEffectScopeImpl: void apply(kotlin.jvm.functions.Function1)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidAccessibilityManager getAccessibilityManager()
+androidx.compose.ui.platform.AndroidComposeView: void setLayoutDirection(androidx.compose.ui.unit.LayoutDirection)
+com.kyant.shapes.UnevenRoundedRectangle: androidx.compose.ui.graphics.Outline createOutline-Pq9zytI(long,androidx.compose.ui.unit.LayoutDirection,androidx.compose.ui.unit.Density)
+androidx.activity.EdgeToEdgeApi23: void setUp(androidx.activity.SystemBarStyle,androidx.activity.SystemBarStyle,android.view.Window,android.view.View,boolean,boolean)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setStableInsets(androidx.core.graphics.Insets)
+androidx.core.view.WindowInsetsCompat$Impl: void setOverriddenInsets(androidx.core.graphics.Insets[])
+com.kyant.backdrop.BackdropEffectScopeImpl: int roundToPx-0680j_4(float)
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: double[] buildUnevenCornerBezierPoints(double,double)
+androidx.compose.ui.Modifier$Node: void setDetachedListener$ui(kotlin.jvm.functions.Function0)
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: WindowInsetsCompat$BuilderImpl30()
+com.kyant.backdrop.shadow.ShadowNode: void onAttach()
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void endRearDisplaySession()
+com.kyant.backdrop.highlight.HighlightStyle$Ambient: float component1()
+com.kyant.shapes.CopyRoundedRectangle: float component3-D9Ej5fM()
+com.kyant.shapes.CopyRoundedRectangle: com.kyant.shapes.CopyRoundedRectangle copy-YLPp7PM(com.kyant.shapes.RoundedRectangularShape,float,float,float,float,com.kyant.shapes.RoundedCornerStyle)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsetsForType(int,boolean)
+com.kyant.shapes.CopyRoundedRectangle: float component2-D9Ej5fM()
+androidx.compose.ui.Modifier$Node: int getAggregateChildKindSet$ui()
+androidx.compose.ui.platform.AndroidViewsHandler: java.util.HashMap getLayoutNodeToHolder()
+com.kyant.backdrop.ShapeProvider: java.lang.Float access$get_density$p(com.kyant.backdrop.ShapeProvider)
+com.kyant.backdrop.highlight.HighlightStyle$Companion: void getDefault$annotations()
+com.kyant.shapes.RoundedRectangularShape: com.kyant.shapes.RoundedCornerStyle getStyle()
+com.kyant.backdrop.BackdropEffectScopeImpl: float getDensity()
+com.kyant.backdrop.BackdropEffectScopeImpl: long toDpSize-k-rfVVM(long)
+com.kyant.backdrop.backdrops.LayerBackdropNode: void onGloballyPositioned(androidx.compose.ui.layout.LayoutCoordinates)
+com.kyant.backdrop.DrawBackdropElement: com.kyant.backdrop.backdrops.LayerBackdrop getExportedBackdrop()
+com.kyant.backdrop.BackdropEffectScopeImpl: float toDp-u2uoSUM(int)
+com.kyant.backdrop.backdrops.Backdrop: com.kyant.backdrop.Backdrop getBackdrop()
+com.kyant.backdrop.InverseLayerScope: androidx.compose.ui.geometry.Rect toRect(androidx.compose.ui.unit.DpRect)
+com.kyant.backdrop.DrawBackdropNode: void setOnDrawFront(kotlin.jvm.functions.Function1)
+com.kyant.backdrop.backdrops.LayerBackdropElement: java.lang.Object foldIn(java.lang.Object,kotlin.jvm.functions.Function2)
+androidx.core.view.WindowInsetsCompat$Impl: WindowInsetsCompat$Impl(androidx.core.view.WindowInsetsCompat)
+com.kyant.backdrop.backdrops.Combined3Backdrops: Combined3Backdrops(com.kyant.backdrop.Backdrop,com.kyant.backdrop.Backdrop,com.kyant.backdrop.Backdrop)
+androidx.graphics.path.PathIteratorImpl$Companion: PathIteratorImpl$Companion()
+androidx.compose.animation.core.PreconditionsKt: void throwIllegalStateException(java.lang.String)
+com.kyant.backdrop.BackdropEffectScope: float getPadding()
+com.kyant.backdrop.highlight.HighlightElement: boolean all(kotlin.jvm.functions.Function1)
+androidx.compose.ui.text.style.ResolvedTextDirection: androidx.compose.ui.text.style.ResolvedTextDirection[] values()
+com.kyant.backdrop.InverseLayerScope: void setSize-uvyYCjk(long)
+androidx.core.view.ViewCompat$Api28Impl: java.lang.CharSequence getAccessibilityPaneTitle(android.view.View)
+com.kyant.backdrop.BackdropEffectScope: float access$toPx-0680j_4$jd(com.kyant.backdrop.BackdropEffectScope,float)
+androidx.compose.ui.window.PopupLayout: void setParentLayoutCoordinates(androidx.compose.ui.layout.LayoutCoordinates)
+com.kyant.shapes.CopyRoundedRectangle: com.kyant.shapes.RoundedRectangularShape$Corners corners-Pq9zytI(long,androidx.compose.ui.unit.LayoutDirection,androidx.compose.ui.unit.Density)
+com.kyant.backdrop.InverseLayerScope: float getRotationY()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: WindowInsetsCompat$BuilderImpl29(androidx.core.view.WindowInsetsCompat)
+androidx.lifecycle.ProcessLifecycleInitializer: ProcessLifecycleInitializer()
+com.kyant.backdrop.highlight.HighlightStyle$Companion: com.kyant.backdrop.highlight.HighlightStyle$Plain getPlain()
+com.kyant.shapes.RoundedRectangularShape: com.kyant.shapes.RoundedCornerStyle access$getStyle$jd(com.kyant.shapes.RoundedRectangularShape)
+androidx.compose.material3.tokens.ShapeKeyTokens: androidx.compose.material3.tokens.ShapeKeyTokens valueOf(java.lang.String)
+com.kyant.backdrop.shadow.InnerShadowNode: boolean getShouldAutoInvalidate()
+androidx.core.view.WindowInsetsCompat$Impl20: boolean systemBarVisibilityEquals(int,int)
+androidx.profileinstaller.ProfileInstallReceiver: ProfileInstallReceiver()
+com.kyant.backdrop.BackdropEffectScope$DefaultImpls: float toDp-u2uoSUM(com.kyant.backdrop.BackdropEffectScope,float)
+com.kyant.backdrop.DrawBackdropNode: kotlin.Unit observeEffects$lambda$0(com.kyant.backdrop.DrawBackdropNode)
+com.kyant.backdrop.DrawBackdropElement: void inspectableProperties(androidx.compose.ui.platform.InspectorInfo)
+com.kyant.shapes.LerpRoundedRectangle: com.kyant.shapes.RoundedCornerStyle component4()
+androidx.compose.ui.Modifier$Node: boolean getShouldAutoInvalidate()
+com.kyant.shapes.RoundedRectangularShape$Corners: java.lang.String toString()
+androidx.compose.ui.platform.AbstractComposeView: boolean getShowLayoutBounds()
+androidx.compose.ui.text.internal.InlineClassHelperKt: void throwIllegalArgumentException(java.lang.String)
+com.kyant.backdrop.highlight.HighlightStyle$Ambient: HighlightStyle$Ambient()
+com.kyant.backdrop.InverseLayerScope: float getCameraDistance()
+androidx.compose.ui.platform.AbstractComposeView: void setViewCompositionStrategy(androidx.compose.ui.platform.ViewCompositionStrategy)
+androidx.compose.foundation.text.Handle: androidx.compose.foundation.text.Handle valueOf(java.lang.String)
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State valueOf(java.lang.String)
+com.kyant.backdrop.shadow.InnerShadow: long component3-0d7_KjU()
+androidx.compose.ui.node.ModifierNodeElement: java.lang.String getNameFallback()
+com.kyant.shapes.UnevenRoundedRectangle: UnevenRoundedRectangle(float,float,float,float,com.kyant.shapes.RoundedCornerStyle,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.compose.ui.platform.ViewLayer: float getCameraDistancePx()
+com.kyant.backdrop.DrawBackdropElement: boolean all(kotlin.jvm.functions.Function1)
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder$Companion: ContinuousCurvatureRoundedRectangleCornerBuilder$Companion()
+com.kyant.backdrop.InverseLayerScope: float getAlpha()
+com.kyant.backdrop.BackdropEffectScopeImpl: androidx.compose.ui.unit.LayoutDirection getLayoutDirection()
+androidx.compose.ui.focus.FocusStateImpl: androidx.compose.ui.focus.FocusStateImpl valueOf(java.lang.String)
+androidx.lifecycle.LegacySavedStateHandleController$OnRecreation: LegacySavedStateHandleController$OnRecreation()
+androidx.compose.foundation.text.selection.SelectionHandleAnchor: androidx.compose.foundation.text.selection.SelectionHandleAnchor valueOf(java.lang.String)
+com.kyant.backdrop.highlight.HighlightStyle$Plain: HighlightStyle$Plain(long,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.compose.ui.unit.ConstraintsKt: void throwInvalidConstraintException(int,int)
+com.kyant.shapes.RoundedRectangle: com.kyant.shapes.RoundedCornerStyle getStyle()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: ProcessLifecycleOwner$attach$1$onActivityPreCreated$1(androidx.lifecycle.ProcessLifecycleOwner)
+com.kyant.shapes.RectangleCornerRadiiKt: com.kyant.shapes.RectangleCornerRadii lerp(com.kyant.shapes.RectangleCornerRadii,com.kyant.shapes.RectangleCornerRadii,float)
+androidx.window.area.reflectionguard.ExtensionWindowAreaStatusRequirements: android.util.DisplayMetrics getWindowAreaDisplayMetrics()
+com.kyant.backdrop.DrawBackdropNode$effectScope$1: androidx.compose.ui.graphics.Shape getShape()
+androidx.core.view.WindowInsetsCompat$Impl34: WindowInsetsCompat$Impl34(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder access$getDefault$cp()
+com.kyant.backdrop.effects.ColorFilterKt: void colorControls$default(com.kyant.backdrop.BackdropEffectScope,float,float,float,int,java.lang.Object)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setStableInsets(androidx.core.graphics.Insets)
+com.kyant.backdrop.shadow.InnerShadow$Companion: InnerShadow$Companion()
+com.kyant.shapes.RoundedRectangularShape$Corners: boolean equals(java.lang.Object)
+com.kyant.shapes.RoundedRectangularShape$Corners: RoundedRectangularShape$Corners(float,float,float,float)
+com.kyant.backdrop.backdrops.LayerBackdrop: com.kyant.backdrop.InverseLayerScope obtainInverseLayerScope()
+com.kyant.backdrop.highlight.HighlightStyle$Default: HighlightStyle$Default(long,int,float,float,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.compose.ui.Modifier$Node: androidx.compose.ui.Modifier$Node getNode()
+com.kyant.shapes.LerpRoundedRectangle: com.kyant.shapes.LerpRoundedRectangle copy(com.kyant.shapes.RoundedRectangularShape,com.kyant.shapes.RoundedRectangularShape,float,com.kyant.shapes.RoundedCornerStyle)
+com.kyant.backdrop.BackdropEffectScope: long access$toSp-0xMU5do$jd(com.kyant.backdrop.BackdropEffectScope,float)
+com.kyant.backdrop.backdrops.LayerBackdropNode: void onLayoutDirectionChange()
+com.kyant.shapes.CopyRoundedRectangle: com.kyant.shapes.RoundedRectangularShape copy(com.kyant.shapes.RoundedCornerStyle)
+androidx.compose.ui.graphics.layer.ViewLayer: void setCanUseCompositingLayer$ui_graphics(boolean)
+com.kyant.backdrop.effects.BlurKt: void blur-3YTHUZs(com.kyant.backdrop.BackdropEffectScope,float,int)
+com.kyant.backdrop.BackdropEffectScope: void setRenderEffect(android.graphics.RenderEffect)
+com.kyant.backdrop.shadow.Shadow: float component4()
+com.kyant.backdrop.effects.ColorFilterKt: void vibrancy(com.kyant.backdrop.BackdropEffectScope)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreDestroyed(android.app.Activity)
+com.kyant.backdrop.shadow.Shadow: java.lang.String toString()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.SoftwareKeyboardController getSoftwareKeyboardController()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidClipboard getClipboard()
+androidx.compose.ui.platform.AndroidComposeView: void getTextInputService$annotations()
+com.kyant.shapes.UnevenRoundedRectangle: com.kyant.shapes.UnevenRoundedRectangle copy-lDy3nrA$default(com.kyant.shapes.UnevenRoundedRectangle,float,float,float,float,com.kyant.shapes.RoundedCornerStyle,int,java.lang.Object)
+com.kyant.shapes.Capsule: com.kyant.shapes.RoundedCornerStyle getStyle()
+androidx.core.view.ViewCompat$Api20Impl: void requestApplyInsets(android.view.View)
+com.kyant.backdrop.effects.ColorFilterKt: android.graphics.ColorFilter colorControlsColorFilter(float,float,float)
+com.kyant.backdrop.highlight.HighlightElement: kotlin.jvm.functions.Function0 getHighlight()
+kotlin.DeprecationLevel: kotlin.DeprecationLevel[] values()
+com.kyant.backdrop.BackdropEffectScopeImpl: long toSp-0xMU5do(float)
+androidx.core.view.WindowInsetsCompat$Impl30: boolean isVisible(int)
+com.kyant.shapes.Capsule: Capsule()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int)
+com.kyant.backdrop.DrawBackdropNode: void updateEffects()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemWindowInsets(androidx.core.graphics.Insets)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat inset(int,int,int,int)
+com.kyant.backdrop.BackdropEffectScope$DefaultImpls: int roundToPx--R2X_6o(com.kyant.backdrop.BackdropEffectScope,long)
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.activity.Api34Impl: float touchY(android.window.BackEvent)
+com.kyant.backdrop.shadow.Shadow$Companion: Shadow$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+com.kyant.backdrop.BackdropEffectScopeImpl: float toPx-0680j_4(float)
+com.kyant.backdrop.effects.ColorFilterKt: void exposureAdjustment(com.kyant.backdrop.BackdropEffectScope,float)
+com.kyant.backdrop.highlight.Highlight$Companion: void getPlain$annotations()
+androidx.core.view.WindowInsetsCompat$Impl21: void setStableInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.platform.ComposeView: boolean getShouldCreateCompositionOnAttachedToWindow()
+androidx.compose.ui.platform.AndroidComposeView: void getShowLayoutBounds$annotations()
+androidx.graphics.path.PathSegment$Type: androidx.graphics.path.PathSegment$Type[] $values()
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: WindowInsetsCompat$BuilderImpl20()
+androidx.core.view.ViewCompat$Api21Impl: void setOnApplyWindowInsetsListener(android.view.View,androidx.core.view.OnApplyWindowInsetsListener)
+androidx.graphics.path.ConicConverter: void setCurrentQuadratic(int)
+com.kyant.backdrop.InverseLayerScope: void setShape(androidx.compose.ui.graphics.Shape)
+com.kyant.shapes.RoundedRectangle: RoundedRectangle(float,com.kyant.shapes.RoundedCornerStyle,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.graphics.path.PathIteratorImpl: androidx.graphics.path.PathSegment next()
+com.kyant.backdrop.BackdropEffectScope: float toPx--R2X_6o(long)
+androidx.compose.foundation.layout.Direction: androidx.compose.foundation.layout.Direction valueOf(java.lang.String)
+com.kyant.shapes.RoundedRectangle: com.kyant.shapes.RoundedRectangularShape$Corners corners-Pq9zytI(long,androidx.compose.ui.unit.LayoutDirection,androidx.compose.ui.unit.Density)
+androidx.graphics.path.PathIteratorPreApi34Impl: boolean hasNext()
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.platform.AbstractComposeView getSubCompositionView()
+androidx.graphics.path.PathIteratorPreApi34Impl: void destroyInternalPathIterator(long)
+com.kyant.backdrop.BackdropEffectScope: androidx.compose.ui.geometry.Rect access$toRect$jd(com.kyant.backdrop.BackdropEffectScope,androidx.compose.ui.unit.DpRect)
+com.kyant.shapes.Rectangle: com.kyant.shapes.Rectangle copy(com.kyant.shapes.RoundedCornerStyle)
+com.kyant.backdrop.shadow.Shadow: long getColor-0d7_KjU()
+com.kyant.backdrop.backdrops.Combined3Backdrops: boolean isCoordinatesDependent()
+androidx.core.view.WindowInsetsCompat$TypeImpl34: int toPlatformType(int)
+com.kyant.backdrop.shadow.ShadowNode: void setShapeProvider(com.kyant.backdrop.ShapeProvider)
+androidx.activity.Api34Impl: int swipeEdge(android.window.BackEvent)
+com.kyant.backdrop.Backdrop: void drawBackdrop$default(com.kyant.backdrop.Backdrop,androidx.compose.ui.graphics.drawscope.DrawScope,androidx.compose.ui.unit.Density,androidx.compose.ui.layout.LayoutCoordinates,kotlin.jvm.functions.Function1,int,java.lang.Object)
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilderKt: double access$solveCubicSingle(double,double,double,double)
+com.kyant.backdrop.BackdropEffectScope$DefaultImpls: float toPx-0680j_4(com.kyant.backdrop.BackdropEffectScope,float)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidComposeView$ViewTreeOwners get_viewTreeOwners()
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isVisible(int)
+com.kyant.shapes.RectangleCornerRadii: float getTopEnd-D9Ej5fM()
+com.kyant.backdrop.BackdropEffectScope$DefaultImpls: long toDpSize-k-rfVVM(com.kyant.backdrop.BackdropEffectScope,long)
+com.kyant.backdrop.backdrops.EmptyBackdrop: void drawBackdrop(androidx.compose.ui.graphics.drawscope.DrawScope,androidx.compose.ui.unit.Density,androidx.compose.ui.layout.LayoutCoordinates,kotlin.jvm.functions.Function1)
+com.kyant.backdrop.shadow.InnerShadowElement: com.kyant.backdrop.ShapeProvider getShapeProvider()
+androidx.compose.ui.platform.AbstractComposeView: void setParentContext(androidx.compose.runtime.CompositionContext)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.unit.Density getDensity()
+com.kyant.backdrop.BackdropEffectScope$DefaultImpls: float toDp-GaN1DYA(com.kyant.backdrop.BackdropEffectScope,long)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.ClipboardManager getClipboardManager()
+com.kyant.backdrop.highlight.HighlightStyle$Default: float component4()
+com.kyant.backdrop.InverseLayerScope: float toPx-0680j_4(float)
+com.kyant.backdrop.shadow.InnerShadowNode: void onDetach()
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder$Companion: ContinuousCurvatureRoundedRectangleCornerBuilder$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+com.kyant.backdrop.InverseLayerScope: void setAlpha(float)
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: WindowInsetsCompat$BuilderImpl30(androidx.core.view.WindowInsetsCompat)
+androidx.compose.material.ripple.RippleHostView: void setRippleState(boolean)
+com.kyant.backdrop.highlight.Highlight$Companion: com.kyant.backdrop.highlight.Highlight getAmbient()
+androidx.compose.ui.platform.AbstractComposeView: void setPreviousAttachedWindowToken(android.os.IBinder)
+com.kyant.shapes.RoundedRectangularShape$Corners: float getBottomLeft()
+com.kyant.backdrop.DrawBackdropModifierKt: androidx.compose.ui.Modifier drawPlainBackdrop$default(androidx.compose.ui.Modifier,com.kyant.backdrop.Backdrop,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function1,com.kyant.backdrop.backdrops.LayerBackdrop,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function2,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function1,int,java.lang.Object)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setTappableElementInsets(androidx.core.graphics.Insets)
+com.kyant.backdrop.highlight.HighlightStyle$Ambient: int hashCode()
+com.kyant.backdrop.ShapeProvider: androidx.compose.ui.graphics.Shape getShape()
+androidx.graphics.path.PathIterator: androidx.graphics.path.PathIterator$ConicEvaluation getConicEvaluation()
+com.kyant.shapes.Rectangle: com.kyant.shapes.RoundedRectangularShape copy(com.kyant.shapes.RoundedCornerStyle)
+com.kyant.backdrop.effects.LensKt: float[] getCornerRadii(com.kyant.backdrop.BackdropEffectScope)
+androidx.compose.ui.platform.AndroidComposeView: int getImportantForAutofill()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.draganddrop.AndroidDragAndDropManager getDragAndDropManager()
+com.kyant.shapes.Capsule: com.kyant.shapes.Capsule copy(com.kyant.shapes.RoundedCornerStyle)
+androidx.compose.ui.platform.AndroidComposeView: long getMeasureIteration()
+com.kyant.shapes.LerpRoundedRectangle: boolean equals(java.lang.Object)
+com.kyant.backdrop.ShapeProvider: long access$get_size$p(com.kyant.backdrop.ShapeProvider)
+androidx.core.view.WindowInsetsCompat$BuilderImpl31: WindowInsetsCompat$BuilderImpl31()
+com.kyant.backdrop.shadow.InnerShadowNode: kotlin.Unit draw$lambda$1(androidx.compose.ui.graphics.Outline,androidx.compose.ui.graphics.Path,com.kyant.backdrop.shadow.InnerShadowNode,float,float,androidx.compose.ui.graphics.drawscope.DrawScope)
+com.kyant.backdrop.InverseLayerScope: long toSp-0xMU5do(float)
+com.kyant.backdrop.highlight.Highlight$Companion: Highlight$Companion()
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootViewData(androidx.core.graphics.Insets)
+com.kyant.backdrop.backdrops.LayerBackdropKt: kotlin.Unit DefaultOnDraw$lambda$0(androidx.compose.ui.graphics.drawscope.ContentDrawScope)
+com.kyant.shapes.CopyKt: com.kyant.shapes.UnevenRoundedRectangle copy(com.kyant.shapes.RoundedRectangularShape,com.kyant.shapes.RectangleCornerRadii,com.kyant.shapes.RoundedCornerStyle)
+androidx.compose.runtime.PreconditionsKt: void throwIllegalArgumentException(java.lang.String)
+androidx.compose.material3.SliderComponents: androidx.compose.material3.SliderComponents[] values()
+com.kyant.backdrop.highlight.Highlight: boolean equals(java.lang.Object)
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.layout.LayoutCoordinates getParentLayoutCoordinates()
+com.kyant.backdrop.DrawBackdropModifierKt: com.kyant.backdrop.highlight.Highlight DefaultHighlight$lambda$0()
+com.kyant.shapes.LerpKt: com.kyant.shapes.RoundedRectangularShape lerp(com.kyant.shapes.RoundedRectangularShape,com.kyant.shapes.RoundedRectangularShape,float,com.kyant.shapes.RoundedCornerStyle)
+androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicMinMax: androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicMinMax valueOf(java.lang.String)
+com.kyant.backdrop.shadow.InnerShadowNode: InnerShadowNode(com.kyant.backdrop.ShapeProvider,kotlin.jvm.functions.Function0)
+androidx.compose.foundation.text.selection.DownResolution: androidx.compose.foundation.text.selection.DownResolution valueOf(java.lang.String)
+com.kyant.backdrop.backdrops.LayerBackdropNode: void setBackdrop(com.kyant.backdrop.backdrops.LayerBackdrop)
+com.kyant.backdrop.BackdropEffectScope: int access$roundToPx-0680j_4$jd(com.kyant.backdrop.BackdropEffectScope,float)
+androidx.compose.ui.platform.actionmodecallback.MenuItemOption: androidx.compose.ui.platform.actionmodecallback.MenuItemOption[] values()
+com.kyant.backdrop.BackdropEffectScope: long toSize-XkaWNTQ(long)
+com.kyant.backdrop.shadow.Shadow: long component3-0d7_KjU()
+androidx.activity.Api34Impl: float touchX(android.window.BackEvent)
+com.kyant.shapes.UnevenRoundedRectangle: UnevenRoundedRectangle(float,float,float,float,com.kyant.shapes.RoundedCornerStyle,kotlin.jvm.internal.DefaultConstructorMarker)
+com.kyant.shapes.RoundedCornerStyle: RoundedCornerStyle(java.lang.String,int)
+com.kyant.backdrop.shadow.InnerShadowElement: java.lang.Object foldIn(java.lang.Object,kotlin.jvm.functions.Function2)
+com.kyant.backdrop.InverseLayerScope: long toSp-kPz2Gy4(int)
+com.kyant.backdrop.InverseLayerScope: long toSp-kPz2Gy4(float)
+androidx.core.view.WindowInsetsCompat$Impl: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+androidx.graphics.path.PathIteratorPreApi34Impl: PathIteratorPreApi34Impl(android.graphics.Path,androidx.graphics.path.PathIterator$ConicEvaluation,float,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.core.view.ViewCompat$Api21Impl$1: android.view.WindowInsets onApplyWindowInsets(android.view.View,android.view.WindowInsets)
+com.kyant.backdrop.DrawBackdropElement: kotlin.jvm.functions.Function1 getOnDrawSurface()
+androidx.core.app.RemoteActionCompat: RemoteActionCompat()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl()
+com.kyant.backdrop.BackdropEffectScopeImpl: androidx.compose.ui.geometry.Rect toRect(androidx.compose.ui.unit.DpRect)
+com.kyant.shapes.RoundedCornerStyle: com.kyant.shapes.RoundedCornerStyle[] values()
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: android.util.DisplayMetrics getRearDisplayMetrics()
+androidx.compose.foundation.text.TextContextMenuItems: androidx.compose.foundation.text.TextContextMenuItems[] values()
+com.kyant.backdrop.highlight.Highlight$Companion: com.kyant.backdrop.highlight.Highlight getDefault()
+com.kyant.backdrop.highlight.HighlightNode: void onAttach()
+com.kyant.backdrop.shadow.ShadowElement: void update(com.kyant.backdrop.shadow.ShadowNode)
+androidx.compose.ui.unit.InlineClassHelperKt: void throwIllegalStateException(java.lang.String)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: void setStableInsets(androidx.core.graphics.Insets)
+com.kyant.backdrop.shadow.ShadowElement: int hashCode()
+androidx.activity.Api34Impl: android.window.BackEvent createOnBackEvent(float,float,float,int)
+androidx.compose.foundation.internal.InlineClassHelperKt: void throwIllegalStateException(java.lang.String)
+androidx.compose.ui.layout.IntrinsicWidthHeight: androidx.compose.ui.layout.IntrinsicWidthHeight valueOf(java.lang.String)
+com.kyant.backdrop.highlight.HighlightStyle$Default: java.lang.String toString()
+com.kyant.backdrop.highlight.HighlightStyleKt: float[] getCornerRadii(androidx.compose.ui.graphics.drawscope.DrawScope,androidx.compose.ui.graphics.Shape)
+com.kyant.backdrop.shadow.ShadowElement: java.lang.Object foldOut(java.lang.Object,kotlin.jvm.functions.Function2)
+com.kyant.backdrop.InverseLayerScope: void setRotationX(float)
+androidx.compose.ui.platform.AndroidComposeView: void setFontFamilyResolver(androidx.compose.ui.text.font.FontFamily$Resolver)
+androidx.compose.ui.node.LookaheadPassDelegate$PlacedState: androidx.compose.ui.node.LookaheadPassDelegate$PlacedState[] values()
+com.apple.dock.MainActivity: MainActivity()
+com.kyant.backdrop.shadow.ShadowNode: void configurePaint(androidx.compose.ui.graphics.drawscope.DrawScope,com.kyant.backdrop.shadow.Shadow)
+com.kyant.backdrop.highlight.HighlightElement: com.kyant.backdrop.highlight.HighlightNode create()
+com.kyant.backdrop.shadow.Shadow: int hashCode()
+com.kyant.backdrop.InverseLayerScope: float getScaleX()
+androidx.activity.EdgeToEdgeApi21: void setUp(androidx.activity.SystemBarStyle,androidx.activity.SystemBarStyle,android.view.Window,android.view.View,boolean,boolean)
+com.kyant.backdrop.shadow.InnerShadow: float component4()
+androidx.profileinstaller.ProfileInstallerInitializer: ProfileInstallerInitializer()
+androidx.core.view.WindowInsetsCompat$Impl: boolean isRound()
+com.kyant.backdrop.InverseLayerScope: float getShadowElevation()
+androidx.compose.ui.Modifier$Node: kotlinx.coroutines.CoroutineScope getCoroutineScope()
+com.kyant.backdrop.backdrops.Combined2Backdrops: Combined2Backdrops(com.kyant.backdrop.Backdrop,com.kyant.backdrop.Backdrop)
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.unit.IntSize getPopupContentSize-bOM6tXw()
+com.kyant.backdrop.DrawBackdropNode: kotlin.jvm.functions.Function1 getOnDrawBehind()
+androidx.compose.ui.platform.AbstractComposeView: boolean getHasComposition()
+com.kyant.backdrop.backdrops.Combined3Backdrops: com.kyant.backdrop.Backdrop getBackdrop3()
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilderKt: double access$solveDepressedQuarticSingle(double,double,double)
+androidx.compose.foundation.gestures.DragDetectionState$AwaitDown$AwaitTouchSlop: androidx.compose.foundation.gestures.DragDetectionState$AwaitDown$AwaitTouchSlop valueOf(java.lang.String)
+com.kyant.backdrop.highlight.HighlightStyle$Ambient: android.graphics.Shader createShader(androidx.compose.ui.graphics.drawscope.DrawScope,androidx.compose.ui.graphics.Shape,com.kyant.backdrop.RuntimeShaderCache)
+com.kyant.backdrop.backdrops.LayerBackdropNode: void onDensityChange()
+com.kyant.backdrop.highlight.HighlightStyle$Plain: HighlightStyle$Plain(long,int)
+com.kyant.backdrop.InverseLayerScope: androidx.compose.ui.graphics.RenderEffect getRenderEffect()
+com.kyant.backdrop.DrawBackdropNode: void onGloballyPositioned(androidx.compose.ui.layout.LayoutCoordinates)
+androidx.core.view.WindowInsetsCompat$BuilderImpl34: WindowInsetsCompat$BuilderImpl34()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsetsIgnoringVisibility(int)
+androidx.compose.ui.platform.AndroidComposeView: boolean getShowLayoutBounds()
+androidx.graphics.path.PathIterator$ConicEvaluation: androidx.graphics.path.PathIterator$ConicEvaluation[] values()
+com.kyant.shapes.RoundedCornerStyle: kotlin.enums.EnumEntries getEntries()
+com.kyant.backdrop.DrawBackdropModifierKt: androidx.compose.ui.Modifier drawPlainBackdrop(androidx.compose.ui.Modifier,com.kyant.backdrop.Backdrop,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function1,com.kyant.backdrop.backdrops.LayerBackdrop,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function2,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function1)
+com.kyant.backdrop.shadow.Shadow: Shadow(float,long,long,float,int)
+androidx.core.view.WindowInsetsCompat$Impl: void setStableInsets(androidx.core.graphics.Insets)
+com.kyant.shapes.CopyRoundedRectangle: CopyRoundedRectangle(com.kyant.shapes.RoundedRectangularShape,float,float,float,float,com.kyant.shapes.RoundedCornerStyle,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityResumed(android.app.Activity)
+com.kyant.backdrop.DrawBackdropElement: boolean equals(java.lang.Object)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.graphics.GraphicsContext getGraphicsContext()
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.unit.LayoutDirection getParentLayoutDirection()
+androidx.compose.material.ripple.RippleHostView: void setRippleState$lambda$2(androidx.compose.material.ripple.RippleHostView)
+com.kyant.backdrop.effects.ColorFilterKt: void gammaAdjustment(com.kyant.backdrop.BackdropEffectScope,float)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+com.kyant.backdrop.BackdropEffectScope$DefaultImpls: float toDp-u2uoSUM(com.kyant.backdrop.BackdropEffectScope,int)
+com.kyant.shapes.RoundedRectangle: boolean equals(java.lang.Object)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.platform.AndroidComposeView: void setFrameEndScheduler$ui(androidx.compose.ui.platform.LifecycleRetainedValuesStoreOwner$FrameEndScheduler)
+androidx.compose.ui.platform.ViewLayer: void setCameraDistancePx(float)
+com.kyant.backdrop.highlight.HighlightStyle: android.graphics.Shader createShader(androidx.compose.ui.graphics.drawscope.DrawScope,androidx.compose.ui.graphics.Shape,com.kyant.backdrop.RuntimeShaderCache)
+com.kyant.backdrop.BackdropEffectScope: long toSp-kPz2Gy4(float)
+com.kyant.backdrop.BackdropEffectScope: long access$toSp-kPz2Gy4$jd(com.kyant.backdrop.BackdropEffectScope,int)
+androidx.window.area.reflectionguard.ExtensionWindowAreaPresentationRequirements: android.content.Context getPresentationContext()
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: ContinuousCurvatureRoundedRectangleCornerBuilder(double,double)
+com.kyant.backdrop.shadow.InnerShadowNode: void onLayoutDirectionChange()
+androidx.graphics.path.PathIteratorApi34Impl: PathIteratorApi34Impl(android.graphics.Path,androidx.graphics.path.PathIterator$ConicEvaluation,float,int,kotlin.jvm.internal.DefaultConstructorMarker)
+com.kyant.shapes.RectangleCornerRadii: com.kyant.shapes.RectangleCornerRadii copy-a9UjIt4$default(com.kyant.shapes.RectangleCornerRadii,float,float,float,float,int,java.lang.Object)
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.window.PopupPositionProvider getPositionProvider()
+androidx.compose.ui.Modifier$Node: void setAggregateChildKindSet$ui(int)
+com.kyant.backdrop.DrawBackdropModifierKt: com.kyant.backdrop.shadow.Shadow DefaultShadow$lambda$0()
+androidx.window.reflection.JFunction2: java.lang.Object apply(java.lang.Object)
+androidx.compose.runtime.ComposerKt: java.lang.Void composeRuntimeError(java.lang.String)
+com.kyant.shapes.CopyRoundedRectangle: float getBottomStart-D9Ej5fM()
+com.kyant.shapes.Rectangle: com.kyant.shapes.RoundedCornerStyle getStyle()
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: double[] buildCornerBezierPoints$default(com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder,double,double,int,java.lang.Object)
+androidx.compose.ui.platform.AbstractComposeView: void setAutoClearFocusBehavior-17tfJxM(int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemWindowInsets(androidx.core.graphics.Insets)
+com.kyant.backdrop.backdrops.CombinedBackdrops: CombinedBackdrops(com.kyant.backdrop.Backdrop[])
+com.kyant.backdrop.highlight.HighlightStyle$Plain: int getBlendMode-0nO6VwU()
+com.kyant.shapes.LerpRoundedRectangle: com.kyant.shapes.RoundedRectangularShape getStart()
+com.kyant.backdrop.ShapeProvider: androidx.compose.ui.graphics.Shape access$get_shape$p(com.kyant.backdrop.ShapeProvider)
+com.kyant.shapes.Rectangle: boolean equals(java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl31: WindowInsetsCompat$Impl31(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl31)
+com.kyant.backdrop.effects.ColorFilterKt: void opacity(com.kyant.backdrop.BackdropEffectScope,float)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.graphics.Insets getStableInsets()
+androidx.compose.runtime.Recomposer$State: androidx.compose.runtime.Recomposer$State valueOf(java.lang.String)
+androidx.graphics.path.ConicConverter: int internalConicToQuadratics(float[],int,float[],float,float)
+androidx.compose.ui.window.PopupLayout: boolean getCanCalculatePosition()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.RootForTest getRootForTest()
+com.kyant.shapes.CopyRoundedRectangle: com.kyant.shapes.RoundedCornerStyle getStyle()
+androidx.compose.ui.window.PopupLayout: void setLayoutDirection(int)
+com.kyant.backdrop.DrawBackdropNode: void observeEffects()
+androidx.compose.ui.Modifier$Node: void markAsAttached$ui()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.layout.Placeable$PlacementScope getPlacementScope()
+androidx.compose.foundation.internal.InlineClassHelperKt: java.lang.Void throwIllegalStateExceptionForNullCheck(java.lang.String)
+com.kyant.backdrop.DrawBackdropNode: void setOnDrawBehind(kotlin.jvm.functions.Function1)
+com.kyant.backdrop.highlight.HighlightElement: HighlightElement(com.kyant.backdrop.ShapeProvider,kotlin.jvm.functions.Function0)
+androidx.compose.ui.Modifier$Node: void markAsDetached$ui()
+androidx.graphics.path.PathIterator: int calculateSize(boolean)
+com.kyant.backdrop.shadow.Shadow: long component2-RKDOV3M()
+com.kyant.backdrop.Backdrop: boolean isCoordinatesDependent()
+androidx.graphics.path.PathIteratorImpl: float getTolerance()
+androidx.graphics.path.PathIteratorImpl: android.graphics.Path getPath()
+com.kyant.backdrop.backdrops.LayerBackdrop: void drawBackdrop(androidx.compose.ui.graphics.drawscope.DrawScope,androidx.compose.ui.unit.Density,androidx.compose.ui.layout.LayoutCoordinates,kotlin.jvm.functions.Function1)
+com.kyant.backdrop.shadow.InnerShadow: int hashCode()
+com.kyant.backdrop.highlight.HighlightStyle$Companion: void getAmbient$annotations()
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.compose.ui.platform.AndroidViewsHandler: java.util.HashMap getHolderToLayoutNode()
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons[] values()
+com.kyant.backdrop.shadow.Shadow$Companion: com.kyant.backdrop.shadow.Shadow getDefault()
+androidx.compose.ui.state.ToggleableState: androidx.compose.ui.state.ToggleableState[] values()
+androidx.compose.ui.platform.AndroidComposeView: androidx.collection.MutableIntObjectMap getLayoutNodes()
+com.kyant.backdrop.ShapeProvider$shape$1: ShapeProvider$shape$1(com.kyant.backdrop.ShapeProvider)
+com.kyant.backdrop.highlight.HighlightStyle$Plain: com.kyant.backdrop.highlight.HighlightStyle$Plain copy-xETnrds$default(com.kyant.backdrop.highlight.HighlightStyle$Plain,long,int,int,java.lang.Object)
+com.kyant.backdrop.InverseLayerScope: void setAmbientShadowColor-8_81llA(long)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState valueOf(java.lang.String)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction: androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction valueOf(java.lang.String)
+androidx.compose.ui.window.PopupLayout: android.view.View getViewRoot()
+com.kyant.shapes.Rectangle: androidx.compose.ui.graphics.Outline createOutline-Pq9zytI(long,androidx.compose.ui.unit.LayoutDirection,androidx.compose.ui.unit.Density)
+com.kyant.backdrop.BackdropEffectScopeImpl: float toPx--R2X_6o(long)
+com.kyant.backdrop.shadow.Shadow: com.kyant.backdrop.shadow.Shadow copy-Qp58iTY$default(com.kyant.backdrop.shadow.Shadow,float,long,long,float,int,int,java.lang.Object)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidComposeView$ViewTreeOwners getViewTreeOwners()
+com.kyant.backdrop.shadow.InnerShadowElement: java.lang.Object foldOut(java.lang.Object,kotlin.jvm.functions.Function2)
+com.kyant.backdrop.InverseLayerScope: long getAmbientShadowColor-0d7_KjU()
+com.kyant.backdrop.shadow.Shadow$Companion: void getDefault$annotations()
+androidx.graphics.path.PathIteratorPreApi34Impl: androidx.graphics.path.PathSegment$Type peek()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+com.kyant.backdrop.BackdropEffectScopeImpl: long toSize-XkaWNTQ(long)
+com.kyant.backdrop.DrawBackdropNode: void onObservedReadsChanged()
+androidx.core.view.WindowInsetsCompat$Impl20: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+androidx.compose.foundation.layout.Direction: androidx.compose.foundation.layout.Direction[] values()
+androidx.compose.ui.text.internal.InlineClassHelperKt: java.lang.Void throwIllegalStateExceptionForNullCheck(java.lang.String)
+com.kyant.backdrop.highlight.HighlightNode: com.kyant.backdrop.ShapeProvider getShapeProvider()
+com.kyant.backdrop.shadow.InnerShadowElement: void update(androidx.compose.ui.Modifier$Node)
+com.kyant.shapes.RectangleCornerRadii: RectangleCornerRadii(float,float,float,float)
+com.kyant.backdrop.backdrops.LayerBackdropNode: kotlin.Unit draw$lambda$0(com.kyant.backdrop.backdrops.LayerBackdropNode,androidx.compose.ui.graphics.drawscope.ContentDrawScope,androidx.compose.ui.graphics.drawscope.DrawScope)
+com.kyant.shapes.CopyRoundedRectangle: float getTopEnd-D9Ej5fM()
+androidx.core.view.WindowInsetsCompat$Impl: void setRootViewData(androidx.core.graphics.Insets)
+androidx.compose.ui.Modifier$Node: void setKindSet$ui(int)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getTappableElementInsets()
+com.kyant.backdrop.highlight.HighlightNode: kotlin.Unit draw$lambda$1(androidx.compose.ui.graphics.Outline,androidx.compose.ui.graphics.Path,com.kyant.backdrop.highlight.HighlightNode,androidx.compose.ui.graphics.drawscope.DrawScope)
+androidx.compose.foundation.text.HandleState: androidx.compose.foundation.text.HandleState[] values()
+com.kyant.backdrop.highlight.HighlightNode: void configurePaint(androidx.compose.ui.graphics.drawscope.DrawScope,com.kyant.backdrop.highlight.Highlight)
+com.kyant.backdrop.highlight.HighlightStyle$Plain: HighlightStyle$Plain(long,int,int,kotlin.jvm.internal.DefaultConstructorMarker)
+com.kyant.shapes.RectangleCornerRadii: float component4-D9Ej5fM()
+com.kyant.shapes.CopyRoundedRectangle: float component4-D9Ej5fM()
+com.kyant.backdrop.DrawBackdropNode: float getPadding()
+androidx.graphics.path.PathIteratorImpl: androidx.graphics.path.PathSegment$Type peek()
+androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicWidthHeight: androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicWidthHeight valueOf(java.lang.String)
+com.kyant.backdrop.InverseLayerScope: float getRotationZ()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getRootStableInsets()
+androidx.graphics.path.PathIteratorImpl: androidx.graphics.path.PathIterator$ConicEvaluation getConicEvaluation()
+androidx.window.reflection.Predicate2: boolean test(java.lang.Object)
+com.kyant.shapes.R: R()
+com.kyant.backdrop.highlight.HighlightStyle: long getColor-0d7_KjU()
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl29)
+androidx.emoji2.text.ConcurrencyHelpers$Handler28Impl: android.os.Handler createAsync(android.os.Looper)
+androidx.compose.ui.platform.AbstractComposeView: void setTransitionGroup(boolean)
+com.kyant.backdrop.BackdropEffectScopeImpl: float toDp-u2uoSUM(float)
+com.kyant.backdrop.backdrops.Combined3Backdrops: com.kyant.backdrop.Backdrop getBackdrop1()
+androidx.core.view.WindowInsetsCompat$Impl34: boolean isVisible(int)
+com.kyant.backdrop.DrawBackdropNode: kotlin.Unit drawBackdropLayer$lambda$0(com.kyant.backdrop.DrawBackdropNode,androidx.compose.ui.graphics.drawscope.DrawScope)
+androidx.compose.ui.unit.LayoutDirection: androidx.compose.ui.unit.LayoutDirection[] values()
+com.kyant.backdrop.ShapeProvider: void access$set_size$p(com.kyant.backdrop.ShapeProvider,long)
+com.kyant.backdrop.shadow.InnerShadowElement: boolean equals(java.lang.Object)
+androidx.compose.ui.graphics.layer.ViewLayer: void setInvalidated(boolean)
+androidx.graphics.path.PathSegment: android.graphics.PointF[] getPoints()
+com.kyant.backdrop.highlight.Highlight$Companion: void getDefault$annotations()
+androidx.compose.ui.Modifier$Node: void sideEffect(kotlin.jvm.functions.Function0)
+com.kyant.shapes.LerpRoundedRectangle: LerpRoundedRectangle(com.kyant.shapes.RoundedRectangularShape,com.kyant.shapes.RoundedRectangularShape,float,com.kyant.shapes.RoundedCornerStyle)
+androidx.compose.ui.window.PopupLayout: kotlin.jvm.functions.Function2 getContent()
+com.kyant.backdrop.BackdropEffectScope: androidx.compose.ui.graphics.Shape getShape()
+com.kyant.backdrop.RuntimeShaderCacheImpl: RuntimeShaderCacheImpl()
+com.kyant.shapes.RoundedRectangularShape$Corners: float component2()
+androidx.graphics.path.PathSegment$Type: androidx.graphics.path.PathSegment$Type[] values()
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: androidx.window.extensions.area.ExtensionWindowAreaPresentation getRearDisplayPresentation()
+androidx.compose.ui.graphics.layer.view.PlaceholderHardwareCanvas: boolean isHardwareAccelerated()
+androidx.compose.ui.platform.ComposeView: void getShouldCreateCompositionOnAttachedToWindow$annotations()
+androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicWidthHeight: androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicWidthHeight[] values()
+androidx.compose.ui.focus.CustomDestinationResult: androidx.compose.ui.focus.CustomDestinationResult valueOf(java.lang.String)
+com.kyant.backdrop.BackdropEffectScope: float access$toPx--R2X_6o$jd(com.kyant.backdrop.BackdropEffectScope,long)
+com.kyant.backdrop.highlight.HighlightNode: void setHighlight(kotlin.jvm.functions.Function0)
+androidx.compose.ui.platform.AndroidComposeView: void getLastMatrixRecalculationAnimationTime$ui$annotations()
+com.kyant.backdrop.backdrops.EmptyBackdrop: EmptyBackdrop()
+androidx.compose.ui.Modifier$Node: void setOwnerScope$ui(androidx.compose.ui.node.ObserverNodeOwnerScope)
+com.kyant.backdrop.DrawBackdropNode: kotlin.Unit recordBackdropBlock$lambda$0(com.kyant.backdrop.DrawBackdropNode,androidx.compose.ui.graphics.drawscope.DrawScope)
+com.kyant.backdrop.InverseLayerScope: float getTranslationX()
+com.kyant.backdrop.backdrops.CanvasBackdrop: kotlin.jvm.functions.Function1 getOnDraw()
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+com.kyant.backdrop.highlight.Highlight$Companion: com.kyant.backdrop.highlight.Highlight getPlain()
+com.kyant.backdrop.backdrops.Backdrop: kotlin.Unit drawBackdrop$lambda$0(com.kyant.backdrop.backdrops.Backdrop,androidx.compose.ui.unit.Density,androidx.compose.ui.layout.LayoutCoordinates,kotlin.jvm.functions.Function1,androidx.compose.ui.graphics.drawscope.DrawScope)
+androidx.compose.ui.platform.AndroidComposeViewAssistHelperMethodsO: void setClassName(android.view.ViewStructure,android.view.View)
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.unit.IntRect getVisibleDisplayBounds()
+androidx.compose.ui.platform.AndroidComposeView: void setDensity(androidx.compose.ui.unit.Density)
+com.kyant.backdrop.DrawBackdropElement: void update(com.kyant.backdrop.DrawBackdropNode)
+com.kyant.shapes.RoundedRectangleOutlineKt: androidx.compose.ui.graphics.Path continuousCurvatureRoundedRectanglePath-LjSzlW0$default(long,float,float,float,float,androidx.compose.ui.graphics.Path,int,java.lang.Object)
+androidx.graphics.path.PathIteratorImpl$Companion: PathIteratorImpl$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+com.kyant.backdrop.backdrops.LayerBackdropElement: boolean all(kotlin.jvm.functions.Function1)
+com.kyant.backdrop.shadow.ShadowElement: boolean all(kotlin.jvm.functions.Function1)
+com.kyant.backdrop.BackdropEffectScope: float toPx-0680j_4(float)
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.graphics.path.PathSegment: androidx.graphics.path.PathSegment$Type getType()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.input.indirect.IndirectPointerEventPrimaryDirectionalMotionAxis getPrimaryDirectionalMotionAxisOverride-dqNNBbU$ui()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.LayoutNode getRoot()
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl(androidx.core.view.WindowInsetsCompat)
+androidx.activity.OnBackPressedDispatcher$Api33Impl: void registerOnBackInvokedCallback(java.lang.Object,int,java.lang.Object)
+com.kyant.backdrop.shadow.InnerShadowKt: com.kyant.backdrop.shadow.InnerShadow lerp(com.kyant.backdrop.shadow.InnerShadow,com.kyant.backdrop.shadow.InnerShadow,float)
+com.kyant.backdrop.ShadersKt: java.lang.String getRoundedRectRefractionWithDispersionShaderString()
+com.kyant.shapes.RoundedRectangularShape$Corners: float component3()
+com.kyant.backdrop.InverseLayerScope: void setClip(boolean)
+com.kyant.backdrop.shadow.InnerShadowNode: void onAttach()
+com.kyant.shapes.UnevenRoundedRectangle: com.kyant.shapes.UnevenRoundedRectangle copy-lDy3nrA(float,float,float,float,com.kyant.shapes.RoundedCornerStyle)
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart valueOf(java.lang.String)
+androidx.compose.ui.Modifier$Node: boolean isKind-H91voCI$ui(int)
+com.kyant.shapes.RoundedCornerStyle: com.kyant.shapes.RoundedCornerStyle valueOf(java.lang.String)
+com.kyant.backdrop.DrawBackdropNode: void onDetach()
+androidx.graphics.path.PathIteratorImplKt: androidx.graphics.path.PathSegment$Type[] access$getPathSegmentTypes$p()
+com.kyant.backdrop.DrawBackdropNode: kotlin.Unit draw$lambda$0$0(com.kyant.backdrop.DrawBackdropNode,androidx.compose.ui.graphics.drawscope.DrawScope)
+androidx.compose.ui.platform.AndroidComposeView: void getFontLoader$annotations()
+com.kyant.backdrop.highlight.Highlight$Companion: void getAmbient$annotations()
+com.kyant.backdrop.effects.BlurKt: void blur-3YTHUZs$default(com.kyant.backdrop.BackdropEffectScope,float,int,int,java.lang.Object)
+androidx.graphics.path.PathIterator: int calculateSize$default(androidx.graphics.path.PathIterator,boolean,int,java.lang.Object)
+com.kyant.shapes.RoundedRectangle: com.kyant.shapes.RoundedRectangularShape copy(com.kyant.shapes.RoundedCornerStyle)
+com.kyant.backdrop.backdrops.LayerBackdropNode: LayerBackdropNode(com.kyant.backdrop.backdrops.LayerBackdrop)
+com.kyant.backdrop.shadow.InnerShadow: long getOffset-RKDOV3M()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.autofill.Autofill getAutofill()
+androidx.graphics.path.PathIterator: PathIterator(android.graphics.Path,androidx.graphics.path.PathIterator$ConicEvaluation,float)
+com.kyant.backdrop.shadow.InnerShadow$Companion: void getDefault$annotations()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityStopped(android.app.Activity)
+kotlinx.coroutines.android.AndroidExceptionPreHandler: AndroidExceptionPreHandler()
+com.kyant.shapes.RectangleCornerRadii: float getBottomEnd-D9Ej5fM()
+com.kyant.backdrop.DrawBackdropElement: boolean any(kotlin.jvm.functions.Function1)
+androidx.compose.ui.Modifier$Node: void setParent$ui(androidx.compose.ui.Modifier$Node)
+androidx.compose.ui.platform.AndroidComposeView: void setPrimaryDirectionalMotionAxisOverride-r2epLt8$ui(androidx.compose.ui.input.indirect.IndirectPointerEventPrimaryDirectionalMotionAxis)
+com.kyant.backdrop.InverseLayerScope: void setRenderEffect(androidx.compose.ui.graphics.RenderEffect)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.contentcapture.AndroidContentCaptureManager getContentCaptureManager$ui()
+com.kyant.backdrop.DrawBackdropNode: void invalidateDrawCache()
+androidx.core.view.WindowInsetsCompat$Impl20: void loadReflectionField()
+com.kyant.shapes.Capsule: androidx.compose.ui.graphics.Outline createOutline-Pq9zytI(long,androidx.compose.ui.unit.LayoutDirection,androidx.compose.ui.unit.Density)
+androidx.compose.ui.Modifier$Node: void runDetachLifecycle$ui()
+com.kyant.backdrop.InverseLayerScope: androidx.compose.ui.graphics.ColorFilter getColorFilter()
+com.kyant.backdrop.highlight.HighlightElement: void inspectableProperties(androidx.compose.ui.platform.InspectorInfo)
+com.kyant.backdrop.backdrops.Combined2Backdrops: boolean isCoordinatesDependent()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.geometry.Rect getEmbeddedViewFocusRect()
+com.kyant.backdrop.highlight.Highlight: float getAlpha()
+com.kyant.shapes.UnevenRoundedRectangle: com.kyant.shapes.UnevenRoundedRectangle copy(com.kyant.shapes.RoundedCornerStyle)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: void setSystemWindowInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand: androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand[] values()
+androidx.core.view.ViewCompat$Api28Impl: boolean isAccessibilityHeading(android.view.View)
+androidx.compose.ui.node.ModifierNodeElement: java.lang.Object getValueOverride()
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType[] values()
+androidx.compose.ui.platform.AbstractComposeView: void getShowLayoutBounds$annotations()
+com.kyant.backdrop.backdrops.LayerBackdropNode: void onMeasureResultChanged()
+com.kyant.backdrop.DrawBackdropElement: kotlin.jvm.functions.Function2 getOnDrawBackdrop()
+com.kyant.backdrop.ShapeProvider: kotlin.jvm.functions.Function0 getShapeBlock()
+androidx.compose.ui.graphics.AndroidPath_androidKt: void throwIllegalStateException(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl: int hashCode()
+com.kyant.backdrop.highlight.HighlightStyle$Default: int getBlendMode-0nO6VwU()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getInsets(int)
+androidx.graphics.path.PathIteratorPreApi34Impl: int internalPathIteratorNext(long,float[],int)
+androidx.compose.ui.graphics.Path$Direction: androidx.compose.ui.graphics.Path$Direction valueOf(java.lang.String)
+androidx.graphics.path.PathSegment: java.lang.String toString()
+androidx.compose.ui.window.PopupLayout: void getParams$ui$annotations()
+com.kyant.backdrop.shadow.ShadowElement: boolean equals(java.lang.Object)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.LayoutNodeDrawScope getSharedDrawScope()
+androidx.compose.ui.platform.AndroidComposeViewVerificationHelperMethodsO: void focusable(android.view.View,int,boolean)
+com.kyant.shapes.RoundedCornerStyle: com.kyant.shapes.RoundedCornerStyle[] $values()
+com.kyant.backdrop.BackdropEffectScopeImpl: void setRenderEffect(android.graphics.RenderEffect)
+com.kyant.backdrop.DrawBackdropElement: com.kyant.backdrop.DrawBackdropNode create()
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void addRearDisplayPresentationStatusListener(androidx.window.extensions.core.util.function.Consumer)
+com.kyant.backdrop.shadow.InnerShadowElement: void inspectableProperties(androidx.compose.ui.platform.InspectorInfo)
+com.kyant.backdrop.BackdropEffectScope$DefaultImpls: int roundToPx-0680j_4(com.kyant.backdrop.BackdropEffectScope,float)
+androidx.activity.EdgeToEdgeApi30: void adjustLayoutInDisplayCutoutMode(android.view.Window)
+androidx.compose.material3.MinimumInteractiveModifier: MinimumInteractiveModifier()
+com.kyant.shapes.RectangleCornerRadii: float component1-D9Ej5fM()
+androidx.compose.ui.platform.AndroidComposeView: void setAccessibilityEventBatchIntervalMillis(long)
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilderKt: double solveCubicSingle(double,double,double,double)
+com.kyant.backdrop.InverseLayerScope: void setFontScale(float)
+androidx.startup.InitializationProvider: InitializationProvider()
+androidx.compose.ui.platform.AndroidComposeView: kotlin.coroutines.CoroutineContext getCoroutineContext()
+androidx.compose.ui.platform.AndroidComposeView: void setShowLayoutBounds(boolean)
+androidx.core.view.WindowInsetsCompat$BuilderImpl34: WindowInsetsCompat$BuilderImpl34(androidx.core.view.WindowInsetsCompat)
+androidx.graphics.path.PathIterator: androidx.graphics.path.PathSegment$Type next(float[])
+androidx.compose.foundation.text.selection.CrossStatus: androidx.compose.foundation.text.selection.CrossStatus valueOf(java.lang.String)
+com.kyant.backdrop.shadow.InnerShadow: InnerShadow(float,long,long,float,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostStarted(android.app.Activity)
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: double getArcFraction()
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.compose.ui.Modifier$Node: androidx.compose.ui.Modifier$Node getParent$ui()
+com.kyant.shapes.CopyRoundedRectangle: androidx.compose.ui.graphics.Outline createOutline-Pq9zytI(long,androidx.compose.ui.unit.LayoutDirection,androidx.compose.ui.unit.Density)
+com.kyant.shapes.Rectangle: int hashCode()
+androidx.compose.ui.contentcapture.ContentCaptureEventType: androidx.compose.ui.contentcapture.ContentCaptureEventType[] values()
+androidx.compose.ui.internal.InlineClassHelperKt: void throwIllegalArgumentException(java.lang.String)
+com.kyant.backdrop.highlight.HighlightElement: void update(com.kyant.backdrop.highlight.HighlightNode)
+com.kyant.shapes.LerpRoundedRectangle: com.kyant.shapes.RoundedRectangularShape copy(com.kyant.shapes.RoundedCornerStyle)
+androidx.compose.ui.graphics.layer.ViewLayer: boolean getCanUseCompositingLayer$ui_graphics()
+androidx.compose.foundation.layout.IntrinsicSize: androidx.compose.foundation.layout.IntrinsicSize[] values()
+com.kyant.shapes.RoundedRectangleOutlineKt: androidx.compose.ui.graphics.Path continuousCurvatureRoundedRectanglePath-LjSzlW0(long,float,float,float,float,androidx.compose.ui.graphics.Path)
+com.kyant.shapes.UnevenRoundedRectangle: boolean equals(java.lang.Object)
+androidx.compose.ui.node.LayoutNode$UsageByParent: androidx.compose.ui.node.LayoutNode$UsageByParent[] values()
+androidx.versionedparcelable.CustomVersionedParcelable: CustomVersionedParcelable()
+com.kyant.backdrop.DrawBackdropNode: kotlin.jvm.functions.Function1 getOnDrawFront()
+com.kyant.backdrop.highlight.HighlightStyle$Default: float getFalloff()
+com.kyant.shapes.Rectangle: Rectangle()
+com.kyant.backdrop.shadow.InnerShadowElement: boolean any(kotlin.jvm.functions.Function1)
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+com.kyant.shapes.LerpKt: com.kyant.shapes.RoundedRectangularShape lerp(com.kyant.shapes.RoundedRectangularShape,com.kyant.shapes.RoundedRectangularShape,float)
+com.kyant.backdrop.backdrops.CanvasBackdrop: boolean isCoordinatesDependent()
+com.kyant.backdrop.highlight.HighlightStyle$Default: com.kyant.backdrop.highlight.HighlightStyle$Default copy-UVf8vpc(long,int,float,float)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.OutOfFrameExecutor getOutOfFrameExecutor()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.text.input.TextInputService getTextInputService()
+com.kyant.shapes.CopyRoundedRectangle: com.kyant.shapes.RoundedCornerStyle component6()
+androidx.compose.ui.platform.AndroidComposeView: android.view.View getView()
+com.kyant.backdrop.shadow.InnerShadowNode: void onMeasureResultChanged()
+com.kyant.backdrop.backdrops.CombinedBackdropKt: com.kyant.backdrop.Backdrop rememberCombinedBackdrop(com.kyant.backdrop.Backdrop,com.kyant.backdrop.Backdrop,androidx.compose.runtime.Composer,int)
+com.kyant.backdrop.highlight.HighlightStyle$Default: com.kyant.backdrop.highlight.HighlightStyle$Default copy-UVf8vpc$default(com.kyant.backdrop.highlight.HighlightStyle$Default,long,int,float,float,int,java.lang.Object)
+com.kyant.backdrop.highlight.HighlightElement: androidx.compose.ui.Modifier$Node create()
+com.kyant.backdrop.backdrops.LayerBackdrop: void setLayerCoordinates$backdrop(androidx.compose.ui.layout.LayoutCoordinates)
+com.kyant.backdrop.InverseLayerScope: void inverseTransformAtTopLeft(androidx.compose.ui.graphics.drawscope.DrawTransform,float,float,float)
+com.kyant.backdrop.shadow.InnerShadowElement: boolean all(kotlin.jvm.functions.Function1)
+com.kyant.backdrop.DrawBackdropNode: com.kyant.backdrop.Backdrop getBackdrop()
+androidx.graphics.path.PathIteratorPreApi34Impl: androidx.graphics.path.PathSegment$Type next(float[],int)
+com.kyant.backdrop.shadow.Shadow: int getBlendMode-0nO6VwU()
+androidx.compose.ui.platform.ViewLayer: long getLayerId()
+kotlinx.coroutines.flow.SharingCommand: kotlinx.coroutines.flow.SharingCommand valueOf(java.lang.String)
+com.kyant.backdrop.highlight.Highlight: com.kyant.backdrop.highlight.Highlight copy-i1RSzL4(float,float,float,com.kyant.backdrop.highlight.HighlightStyle)
+com.kyant.backdrop.BackdropEffectScope: float access$toDp-GaN1DYA$jd(com.kyant.backdrop.BackdropEffectScope,long)
+com.kyant.backdrop.highlight.HighlightStyle$Companion: HighlightStyle$Companion()
+com.kyant.shapes.UnevenRoundedRectangle: UnevenRoundedRectangle(float,float,float,float,com.kyant.shapes.RoundedCornerStyle)
+androidx.compose.foundation.text.contextmenu.modifier.ToolbarHandlerState: androidx.compose.foundation.text.contextmenu.modifier.ToolbarHandlerState valueOf(java.lang.String)
+androidx.graphics.path.PathIterator: void remove()
+androidx.compose.material3.tokens.ShapeKeyTokens: androidx.compose.material3.tokens.ShapeKeyTokens[] values()
+com.kyant.backdrop.backdrops.LayerBackdrop: LayerBackdrop(androidx.compose.ui.graphics.layer.GraphicsLayer,kotlin.jvm.functions.Function1)
+com.kyant.backdrop.highlight.HighlightStyle$Default: long component1-0d7_KjU()
+com.kyant.backdrop.InverseLayerScope: void reset()
+com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder: double[] buildEvenCornerBezierPoints$default(com.kyant.shapes.ContinuousCurvatureRoundedRectangleCornerBuilder,double,int,java.lang.Object)
+com.kyant.backdrop.backdrops.CanvasBackdropKt: com.kyant.backdrop.Backdrop rememberCanvasBackdrop(kotlin.jvm.functions.Function1,androidx.compose.runtime.Composer,int)
+com.kyant.shapes.LerpRoundedRectangle: androidx.compose.ui.graphics.Outline createOutline-Pq9zytI(long,androidx.compose.ui.unit.LayoutDirection,androidx.compose.ui.unit.Density)
+com.kyant.backdrop.InverseLayerScope: void setRotationZ(float)
+kotlin.LazyThreadSafetyMode: kotlin.LazyThreadSafetyMode[] values()
+com.kyant.backdrop.BackdropEffectScopeImpl: boolean update(androidx.compose.ui.graphics.drawscope.DrawScope)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.autofill.AutofillManager getAutofillManager()
+com.kyant.backdrop.BackdropEffectScopeImpl: android.graphics.RuntimeShader obtainRuntimeShader(java.lang.String,java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getStableInsets()
+com.kyant.backdrop.DrawBackdropModifierKt: kotlin.Unit DefaultOnDrawBackdrop$lambda$0(androidx.compose.ui.graphics.drawscope.DrawScope,kotlin.jvm.functions.Function1)
+com.kyant.backdrop.effects.RenderEffectKt: void effect(com.kyant.backdrop.BackdropEffectScope,androidx.compose.ui.graphics.RenderEffect)
+com.kyant.backdrop.DrawBackdropNode$effectScope$1: DrawBackdropNode$effectScope$1(com.kyant.backdrop.DrawBackdropNode)
+androidx.compose.ui.internal.InlineClassHelperKt: java.lang.Void throwIllegalStateExceptionForNullCheck(java.lang.String)
+androidx.compose.material3.SliderComponents: androidx.compose.material3.SliderComponents valueOf(java.lang.String)
+com.kyant.backdrop.InverseLayerScope: int roundToPx-0680j_4(float)
+com.kyant.shapes.RoundedRectangularShape: com.kyant.shapes.RoundedRectangularShape$Corners corners-Pq9zytI(long,androidx.compose.ui.unit.LayoutDirection,androidx.compose.ui.unit.Density)
+androidx.graphics.path.PathIteratorPreApi34Impl: long createInternalPathIterator(android.graphics.Path,int,float)
+com.kyant.backdrop.InverseLayerScope: float getFontScale()
+com.kyant.shapes.LerpRoundedRectangle: java.lang.String toString()
+androidx.compose.ui.focus.CustomDestinationResult: androidx.compose.ui.focus.CustomDestinationResult[] values()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStarted(android.app.Activity)
+androidx.compose.ui.platform.AndroidComposeView: void setUncaughtExceptionHandler$ui(androidx.compose.ui.node.RootForTest$UncaughtExceptionHandler)
+androidx.graphics.path.PathIteratorImpl: android.graphics.PointF[] floatsToPoints(float[],androidx.graphics.path.PathSegment$Type)
+com.kyant.backdrop.DrawBackdropNode: com.kyant.backdrop.ShapeProvider getShapeProvider()
+com.kyant.backdrop.backdrops.CombinedBackdropKt: com.kyant.backdrop.Backdrop rememberCombinedBackdrop(com.kyant.backdrop.Backdrop[],androidx.compose.runtime.Composer,int)
+com.kyant.shapes.RoundedRectangularShape: com.kyant.shapes.RoundedRectangularShape copy(com.kyant.shapes.RoundedCornerStyle)
+com.kyant.backdrop.InverseLayerScope: void setTranslationX(float)
+androidx.compose.ui.graphics.layer.ViewLayer: androidx.compose.ui.graphics.CanvasHolder getCanvasHolder()
+com.kyant.backdrop.DrawBackdropNode: void setExportedBackdrop(com.kyant.backdrop.backdrops.LayerBackdrop)
+com.kyant.backdrop.effects.LensKt: java.lang.Void throwUnsupportedSDFException()
+com.kyant.backdrop.effects.LensKt: void lens(com.kyant.backdrop.BackdropEffectScope,float,float,boolean,boolean)
+com.kyant.backdrop.backdrops.CombinedBackdrops: boolean isCoordinatesDependent()
+com.kyant.backdrop.shadow.InnerShadow: java.lang.String toString()
+com.kyant.backdrop.highlight.Highlight: com.kyant.backdrop.highlight.Highlight copy-i1RSzL4$default(com.kyant.backdrop.highlight.Highlight,float,float,float,com.kyant.backdrop.highlight.HighlightStyle,int,java.lang.Object)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostResumed(android.app.Activity)
+com.kyant.backdrop.backdrops.LayerBackdropElement: boolean any(kotlin.jvm.functions.Function1)
+androidx.compose.ui.Modifier$Node: void setChild$ui(androidx.compose.ui.Modifier$Node)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.input.InputModeManager getInputModeManager()
+com.kyant.backdrop.shadow.InnerShadow: com.kyant.backdrop.shadow.InnerShadow copy-Qp58iTY(float,long,long,float,int)
+androidx.compose.runtime.retain.impl.PreconditionsKt: void throwIllegalStateException(java.lang.String)
+com.kyant.backdrop.highlight.HighlightNode: boolean getShouldAutoInvalidate()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidComposeView getOutOfFrameExecutor()
+androidx.compose.ui.util.ListUtilsKt: void throwUnsupportedOperationException(java.lang.String)
+androidx.compose.material3.internal.InputPhase: androidx.compose.material3.internal.InputPhase[] values()
+androidx.compose.ui.layout.IntrinsicWidthHeight: androidx.compose.ui.layout.IntrinsicWidthHeight[] values()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemGestureInsets(androidx.core.graphics.Insets)
+com.kyant.backdrop.highlight.HighlightStyle$Default: android.graphics.Shader createShader(androidx.compose.ui.graphics.drawscope.DrawScope,androidx.compose.ui.graphics.Shape,com.kyant.backdrop.RuntimeShaderCache)
+androidx.compose.material3.tokens.ColorSchemeKeyTokens: androidx.compose.material3.tokens.ColorSchemeKeyTokens valueOf(java.lang.String)
+com.kyant.backdrop.BackdropEffectScopeImpl: float getPadding()
+com.kyant.backdrop.shadow.InnerShadowElement: kotlin.jvm.functions.Function0 getShadow()
+androidx.compose.foundation.layout.IntrinsicSize: androidx.compose.foundation.layout.IntrinsicSize valueOf(java.lang.String)
+com.kyant.backdrop.highlight.HighlightStyle$Ambient: HighlightStyle$Ambient(float)
+com.kyant.backdrop.DrawBackdropModifierKt: androidx.compose.ui.Modifier drawBackdrop$default(androidx.compose.ui.Modifier,com.kyant.backdrop.Backdrop,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function1,com.kyant.backdrop.backdrops.LayerBackdrop,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function2,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function1,int,java.lang.Object)
+com.kyant.shapes.RoundedRectangleOutlineKt: androidx.compose.ui.graphics.Path continuousCurvatureRoundedRectanglePath-Pq9zytI(long,float,androidx.compose.ui.graphics.Path)
+androidx.graphics.path.ConicConverter: boolean nextQuadratic$default(androidx.graphics.path.ConicConverter,float[],int,int,java.lang.Object)
+com.kyant.shapes.Capsule: boolean equals(java.lang.Object)
+androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicMinMax: androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicMinMax valueOf(java.lang.String)
+androidx.compose.runtime.SlotTableKt: void throwConcurrentModificationException()
+com.kyant.backdrop.BackdropEffectScope: float toDp-u2uoSUM(float)
+com.kyant.backdrop.highlight.Highlight: float getWidth-D9Ej5fM()
+com.kyant.backdrop.InverseLayerScope: int getCompositingStrategy--NrFUSI()
+com.kyant.shapes.CopyKt: com.kyant.shapes.RoundedRectangle copy-lG28NQ4(com.kyant.shapes.RoundedRectangularShape,float,com.kyant.shapes.RoundedCornerStyle)
+androidx.core.view.ViewCompat$Api30Impl: java.lang.CharSequence getStateDescription(android.view.View)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.layout.InsetsListener getInsetsListener()
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+com.kyant.backdrop.backdrops.LayerBackdropElement: int hashCode()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setInsets(int,androidx.core.graphics.Insets)
+com.kyant.backdrop.highlight.HighlightNode: HighlightNode(com.kyant.backdrop.ShapeProvider,kotlin.jvm.functions.Function0)
+com.kyant.shapes.Capsule: Capsule(com.kyant.shapes.RoundedCornerStyle,int,kotlin.jvm.internal.DefaultConstructorMarker)
+com.kyant.backdrop.BackdropEffectScopeImpl: void setDensity(float)
+com.kyant.backdrop.InverseLayerScope: void setSpotShadowColor-8_81llA(long)
+com.kyant.shapes.RoundedRectangularShape$Corners: com.kyant.shapes.RoundedRectangularShape$Corners copy$default(com.kyant.shapes.RoundedRectangularShape$Corners,float,float,float,float,int,java.lang.Object)
+com.kyant.backdrop.backdrops.Combined2Backdrops: com.kyant.backdrop.Backdrop getBackdrop2()
+com.kyant.backdrop.BackdropEffectScopeImpl: long toSp-kPz2Gy4(int)
+com.kyant.backdrop.DrawBackdropNode: void draw(androidx.compose.ui.graphics.drawscope.ContentDrawScope)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostStarted(android.app.Activity)
+com.kyant.shapes.RectangleCornerRadii: boolean equals(java.lang.Object)
+androidx.activity.EdgeToEdgeApi29: void setUp(androidx.activity.SystemBarStyle,androidx.activity.SystemBarStyle,android.view.Window,android.view.View,boolean,boolean)
+com.kyant.shapes.RoundedRectangle: float getCornerRadius-D9Ej5fM()
+com.kyant.backdrop.BackdropEffectScopeImpl: void reset()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreStopped(android.app.Activity)
+androidx.graphics.path.PathIterator: PathIterator(android.graphics.Path,androidx.graphics.path.PathIterator$ConicEvaluation,float,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.compose.runtime.PreconditionsKt: void throwIllegalStateException(java.lang.String)
+androidx.graphics.path.PathIterator: java.lang.Object next()
+com.kyant.backdrop.BackdropEffectScope$DefaultImpls: androidx.compose.ui.geometry.Rect toRect(com.kyant.backdrop.BackdropEffectScope,androidx.compose.ui.unit.DpRect)
+com.kyant.backdrop.shadow.ShadowNode: ShadowNode(com.kyant.backdrop.ShapeProvider,kotlin.jvm.functions.Function0)
+com.kyant.backdrop.shadow.Shadow: int component5-0nO6VwU()
+androidx.compose.ui.Modifier$Node: void getShouldAutoInvalidate$annotations()
+com.kyant.backdrop.highlight.Highlight: float getBlurRadius-D9Ej5fM()
+com.kyant.backdrop.ShapeProvider: void access$set_density$p(com.kyant.backdrop.ShapeProvider,java.lang.Float)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.OwnerSnapshotObserver getSnapshotObserver()
+com.kyant.backdrop.shadow.Shadow$Companion: Shadow$Companion()
+androidx.graphics.path.ConicConverter: boolean nextQuadratic(float[],int)
+androidx.graphics.path.PathSegmentUtilities: androidx.graphics.path.PathSegment getDoneSegment()
+com.kyant.backdrop.highlight.HighlightStyle$Plain: boolean equals(java.lang.Object)
+com.kyant.backdrop.shadow.Shadow: boolean equals(java.lang.Object)
+com.kyant.backdrop.shadow.InnerShadowNode: void drawMaskedShadow(androidx.compose.ui.graphics.drawscope.DrawScope,androidx.compose.ui.graphics.Outline,androidx.compose.ui.graphics.layer.GraphicsLayer)
+androidx.compose.ui.platform.AndroidComposeViewTranslationCallbackS: void setViewTranslationCallback(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl: boolean isConsumed()
+androidx.graphics.path.PathIteratorApi34Impl: boolean hasNext()
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isRound()
+com.kyant.backdrop.DrawBackdropElement: java.lang.Object foldOut(java.lang.Object,kotlin.jvm.functions.Function2)
+com.kyant.shapes.LerpRoundedRectangle: com.kyant.shapes.RoundedRectangularShape$Corners corners-Pq9zytI(long,androidx.compose.ui.unit.LayoutDirection,androidx.compose.ui.unit.Density)
+com.kyant.backdrop.shadow.InnerShadowElement: int hashCode()
+com.kyant.backdrop.DrawBackdropNode: void setBackdrop(com.kyant.backdrop.Backdrop)
+androidx.compose.ui.platform.AndroidComposeViewTranslationCallbackS: void clearViewTranslationCallback(android.view.View)
+com.kyant.backdrop.backdrops.LayerBackdropNode: com.kyant.backdrop.backdrops.LayerBackdrop getBackdrop()
+androidx.compose.material3.internal.TextFieldType: androidx.compose.material3.internal.TextFieldType valueOf(java.lang.String)
+androidx.window.reflection.Consumer2: void accept(java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl28: int hashCode()
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+com.kyant.backdrop.shadow.InnerShadowNode: void setShapeProvider(com.kyant.backdrop.ShapeProvider)
+com.kyant.backdrop.BackdropEffectScopeImpl: int roundToPx--R2X_6o(long)
+androidx.compose.ui.platform.ViewLayer: androidx.compose.ui.graphics.Path getManualClipPath()
+androidx.compose.ui.platform.ComposeView: void setContent(kotlin.jvm.functions.Function2)
+androidx.core.view.WindowInsetsCompat$BuilderImpl34: void setInsets(int,androidx.core.graphics.Insets)
+com.kyant.backdrop.DrawBackdropElement: kotlin.jvm.functions.Function1 getEffects()
+com.kyant.backdrop.DrawBackdropElement: int hashCode()
+com.kyant.backdrop.backdrops.LayerBackdropElement: com.kyant.backdrop.backdrops.LayerBackdropNode create()
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void startRearDisplaySession(android.app.Activity,androidx.window.extensions.core.util.function.Consumer)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.semantics.SemanticsOwner getSemanticsOwner()
+androidx.compose.runtime.PausedCompositionState: androidx.compose.runtime.PausedCompositionState valueOf(java.lang.String)
+androidx.emoji2.text.EmojiCompatInitializer: EmojiCompatInitializer()
+com.kyant.backdrop.highlight.HighlightElement: void update(androidx.compose.ui.Modifier$Node)
+com.kyant.backdrop.DrawBackdropNode: kotlin.jvm.functions.Function1 getOnDrawSurface()
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: androidx.core.view.WindowInsetsCompat build()
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: WindowInsetsCompat$BuilderImpl20(androidx.core.view.WindowInsetsCompat)
+com.kyant.backdrop.InverseLayerScope: void setTransformOrigin-__ExYCQ(long)
+com.kyant.backdrop.backdrops.LayerBackdropElement: java.lang.Object foldOut(java.lang.Object,kotlin.jvm.functions.Function2)

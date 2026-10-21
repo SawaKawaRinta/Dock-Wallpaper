@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.apple.dock.app-debug-40:/drawable-v24_ic_launcher_foreground.png.flat",
+        "source": "com.apple.dock.app-main-42:/drawable-v24/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.apple.dock.app-debug-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.apple.dock.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.apple.dock.app-debug-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.apple.dock.app-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.apple.dock.app-debug-40:/drawable_ic_launcher_background.xml.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.apple.dock.app-main-42:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.apple.dock.app-debug-40:/drawable-v24_ic_launcher_foreground.png.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.apple.dock.app-main-42:/drawable-v24/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.apple.dock.app-debug-40:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.apple.dock.app-main-42:/drawable-v24/ic_launcher_foreground.xml"
+    }
+]

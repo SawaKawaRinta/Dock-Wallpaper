@@ -1,0 +1,296 @@
+package com.apple.dock.Implementation
+
+import android.graphics.Shader
+import android.os.Build
+import androidx.compose.foundation.shape.AbsoluteRoundedCornerShape
+import androidx.compose.foundation.shape.CornerBasedShape
+import androidx.compose.ui.unit.LayoutDirection
+import androidx.compose.ui.util.fastCoerceAtLeast
+import androidx.compose.ui.util.fastCoerceAtMost
+import com.kyant.backdrop.BackdropEffectScope
+import com.kyant.backdrop.effects.blur
+import com.kyant.backdrop.effects.effect
+import com.kyant.backdrop.effects.lens
+import com.kyant.shapes.RoundedRectangularShape
+import kotlin.math.sqrt
+
+/* ======================================================================
+ *  玻璃模糊 / 折射的自定义实现
+ *
+ *  1) 模糊：边缘填充 + 原生多遍高斯
+ *     Dock 离屏幕边缘只有几十像素，模糊半径一大，边缘就会采样到「屏幕外」的透明像素。
+ *     普通模糊把透明也平均进去 → alpha 被拉低 → 玻璃变透明 → 透出下面没模糊的壁纸。
+ *     做法：模糊前先用一个「边缘填充」pass 把透明区域用附近真实内容填满并强制不透明，
+ *     再交给系统原生 createBlurEffect 做高斯（Skia 对大半径会自动降采样，是真正的高斯，
+ *     不会出现稀疏采样那种鬼影/台阶）。
+ *     HyperOS 的原生模糊半径 >90px 会崩坏，所以拆成多遍 <=85px 串联（σ_total = σ_pass·√n）。
+ *
+ *  2) 折射：2x2 超采样
+ *     折射会把像素拉开，点采样会出台阶。这里每个像素取 4 个子采样点平均；
+ *     采样越界（屏幕外没有内容）时回退到本像素。
+ * ====================================================================== */
+
+private const val NATIVE_BLUR_SAFE_LIMIT = 85f
+private const val MAX_BLUR_PASSES = 6
+
+/**
+ * 边缘填充：把透明区域用附近真实内容补上，并强制不透明。
+ * 这样后面的高斯模糊就不会把「透明」平均进来。
+ */
+private const val EdgeFillShader = """
+uniform shader content;
+uniform float reach;
+
+half4 takeBest(half4 best, half4 s) {
+    if (s.a > best.a) {
+        return s;
+    }
+    return best;
+}
+
+half4 main(float2 coord) {
+    half4 c = content.eval(coord);
+    if (c.a > 0.99) {
+        return c;
+    }
+    float r = reach;
+    float d = r * 0.7071;
+    half4 best = c;
+    best = takeBest(best, content.eval(coord + float2(r, 0.0)));
+    best = takeBest(best, content.eval(coord + float2(-r, 0.0)));
+    best = takeBest(best, content.eval(coord + float2(0.0, r)));
+    best = takeBest(best, content.eval(coord + float2(0.0, -r)));
+    best = takeBest(best, content.eval(coord + float2(d, d)));
+    best = takeBest(best, content.eval(coord + float2(-d, d)));
+    best = takeBest(best, content.eval(coord + float2(d, -d)));
+    best = takeBest(best, content.eval(coord + float2(-d, -d)));
+    if (best.a > 0.05) {
+        return half4(best.rgb / best.a, 1.0);
+    }
+    return c;
+}
+"""
+
+fun BackdropEffectScope.highRadiusBlur(radius: Float) {
+    val r = radius.coerceAtLeast(0f)
+    if (r <= 0f) return
+
+    if (Build.VERSION.SDK_INT < Build.VERSION_CODES.S) {
+        blur(r)
+        padding = r
+        return
+    }
+
+    val pad = (r * 0.9f).coerceAtMost(240f)
+
+    // 1) 边缘填充（API 33+ 才有 RuntimeShader）
+    if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
+        try {
+            val shader = obtainRuntimeShader("DockEdgeFill", EdgeFillShader)
+            shader.setFloatUniform("reach", pad * 1.2f + 80f)
+            effect(
+                android.graphics.RenderEffect.createRuntimeShaderEffect(shader, "content")
+            )
+        } catch (_: Throwable) {
+            // 填充失败就跳过，最多是边缘略虚
+        }
+    }
+
+    // 2) 原生多遍高斯
+    val passes = if (r <= NATIVE_BLUR_SAFE_LIMIT) {
+        1
+    } else {
+        val ratio = r / NATIVE_BLUR_SAFE_LIMIT
+        ((ratio * ratio).toInt() + 1).coerceIn(2, MAX_BLUR_PASSES)
+    }
+    val perPass = (r / sqrt(passes.toFloat())).coerceAtMost(NATIVE_BLUR_SAFE_LIMIT)
+
+    repeat(passes) {
+        effect(
+            android.graphics.RenderEffect.createBlurEffect(
+                perPass,
+                perPass,
+                Shader.TileMode.CLAMP
+            )
+        )
+    }
+
+    padding = pad.toInt().toFloat()
+}
+
+/* ------------------------------ 折射（2x2 超采样） ------------------------------ */
+
+private const val RoundedRectSdfShader = """
+float radiusAt(float2 coord, float4 radii) {
+    if (coord.x >= 0.0) {
+        if (coord.y <= 0.0) return radii.y;
+        else return radii.z;
+    } else {
+        if (coord.y <= 0.0) return radii.x;
+        else return radii.w;
+    }
+}
+
+float sdRoundedRect(float2 coord, float2 halfSize, float radius) {
+    float2 cornerCoord = abs(coord) - (halfSize - float2(radius));
+    float outside = length(max(cornerCoord, 0.0)) - radius;
+    float inside = min(max(cornerCoord.x, cornerCoord.y), 0.0);
+    return outside + inside;
+}
+
+float2 gradSdRoundedRect(float2 coord, float2 halfSize, float radius) {
+    float2 cornerCoord = abs(coord) - (halfSize - float2(radius));
+    if (cornerCoord.x >= 0.0 || cornerCoord.y >= 0.0) {
+        return sign(coord) * normalize(max(cornerCoord, 0.0));
+    } else {
+        float gradX = step(cornerCoord.y, cornerCoord.x);
+        return sign(coord) * float2(gradX, 1.0 - gradX);
+    }
+}
+"""
+
+private const val RefractionLensShader = """
+uniform shader content;
+
+uniform float2 size;
+uniform float2 offset;
+uniform float4 cornerRadii;
+uniform float refractionHeight;
+uniform float refractionAmount;
+uniform float depthEffect;
+uniform float maxShift;
+
+$RoundedRectSdfShader
+
+half4 sampleLinear(float2 p) {
+    float2 b = floor(p);
+    float2 f = p - b;
+    half4 c00 = content.eval(b);
+    half4 c10 = content.eval(b + float2(1.0, 0.0));
+    half4 c01 = content.eval(b + float2(0.0, 1.0));
+    half4 c11 = content.eval(b + float2(1.0, 1.0));
+    half4 cx0 = mix(c00, c10, f.x);
+    half4 cx1 = mix(c01, c11, f.x);
+    return mix(cx0, cx1, f.y);
+}
+
+float circleMap(float x) {
+    return 1.0 - sqrt(1.0 - x * x);
+}
+
+half4 main(float2 coord) {
+    float2 halfSize = size * 0.5;
+    float2 centeredCoord = (coord + offset) - halfSize;
+    float radius = radiusAt(coord, cornerRadii);
+
+    float sd = sdRoundedRect(centeredCoord, halfSize, radius);
+    if (-sd >= refractionHeight) {
+        return content.eval(coord);
+    }
+    sd = min(sd, 0.0);
+
+    float d = circleMap(1.0 - -sd / refractionHeight) * refractionAmount;
+    d = maxShift * tanh(d / maxShift);
+    float gradRadius = min(radius * 1.5, min(halfSize.x, halfSize.y));
+    float2 grad = normalize(gradSdRoundedRect(centeredCoord, halfSize, gradRadius) + depthEffect * normalize(centeredCoord));
+
+    float2 base = coord + d * grad;
+
+    // 2x2 超采样 + 手写双线性（AGSL 的 content.eval 是最近邻，折射后必出台阶）
+    float2 o = float2(0.5, 0.5);
+    half4 c0 = sampleLinear(base + float2(-o.x, -o.y));
+    half4 c1 = sampleLinear(base + float2(o.x, -o.y));
+    half4 c2 = sampleLinear(base + float2(-o.x, o.y));
+    half4 c3 = sampleLinear(base + float2(o.x, o.y));
+
+    half4 res = (c0 + c1 + c2 + c3) * 0.25;
+    float cover = clamp(res.a * 2.0, 0.0, 1.0);
+    half4 plain = content.eval(coord);
+    return mix(plain, res, cover);
+}
+"""
+
+/**
+ * 带 2x2 超采样的折射，替代库的 lens()。
+ * 参数语义与 lens() 完全一致；色散开启时退回库实现（这里只做无彩色版本）。
+ */
+fun BackdropEffectScope.refractionLens(
+    refractionHeight: Float,
+    refractionAmount: Float,
+    depthEffect: Boolean = false,
+    chromaticAberration: Boolean = false
+) {
+    if (refractionHeight <= 0f || refractionAmount <= 0f) return
+
+    if (chromaticAberration || Build.VERSION.SDK_INT < Build.VERSION_CODES.TIRAMISU) {
+        lens(refractionHeight, refractionAmount, depthEffect, chromaticAberration)
+        return
+    }
+
+    val radii = currentCornerRadii()
+
+    try {
+        if (radii == null) {
+            lens(refractionHeight, refractionAmount, depthEffect, chromaticAberration)
+            return
+        }
+
+        if (padding > 0f) {
+            padding = (padding - refractionHeight).fastCoerceAtLeast(0f)
+        }
+
+        padding = padding.toInt().toFloat()
+        val maxShift = (padding * 0.9f).coerceAtLeast(80f)
+
+        val shader = obtainRuntimeShader("DockLensSS", RefractionLensShader)
+        shader.setFloatUniform("size", size.width, size.height)
+        shader.setFloatUniform("offset", -padding, -padding)
+        shader.setFloatUniform("maxShift", maxShift)
+        shader.setFloatUniform("cornerRadii", radii[0], radii[1], radii[2], radii[3])
+        shader.setFloatUniform("refractionHeight", refractionHeight)
+        shader.setFloatUniform("refractionAmount", -refractionAmount)
+        shader.setFloatUniform("depthEffect", if (depthEffect) 1f else 0f)
+        effect(android.graphics.RenderEffect.createRuntimeShaderEffect(shader, "content"))
+    } catch (_: Throwable) {
+        lens(refractionHeight, refractionAmount, depthEffect, chromaticAberration)
+    }
+}
+
+private fun BackdropEffectScope.currentCornerRadii(): FloatArray? = when (val s = shape) {
+    is RoundedRectangularShape -> {
+        val corners = s.corners(size, layoutDirection, this)
+        floatArrayOf(
+            corners.topLeft,
+            corners.topRight,
+            corners.bottomRight,
+            corners.bottomLeft
+        )
+    }
+
+    is AbsoluteRoundedCornerShape -> {
+        val maxRadius = size.minDimension / 2f
+        floatArrayOf(
+            s.topStart.toPx(size, this).fastCoerceAtMost(maxRadius),
+            s.topEnd.toPx(size, this).fastCoerceAtMost(maxRadius),
+            s.bottomEnd.toPx(size, this).fastCoerceAtMost(maxRadius),
+            s.bottomStart.toPx(size, this).fastCoerceAtMost(maxRadius)
+        )
+    }
+
+    is CornerBasedShape -> {
+        val maxRadius = size.minDimension / 2f
+        val isLtr = layoutDirection == LayoutDirection.Ltr
+        val topLeft = if (isLtr) s.topStart.toPx(size, this) else s.topEnd.toPx(size, this)
+        val topRight = if (isLtr) s.topEnd.toPx(size, this) else s.topStart.toPx(size, this)
+        val bottomRight = if (isLtr) s.bottomEnd.toPx(size, this) else s.bottomStart.toPx(size, this)
+        val bottomLeft = if (isLtr) s.bottomStart.toPx(size, this) else s.bottomEnd.toPx(size, this)
+        floatArrayOf(
+            topLeft.fastCoerceAtMost(maxRadius),
+            topRight.fastCoerceAtMost(maxRadius),
+            bottomRight.fastCoerceAtMost(maxRadius),
+            bottomLeft.fastCoerceAtMost(maxRadius)
+        )
+    }
+
+    else -> null
+}
